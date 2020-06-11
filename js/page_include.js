@@ -73,8 +73,7 @@ if (browser_lang !== "en") {
 
         // load vavilon JS
         var element2 = document.createElement("script");
-        // TODO: self-host on assets
-        element2.src = "https://cdn.jsdelivr.net/npm/vavilon@1/dist/vavilon.min.js";
+        element2.src = "https://assets.hcaptcha.com/website-tr-js/vavilon.min.js";
         document.body.appendChild(element2);
 
         // probably unnecessary
@@ -82,3 +81,6 @@ if (browser_lang !== "en") {
             setLang(browser_lang)
         }, 750);
 };
+
+// only required if el exists
+document.getElementById("switch-to-english").href = "javascript:setLang('en');";
