@@ -1,7 +1,7 @@
 {
     "acc-opt": "Eri\u015filebilirlik Se\u00e7enekleri",
     "acc-opt-but": "Eri\u015filebilirlik se\u00e7enekleri hakk\u0131nda daha fazla bilgi edinin",
-    "acc-opt-text": "G\u00f6rme engelli veya hCaptcha&#39;lar\u0131 tamamlayam\u0131yor musunuz?",
+    "acc-opt-text": "G\u00f6rme engelli veya hCaptcha'lar\u0131 tamamlayam\u0131yor musunuz?",
     "accessibility-link": "Ula\u015f\u0131labilirlik",
     "appreciate-in": "Verdi\u011finiz katk\u0131 i\u00e7in te\u015fekk\u00fcr ederiz. Herhangi bir sorunu bize bildirin, h\u0131zl\u0131 bir \u015fekilde \u00e7\u00f6zece\u011fiz.",
     "fb-but": "Bize geri bildirim g\u00f6nderin",
@@ -13,9 +13,9 @@
     "priv-hc": "Gizlilik Odakl\u0131",
     "priv-hc-text": "Reklam a\u011flar\u0131 sizi \u00fcr\u00fcn olarak g\u00f6r\u00fcr. Biz bilmiyoruz. Kullan\u0131c\u0131lar\u0131n kim oldu\u011funu umursam\u0131yoruz, sadece k\u00f6t\u00fc niyetli olma olas\u0131l\u0131klar\u0131. Privacy Pass gibi giri\u015fimleri destekliyoruz ve gizlilik ile g\u00fcvenli\u011fi dengelemek i\u00e7in \u00e7ok \u00e7al\u0131\u015f\u0131yoruz.",
     "sec-hc": "\u00d6nce G\u00fcvenlik",
-    "sec-hc-text": "hCaptcha yay\u0131nc\u0131 odakl\u0131. Sitelere ger\u00e7ek veriler vermek ve bunlar\u0131 nas\u0131l kullanacaklar\u0131na karar vermelerine izin vermek i\u00e7in \u00e7al\u0131\u015f\u0131yoruz. Do\u011fruluk sizin ve bizim ilginizdedir. Di\u011fer captcha&#39;lar reklam \u015firketleri taraf\u0131ndan sa\u011flan\u0131r. Engelledikleri her bot gelirlerini d\u00fc\u015f\u00fcrebilir.",
+    "sec-hc-text": "hCaptcha yay\u0131nc\u0131 odakl\u0131. Sitelere ger\u00e7ek veriler vermek ve bunlar\u0131 nas\u0131l kullanacaklar\u0131na karar vermelerine izin vermek i\u00e7in \u00e7al\u0131\u015f\u0131yoruz. Do\u011fruluk sizin ve bizim ilginizdedir. Di\u011fer captcha'lar reklam \u015firketleri taraf\u0131ndan sa\u011flan\u0131r. Engelledikleri her bot gelirlerini d\u00fc\u015f\u00fcrebilir.",
     "what-is-hcaptcha": "HCaptcha nedir?",
-    "what-is-hcaptcha-text": "hCaptcha, insanlar i\u00e7in kolay ve makineler i\u00e7in zor olan basit sorular sorarak en sevdi\u011finiz web hizmetlerinin botlar\u0131, spam&#39;lar\u0131 ve k\u00f6t\u00fcye kullan\u0131mlar\u0131 \u00f6nlemesine yard\u0131mc\u0131 olur.",
+    "what-is-hcaptcha-text": "hCaptcha, insanlar i\u00e7in kolay ve makineler i\u00e7in zor olan basit sorular sorarak en sevdi\u011finiz web hizmetlerinin botlar\u0131, spam'lar\u0131 ve k\u00f6t\u00fcye kullan\u0131mlar\u0131 \u00f6nlemesine yard\u0131mc\u0131 olur.",
     "why-hc": "Neden hCaptcha?",
     "why-hc-text": "Bir zorlu\u011fa her cevap verdi\u011finizde, insan m\u0131 yoksa makine mi oldu\u011funuzu anlamak i\u00e7in sofistike modeller kullan\u0131yoruz. Ziyaret etti\u011finiz web sitesi daha sonra bu sonucu, botlar\u0131 d\u0131\u015far\u0131da b\u0131rakarak sitelerindeki deneyiminizi iyile\u015ftirmek i\u00e7in kullan\u0131r."
 }
