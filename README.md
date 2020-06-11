@@ -1,2 +1,3 @@
 # website-i18n
-Translations for website
+Translations for hCaptcha website
+
