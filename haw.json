@@ -1,5 +1,20 @@
 {
+    "acc-opt": "N\u0101 koho koho",
+    "acc-opt-but": "E a\u02bbo hou e pili ana i n\u0101 koho koho",
+    "acc-opt-text": "Ua pilikia paha \u02bboe i \u02bbole e hiki ke ho\u02bbopau i ka hCaptchas?",
     "accessibility-link": "\u02bbA\u02bbohe k\u016bpono",
+    "appreciate-in": "Mahalo m\u0101kou i k\u0101u helu. E \u02bbike i\u0101 m\u0101kou i kekahi pilikia a e ho\u02bboponopono koke m\u0101kou i\u0101 l\u0101kou.",
+    "fb-but": "E ho\u02bbouna i k\u0101 m\u0101kou no\u02bbono\u02bbo",
+    "feedback-text": "H\u0101\u02bbawi i ka \u02bb\u014dlelo no\u02bbono\u02bbo ma ka hCaptcha \u0101u i \u02bbike ai",
+    "page-acc-link-1": "In\u0101 he mea ho\u02bbohana \u02bboe i ka ho\u02bbohana \u02bbia, e \u02bbolu\u02bbolu e k\u0101kau ma \u02bbane\u02bbi.",
+    "page-acc-subhead": "E h\u014d\u02bboia\u02bbi\u02bbo i ka komo pono \u02bbana no ka mea ho\u02bbohana a pau i ka m\u0101lama \u02bbana i ka palekana",
+    "page-acc-title": "hCaptcha \u02bbikepili \u02bbike",
+    "priv-hc": "Kulekele \u02bbia",
+    "priv-hc-text": "E \u02bbike i n\u0101 \u02bboihana p\u016bnaewele uila e like me k\u0101 l\u0101kou huahana. \u02bbA\u02bbole m\u0101kou. \u02bbA\u02bbole m\u0101kou e n\u0101n\u0101 i n\u0101 mea ho\u02bbohana, \u02bboiai pehea wale l\u0101kou e h\u014d\u02bbino ai. K\u0101ko\u02bbo m\u0101kou i n\u0101 hana e like me Pass Pass, a ho\u02bboikaika nui e k\u016bpa\u02bba i ka pilikino a me ka palekana.",
+    "sec-hc": "Ke \u02bbOi aku ka palekana",
+    "sec-hc-text": "hCaptcha kahi mea pili i ho\u02bbopuka. Hana m\u0101kou e h\u0101\u02bbawi i n\u0101 p\u016bnaewele i n\u0101 \u02bbikepili maoli a e ho\u02bboholo i\u0101 l\u0101kou e ho\u02bbohana. \u02bbO ka pololei ke k\u016bpono a me k\u0101 m\u0101kou. H\u0101\u02bbawi \u02bbia n\u0101 captchas e n\u0101 hui ho\u02bbolaha. Hiki i k\u0113l\u0101 me k\u0113ia mea momona ke h\u014d\u02bbemi i k\u0101 l\u0101kou loa\u02bba k\u0101l\u0101.",
     "what-is-hcaptcha": "He aha ka hCaptcha?",
-    "what-is-hcaptcha-text": "H\u0101\u02bbawi ka hCaptcha i n\u0101 lawelawe p\u016bnaewele punaewele e h\u016bn\u0101 i n\u0101 bots, spam, a me ka h\u014d\u02bbino \u02bbana e ka n\u012bnau \u02bbana i n\u0101 n\u012bnau ma\u02bbalahi e ma\u02bbalahi i n\u0101 po\u02bbe a me ka pa\u02bbakik\u012b no n\u0101 m\u012bkini."
+    "what-is-hcaptcha-text": "H\u0101\u02bbawi ka hCaptcha i n\u0101 lawelawe p\u016bnaewele punaewele e h\u016bn\u0101 i n\u0101 bots, spam, a me ka h\u014d\u02bbino \u02bbana e ka n\u012bnau \u02bbana i n\u0101 n\u012bnau ma\u02bbalahi e ma\u02bbalahi i n\u0101 po\u02bbe a me ka pa\u02bbakik\u012b no n\u0101 m\u012bkini.",
+    "why-hc": "No ke aha hCaptcha?",
+    "why-hc-text": "I k\u0113l\u0101 me k\u0113ia manawa e pane \u02bboe i kahi lu\u02bbu, ho\u02bbohana m\u0101kou i n\u0101 hi\u02bbohi\u02bbona hi\u02bbohi\u02bbona e \u02bbike ai in\u0101 he kanaka \u02bboe a he m\u012bkini. \u02bbO ka p\u016bnaewele \u0101u i kipa ai e ho\u02bbohana i k\u0113ia hopena e k\u014dkua i ka ho\u02bbomaika\u02bbi \u02bbana i kou \u02bbike ma k\u0101 l\u0101kou p\u016bnaewele me ka m\u0101lama \u02bbana i n\u0101 bots."
 }

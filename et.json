@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Juurdep\u00e4\u00e4setavuse valikud",
+    "acc-opt-but": "Lisateave h\u00f5lbustusv\u00f5imaluste kohta",
+    "acc-opt-text": "Kas olete n\u00e4gemispuudega v\u00f5i ei ole muul viisil v\u00f5imeline hCaptchasit l\u00f5pule viima?",
     "accessibility-link": "Juurdep\u00e4\u00e4setavus",
+    "appreciate-in": "Hindame teie panust. Andke meile teada k\u00f5igist probleemidest ja lahendame need kiiresti.",
+    "fb-but": "Saatke meile tagasisidet",
+    "feedback-text": "Andke tagasisidet \u00e4sja n\u00e4htud hCaptcha kohta",
+    "page-acc-link-1": "Kui olete juurdep\u00e4\u00e4setavuse kasutaja, registreeruge siin.",
+    "page-acc-subhead": "K\u00f5igile kasutajatele sujuva juurdep\u00e4\u00e4su tagamine, tagades samas turvalisuse",
+    "page-acc-title": "hCaptcha juurdep\u00e4\u00e4setavuse teave",
+    "priv-hc": "Privaatsusele keskendunud",
+    "priv-hc-text": "Reklaamiv\u00f5rgustikud n\u00e4evad teid kui oma toodet. Me ei tee seda. Me ei hooli sellest, kes kasutajad on, ainult sellest, kui t\u00f5en\u00e4oline on, et nad on pahatahtlikud. Toetame selliseid algatusi nagu Privacy Pass ja teeme k\u00f5vasti t\u00f6\u00f6d privaatsuse ja turvalisuse tasakaalustamiseks.",
+    "sec-hc": "Esiteks turvalisus",
+    "sec-hc-text": "hCaptcha on keskendunud kirjastajatele. T\u00f6\u00f6tame selle nimel, et anda saitidele tegelikke andmeid ja lasta neil otsustada, kuidas seda kasutada. T\u00e4psus on teie ja meie enda huvides. Teisi capthasid pakuvad reklaamiettev\u00f5tted. Iga blokeeritud robot v\u00f5ib nende tulusid v\u00e4hendada.",
     "what-is-hcaptcha": "Mis on hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha aitab teie lemmikveebiteenustel hoida robotid, r\u00e4mpspost ja v\u00e4\u00e4rkasutus \u00e4ra, esitades lihtsaid k\u00fcsimusi, mis on inimestele lihtsad ja masinatele rasked."
+    "what-is-hcaptcha-text": "hCaptcha aitab teie lemmikveebiteenustel hoida robotid, r\u00e4mpspost ja v\u00e4\u00e4rkasutus \u00e4ra, esitades lihtsaid k\u00fcsimusi, mis on inimestele lihtsad ja masinatele rasked.",
+    "why-hc": "Miks just hCaptcha?",
+    "why-hc-text": "Iga kord, kui v\u00e4ljakutsele vastate, kasutame keerukaid mudeleid, et teada saada, kas olete inimene v\u00f5i masin. Seej\u00e4rel kasutab teie k\u00fclastatud veebisait seda tulemust, et parandada teie veebisaidi kogemusi, hoides kokku robotid."
 }

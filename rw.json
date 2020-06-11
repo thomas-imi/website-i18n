@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Amahitamo yo kugerwaho",
+    "acc-opt-but": "Wige byinshi kubyerekeye guhitamo",
+    "acc-opt-text": "Waba ufite ubumuga bwo kutabona cyangwa ubundi ntushobora kurangiza hCaptchas?",
     "accessibility-link": "Kugerwaho",
+    "appreciate-in": "Twishimiye ibitekerezo byanyu. Tumenyeshe ibibazo byose kandi tuzabikemura vuba.",
+    "fb-but": "Twohereze ibitekerezo",
+    "feedback-text": "Tanga ibitekerezo kuri hCaptcha umaze kubona",
+    "page-acc-link-1": "Niba uri umukoresha, nyamuneka iyandikishe hano.",
+    "page-acc-subhead": "Kugenzura niba abakoresha bose badahwema kubungabunga umutekano",
+    "page-acc-title": "hCaptcha Amakuru Yamakuru",
+    "priv-hc": "Amabanga Yibanze",
+    "priv-hc-text": "Imiyoboro yamamaza ikubona nkibicuruzwa byabo. Ntabwo. Ntabwo dushishikajwe no gukoresha abo ari bo, gusa birashoboka ko bashobora kuba babi. Dushyigikiye ibikorwa nkibanga ryibanga, kandi dukora cyane kugirango duhuze ubuzima bwite numutekano.",
+    "sec-hc": "Umutekano Mbere",
+    "sec-hc-text": "hCaptcha yibanze kubamamaza. Turakora kugirango duhe imbuga amakuru nyayo kandi tubareke bahitemo kuyakoresha. Ukuri ni inyungu zawe kandi ni izacu. Izindi capcha zitangwa namasosiyete yamamaza. Buri bote bahagaritse irashobora kugabanya amafaranga yinjira.",
     "what-is-hcaptcha": "HCaptcha ni iki?",
-    "what-is-hcaptcha-text": "HCaptcha ifasha serivise ukunda kurubuga kurinda bots, spam, no guhohoterwa mubaza ibibazo byoroshye byoroshye kubantu kandi bigoye kumashini."
+    "what-is-hcaptcha-text": "HCaptcha ifasha serivise ukunda kurubuga kurinda bots, spam, no guhohoterwa mubaza ibibazo byoroshye byoroshye kubantu kandi bigoye kumashini.",
+    "why-hc": "Kuki?",
+    "why-hc-text": "Igihe cyose usubije ikibazo, dukoresha moderi zinoze kugirango tumenye niba uri umuntu cyangwa imashini. Urubuga wasuye noneho rukoresha ibisubizo kugirango bigufashe kunoza uburambe kurubuga rwabo wirinda bots."
 }

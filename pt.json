@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Op\u00e7\u00f5es de acessibilidade",
+    "acc-opt-but": "Saiba mais sobre as op\u00e7\u00f5es de acessibilidade",
+    "acc-opt-text": "Voc\u00ea tem defici\u00eancia visual ou n\u00e3o consegue concluir o hCaptchas?",
     "accessibility-link": "Acessibilidade",
+    "appreciate-in": "Agradecemos a sua opini\u00e3o. Informe-nos sobre quaisquer problemas e os resolveremos rapidamente.",
+    "fb-but": "Envie-nos um feedback",
+    "feedback-text": "Forne\u00e7a feedback sobre o hCaptcha que voc\u00ea acabou de ver",
+    "page-acc-link-1": "Se voc\u00ea \u00e9 um usu\u00e1rio de acessibilidade, inscreva-se aqui.",
+    "page-acc-subhead": "Garantir acesso cont\u00ednuo a todos os usu\u00e1rios, mantendo a seguran\u00e7a",
+    "page-acc-title": "Informa\u00e7\u00f5es de acessibilidade do hCaptcha",
+    "priv-hc": "Privacidade focada",
+    "priv-hc-text": "As redes de an\u00fancios veem voc\u00ea como seu produto. N\u00f3s n\u00e3o. N\u00e3o nos importamos com quem os usu\u00e1rios s\u00e3o, apenas com a probabilidade de serem maliciosos. Apoiamos iniciativas como o Privacy Pass e trabalhamos duro para equilibrar privacidade e seguran\u00e7a.",
+    "sec-hc": "Seguran\u00e7a em primeiro lugar",
+    "sec-hc-text": "O hCaptcha \u00e9 focado no editor. Trabalhamos para fornecer dados reais aos sites e permitir que eles decidam como us\u00e1-los. A precis\u00e3o \u00e9 do seu interesse e do nosso. Outros captchas s\u00e3o fornecidos por empresas de publicidade. Cada bot que eles bloqueiam pode reduzir sua receita.",
     "what-is-hcaptcha": "O que \u00e9 o hCaptcha?",
-    "what-is-hcaptcha-text": "O hCaptcha ajuda seus servi\u00e7os da Web favoritos a impedir bots, spam e abuso, fazendo perguntas simples que s\u00e3o f\u00e1ceis para humanos e dif\u00edceis para m\u00e1quinas."
+    "what-is-hcaptcha-text": "O hCaptcha ajuda seus servi\u00e7os da Web favoritos a impedir bots, spam e abuso, fazendo perguntas simples que s\u00e3o f\u00e1ceis para humanos e dif\u00edceis para m\u00e1quinas.",
+    "why-hc": "Por que hCaptcha?",
+    "why-hc-text": "Cada vez que voc\u00ea responde a um desafio, usamos modelos sofisticados para descobrir se voc\u00ea \u00e9 humano ou uma m\u00e1quina. O site que voc\u00ea visitou usa esse resultado para ajudar a melhorar sua experi\u00eancia no site, mantendo fora dos bots."
 }

@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Roghanna Inrochtaineachta",
+    "acc-opt-but": "N\u00edos m\u00f3 a fhoghlaim faoi roghanna inrochtaineachta",
+    "acc-opt-text": "An bhfuil t\u00fa lagamhairc n\u00f3 mura bhfuil t\u00fa in ann hCaptchas a chr\u00edochn\u00fa?",
     "accessibility-link": "Inrochtaineacht",
+    "appreciate-in": "T\u00e1imid bu\u00edoch as d\u2019ionchur. Cuir in i\u00fal d\u00fainn aon cheisteanna agus d\u00e9anfaimid iad a r\u00e9iteach go tapa.",
+    "fb-but": "Seol aiseolas chugainn",
+    "feedback-text": "Tabhair aiseolas ar an hCaptcha a chonaic t\u00fa d\u00edreach",
+    "page-acc-link-1": "M\u00e1s \u00fas\u00e1ideoir inrochtaineachta t\u00fa, cl\u00e1raigh anseo le do thoil.",
+    "page-acc-subhead": "Rochtain gan uaim a chinnti\u00fa do gach \u00fas\u00e1ideoir agus sl\u00e1nd\u00e1il \u00e1 chothabh\u00e1il acu",
+    "page-acc-title": "Faisn\u00e9is Inrochtaineachta hCaptcha",
+    "priv-hc": "Pr\u00edobh\u00e1ideacht D\u00edrithe",
+    "priv-hc-text": "Feiceann l\u00edonra\u00ed f\u00f3gra\u00ed t\u00fa mar a dt\u00e1irge. N\u00ed dh\u00e9anaimid. Is cuma linn c\u00e9 hiad na h\u00fas\u00e1ideoir\u00ed, ach c\u00e9 chomh d\u00f3ch\u00fail is at\u00e1 siad a bheith mail\u00edseach. Taca\u00edmid le tionscnaimh cos\u00fail le Pas Pr\u00edobh\u00e1ideachta, agus oibr\u00edmid go crua chun pr\u00edobh\u00e1ideacht agus sl\u00e1nd\u00e1il a chothrom\u00fa.",
+    "sec-hc": "Sl\u00e1nd\u00e1il ar dt\u00fas",
+    "sec-hc-text": "T\u00e1 hCaptcha d\u00edrithe ar an bhfoilsitheoir. Oibr\u00edmid chun f\u00edor-shonra\u00ed a thabhairt do shu\u00edomhanna agus chun ligean d\u00f3ibh cinneadh a dh\u00e9anamh ar conas iad a \u00fas\u00e1id. Is \u00e9 do chruinneas \u00e9 do leas f\u00e9in agus linne. Sol\u00e1thra\u00edonn cuideachta\u00ed f\u00f3gra\u00edochta captchas eile. F\u00e9adfaidh gach bot a chuireann siad bac ar a n-ioncam a laghd\u00fa.",
     "what-is-hcaptcha": "Cad \u00e9 hCaptcha?",
-    "what-is-hcaptcha-text": "Cuid\u00edonn hCaptcha leis na seirbh\u00eds\u00ed gr\u00e9as\u00e1in is fearr leat bots, spam, agus m\u00ed-\u00fas\u00e1id a choinne\u00e1il amach tr\u00ed cheisteanna simpl\u00ed a chur at\u00e1 furasta do dhaoine agus at\u00e1 deacair do mheais\u00edn\u00ed."
+    "what-is-hcaptcha-text": "Cuid\u00edonn hCaptcha leis na seirbh\u00eds\u00ed gr\u00e9as\u00e1in is fearr leat bots, spam, agus m\u00ed-\u00fas\u00e1id a choinne\u00e1il amach tr\u00ed cheisteanna simpl\u00ed a chur at\u00e1 furasta do dhaoine agus at\u00e1 deacair do mheais\u00edn\u00ed.",
+    "why-hc": "C\u00e9n f\u00e1th hCaptcha?",
+    "why-hc-text": "Gach uair a fhreagra\u00edonn t\u00fa d\u00fashl\u00e1n, bainimid \u00fas\u00e1id as samhlacha sofaistici\u00fala chun a fh\u00e1il amach an duine n\u00f3 meais\u00edn t\u00fa. Ansin \u00fas\u00e1ideann an su\u00edomh Gr\u00e9as\u00e1in ar thug t\u00fa cuairt air an toradh seo chun cabhr\u00fa le d\u2019eisp\u00e9ireas ar a su\u00edomh a fheabhs\u00fa tr\u00ed r\u00f3b\u00f3nna a choinne\u00e1il amach."
 }

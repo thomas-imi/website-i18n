@@ -1,5 +1,20 @@
 {
+    "acc-opt": "A\u00f0gengisvalkostir",
+    "acc-opt-but": "Frekari uppl\u00fdsingar um a\u00f0gengisvalkosti",
+    "acc-opt-text": "Ertu sj\u00f3nskertur e\u00f0a \u00e1 annan h\u00e1tt ekki f\u00e6r um a\u00f0 kl\u00e1ra hCaptchas?",
     "accessibility-link": "A\u00f0gengi",
+    "appreciate-in": "Vi\u00f0 \u00fe\u00f6kkum inntak \u00feitt. L\u00e1ttu okkur vita um \u00f6ll m\u00e1l og vi\u00f0 munum leysa \u00feau flj\u00f3tt.",
+    "fb-but": "Sendu okkur athugasemdir",
+    "feedback-text": "Veittu athugasemdir um hCaptcha sem \u00fe\u00fa hefur bara s\u00e9\u00f0",
+    "page-acc-link-1": "Ef \u00fe\u00fa ert a\u00f0gengisnotandi, vinsamlegast skr\u00e1\u00f0u \u00feig h\u00e9r.",
+    "page-acc-subhead": "A\u00f0 tryggja \u00f3a\u00f0finnanlegan a\u00f0gang fyrir alla notendur en vi\u00f0halda \u00f6ryggi",
+    "page-acc-title": "hCaptcha uppl\u00fdsingar um a\u00f0gengi",
+    "priv-hc": "Pers\u00f3nuvernd einbeitt",
+    "priv-hc-text": "Augl\u00fdsinganet sj\u00e1 \u00feig sem v\u00f6ru s\u00edna. Vi\u00f0 gerum \u00fea\u00f0 ekki. Okkur er alveg sama hverjir notendur eru, a\u00f0eins hve l\u00edklegt er a\u00f0 \u00feeir s\u00e9u illir. Vi\u00f0 sty\u00f0jum frumkv\u00e6\u00f0i eins og Pers\u00f3nuverndarpassa og vinnum h\u00f6r\u00f0um h\u00f6ndum a\u00f0 jafnv\u00e6gi einkal\u00edfs og \u00f6ryggis.",
+    "sec-hc": "\u00d6ryggi fyrst",
+    "sec-hc-text": "hCaptcha er \u00fatgefandi einbeitt. Vi\u00f0 vinnum a\u00f0 \u00fev\u00ed a\u00f0 veita vefsv\u00e6\u00f0um raunveruleg g\u00f6gn og l\u00e1ta \u00fe\u00e1 \u00e1kve\u00f0a hvernig eigi a\u00f0 nota \u00feau. N\u00e1kv\u00e6mni er \u00ed \u00fe\u00ednum \u00e1huga og okkar. A\u00f0rar captchas eru veittar af augl\u00fdsingafyrirt\u00e6kjum. S\u00e9rhver l\u00e1ni sem \u00feeir loka fyrir kann a\u00f0 draga \u00far tekjum s\u00ednum.",
     "what-is-hcaptcha": "Hva\u00f0 er hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha hj\u00e1lpar upp\u00e1halds vef\u00fej\u00f3nustunni \u00feinni a\u00f0 halda \u00fati v\u00e9lum, ruslp\u00f3sti og misnotkun me\u00f0 \u00fev\u00ed a\u00f0 spyrja einfaldra spurninga sem eru au\u00f0velt fyrir menn og erfi\u00f0ar fyrir v\u00e9lar."
+    "what-is-hcaptcha-text": "hCaptcha hj\u00e1lpar upp\u00e1halds vef\u00fej\u00f3nustunni \u00feinni a\u00f0 halda \u00fati v\u00e9lum, ruslp\u00f3sti og misnotkun me\u00f0 \u00fev\u00ed a\u00f0 spyrja einfaldra spurninga sem eru au\u00f0velt fyrir menn og erfi\u00f0ar fyrir v\u00e9lar.",
+    "why-hc": "Af hverju hCaptcha?",
+    "why-hc-text": "\u00cd hvert skipti sem \u00fe\u00fa svarar \u00e1skorun notum vi\u00f0 h\u00e1\u00fer\u00f3u\u00f0 l\u00edk\u00f6n til a\u00f0 reikna \u00fat hvort \u00fe\u00fa ert mannlegur e\u00f0a v\u00e9l. Vefs\u00ed\u00f0an sem \u00fe\u00fa heims\u00f3ttir notar s\u00ed\u00f0an \u00feessa ni\u00f0urst\u00f6\u00f0u til a\u00f0 b\u00e6ta upplifun \u00fe\u00edna \u00e1 vefnum s\u00ednum me\u00f0 \u00fev\u00ed a\u00f0 halda \u00fati v\u00e9lum."
 }

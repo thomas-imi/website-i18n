@@ -1,5 +1,20 @@
 {
+    "acc-opt": "K\u014dwhiringa Uru",
+    "acc-opt-but": "Ako atu ano mo nga whiringa whakauru",
+    "acc-opt-text": "Kei te ngoikore ranei koe i te kitenga, te kore ranei e taea te whakaoti hCaptchas?",
     "accessibility-link": "Te urunga",
+    "appreciate-in": "Mauruuru koe ki o whakauru. Me mohio tatou ki nga take ka pai ta tatou whakatau.",
+    "fb-but": "Tukuna he urupare ki a maatau",
+    "feedback-text": "Homai urupare ki te hCaptcha i kite koe i etahi",
+    "page-acc-link-1": "Mena he kaiwhakamahi whakauru koe, tena koa tohaina ki konei.",
+    "page-acc-subhead": "Te whakarite i te uru maere mo nga kaiwhakamahi katoa i te wa e mau tonu ana te haumaru",
+    "page-acc-title": "He Korero Uru ki te HCaptcha",
+    "priv-hc": "I Whakautu Iho Takitahi",
+    "priv-hc-text": "Ka kite koe nga whatunga whakatairanga ki a koe hei hua. E kore matou. Kaore matou e aro ki te hunga ko nga kaiwhakamahi, engari kaare pea ka raru. Ka tautokohia e matou nga kaupapa penei i te Pass Pass, me te mahi nui ki te whakaheke i te t\u016bmataiti me te haumaru.",
+    "sec-hc": "Haumaru Tuatahi",
+    "sec-hc-text": "Ko te hCaptcha he arotahi-whakaputa. Ka mahi maatau ki te tuku i nga papaa korero tuuturu a ma ratou e whakatau me pehea te whakamahi. Ko te tika kei runga i to hiahia me o taatau. Ko etahi atu o nga kaihopu e whakaratohia ana e nga kamupene panui. Katoa nga poraka poraka e whakarereke ana i a raatau moni.",
     "what-is-hcaptcha": "He aha te hCaptcha?",
-    "what-is-hcaptcha-text": "Ka awhina te hCaptcha ki o ratonga tukutuku pai ki te pupuri i nga pota, te aukati, me te tukino ma te tono i nga paatai ngawari he ngawari mo te tangata, he uaua hoki mo nga miihini."
+    "what-is-hcaptcha-text": "Ka awhina te hCaptcha ki o ratonga tukutuku pai ki te pupuri i nga pota, te aukati, me te tukino ma te tono i nga paatai ngawari he ngawari mo te tangata, he uaua hoki mo nga miihini.",
+    "why-hc": "He aha te hCaptcha?",
+    "why-hc-text": "I ia wa ka whakautua e koe he wero, ka whakamahia e matou he tauira maamaa mena ka mohio koe he tangata koe, he miihini ranei. Ko te paetukutuku i tirohia e koe i tenei ka whakamahi i tenei hua hei awhina i to wheako i to maatau pae ma te pupuri i nga paunga."
 }

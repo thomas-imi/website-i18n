@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Kev Nkag Mus Rau Cov Kev Xaiv",
+    "acc-opt-but": "Kawm ntxiv txog cov kev xaiv mus cuag tau",
+    "acc-opt-text": "Puas yog koj tsis pom kev lossis lwm yam tsis tuaj yeem ua tiav hCaptchas?",
     "accessibility-link": "Kev nkag mus",
+    "appreciate-in": "Peb txaus siab rau koj cov lus. Qhia rau peb paub txog txhua qhov teeb meem thiab peb yuav daws lawv sai.",
+    "fb-but": "Xa peb lub tswv yim",
+    "feedback-text": "Muab cov lus taw qhia rau hCaptcha uas koj nyuam qhuav pom",
+    "page-acc-link-1": "Yog tias koj yog ib tus siv tau yooj yim, thov tso npe ntawm no.",
+    "page-acc-subhead": "Ua kom muaj kev sib khi zoo rau txhua tus neeg siv thaum tswj xyuas kev nyab xeeb",
+    "page-acc-title": "hCaptcha Cov Lus Qhia Txog Kev Nkag Mus Qhia",
+    "priv-hc": "Ceev Ntiag Tug Kom Paub Tias",
+    "priv-hc-text": "Ad tes hauj lwm pom koj li lawv cov khoom. Peb tsis tau. Peb tsis saib xyuas tus neeg siv yog, tsuas yog yuav ua li cas lawv yuav tsum ua siab phem. Peb txhawb cov kev pib ua haujlwm zoo li Privacy Pass, thiab sib zog ua haujlwm kom muaj kev txwv tsis pub leej twg paub thiab muaj kev nyab xeeb.",
+    "sec-hc": "Kev Ruaj Ntseg Ua Ntej",
+    "sec-hc-text": "hCaptcha yog tus tshaj tawm-tsom xam. Peb ua haujlwm muab cov ntaub ntawv tiag tiag thiab cia lawv txiav txim siab siv nws li cas. Qhov tseeb yog qhov koj txaus siab thiab peb. Lwm qhov ntes tau yog muab los ntawm cov tuam txhab tshaj tawm. Txhua tus bot lawv thaiv yuav txo lawv cov nyiaj khwv tau los.",
     "what-is-hcaptcha": "Dab tsi yog hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha pab koj lub vev xaib uas koj nyiam tshaj tawm tsis pub siv bots, spam thiab tsim txom los ntawm nug cov lus nug yooj yim uas yooj yim rau tib neeg thiab nyuaj rau tshuab."
+    "what-is-hcaptcha-text": "hCaptcha pab koj lub vev xaib uas koj nyiam tshaj tawm tsis pub siv bots, spam thiab tsim txom los ntawm nug cov lus nug yooj yim uas yooj yim rau tib neeg thiab nyuaj rau tshuab.",
+    "why-hc": "Vim li cas hCaptcha?",
+    "why-hc-text": "Txhua zaus koj teb qhov kev sib tw, peb siv cov qauv nruj los xyuas seb koj puas yog neeg lossis tshuab. Lub vev xaib koj tau mus xyuas tom qab ntawd siv qhov txiaj ntsig no los pab txhim kho koj cov kev paub ntawm lawv lub vev xaib los ntawm khaws tawm bots."
 }

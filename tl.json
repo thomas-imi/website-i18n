@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Mga Pagpipilian sa Pag-access",
+    "acc-opt-but": "Matuto nang higit pa tungkol sa mga pagpipilian sa pag-access",
+    "acc-opt-text": "May kapansanan ka ba sa biswal o kung hindi man hindi makumpleto ang hCaptchas?",
     "accessibility-link": "Pag-access",
+    "appreciate-in": "Pinahahalagahan namin ang iyong input. Ipaalam sa amin ang anumang mga isyu at mabilis naming malutas ang mga ito.",
+    "fb-but": "Magpadala sa amin ng puna",
+    "feedback-text": "Magbigay ng puna sa hCaptcha na iyong nakita",
+    "page-acc-link-1": "Kung ikaw ay isang access sa gumagamit, mangyaring mag-sign up dito.",
+    "page-acc-subhead": "Ang pagtiyak ng seamless access para sa lahat ng mga gumagamit habang pinapanatili ang seguridad",
+    "page-acc-title": "Impormasyon sa Pag-access ng hCaptcha",
+    "priv-hc": "Nakatuon ang Pagkapribado",
+    "priv-hc-text": "Ang mga network ng ad ay nakikita ka bilang kanilang produkto. Hindi namin. Hindi namin pinapahalagahan kung sino ang mga gumagamit, kung gaano sila kadahilanan na sila ay malisyoso. Sinusuportahan namin ang mga inisyatibo tulad ng Privacy Pass, at nagsusumikap upang mabalanse ang privacy at seguridad.",
+    "sec-hc": "Una sa Seguridad",
+    "sec-hc-text": "Ang hCaptcha ay nakatuon sa publisher. Nagtatrabaho kami upang bigyan ang mga site ng tunay na data at hayaan silang magpasya kung paano gamitin ito. Ang katumpakan ay nasa iyong interes at sa atin. Ang iba pang mga bihag ay ibinibigay ng mga kumpanya ng advertising. Ang bawat bot na kanilang hinarang ay maaaring mabawasan ang kanilang kita.",
     "what-is-hcaptcha": "Ano ang hCaptcha?",
-    "what-is-hcaptcha-text": "Tinutulungan ng hCaptcha ang iyong mga paboritong serbisyo sa web na mapanatili ang mga bot, spam, at pang-aabuso sa pamamagitan ng pagtatanong ng mga simpleng katanungan na madaling para sa mga tao at mahirap para sa mga makina."
+    "what-is-hcaptcha-text": "Tinutulungan ng hCaptcha ang iyong mga paboritong serbisyo sa web na mapanatili ang mga bot, spam, at pang-aabuso sa pamamagitan ng pagtatanong ng mga simpleng katanungan na madaling para sa mga tao at mahirap para sa mga makina.",
+    "why-hc": "Bakit hCaptcha?",
+    "why-hc-text": "Sa bawat oras na sumagot ka ng isang hamon, gumagamit kami ng mga sopistikadong modelo upang malaman kung ikaw ay tao o isang makina. Ang website na iyong binisita pagkatapos ay gumagamit ng resulta na ito upang makatulong na mapagbuti ang iyong karanasan sa kanilang site sa pamamagitan ng pag-iingat ng mga bot."
 }

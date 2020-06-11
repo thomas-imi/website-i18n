@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Kirish imkoniyatlari",
+    "acc-opt-but": "Kirish imkoniyatlari haqida ko&#39;proq ma&#39;lumot oling",
+    "acc-opt-text": "Ko&#39;rish qobiliyatingiz zaifmi yoki hCaptchas-ni boshqa usulda bajara olmaysizmi?",
     "accessibility-link": "Kirish imkoniyati",
+    "appreciate-in": "Sizning ma&#39;lumotlaringizni qadrlaymiz. Bizga har qanday muammolarni bildiring va biz ularni tezda hal qilamiz.",
+    "fb-but": "Bizga fikringizni yuboring",
+    "feedback-text": "Siz ko&#39;rgan hCaptcha haqida fikr-mulohazalaringizni bildiring",
+    "page-acc-link-1": "Agar siz erkin foydalanish imkoniyatiga ega bo&#39;lsangiz, bu erda ro&#39;yxatdan o&#39;ting.",
+    "page-acc-subhead": "Xavfsizlikni saqlashda barcha foydalanuvchilar uchun uzluksiz kirishni ta&#39;minlash",
+    "page-acc-title": "hCaptcha mavjudligi haqida ma&#39;lumot",
+    "priv-hc": "Maxfiylik yo&#39;naltirilgan",
+    "priv-hc-text": "Reklama tarmoqlari sizni mahsulot sifatida ko&#39;radi. Bizda yo&#39;q. Foydalanuvchilarning kim ekanligi biz uchun ahamiyatsiz, faqat ular zararli bo&#39;lishi mumkin. Biz maxfiy Pass kabi tashabbuslarni qo&#39;llab-quvvatlaymiz va maxfiylik va xavfsizlikni muvozanatlash uchun ko&#39;p ishlaymiz.",
+    "sec-hc": "Birinchidan, xavfsizlik",
+    "sec-hc-text": "hCaptcha nashriyotga yo&#39;naltirilgan. Biz saytlarga aniq ma&#39;lumotlar berish uchun ishlaymiz va ulardan qanday foydalanishni hal qilishlariga imkon beramiz. Aniqlik sizning qiziqishingizga va biznikiga tegishli. Boshqa rasmlarni reklama kompaniyalari taqdim etadi. Ular bloklagan har bir bot daromadni kamaytirishi mumkin.",
     "what-is-hcaptcha": "HCaptcha nima?",
-    "what-is-hcaptcha-text": "hCaptcha sizning sevimli veb-servislaringizga odamlar uchun oson va mashinalarga qiyin bo&#39;lgan oddiy savollarni berib, botlardan, spamlardan va suiiste&#39;mollardan saqlanishiga yordam beradi."
+    "what-is-hcaptcha-text": "hCaptcha sizning sevimli veb-servislaringizga odamlar uchun oson va mashinalarga qiyin bo&#39;lgan oddiy savollarni berib, botlardan, spamlardan va suiiste&#39;mollardan saqlanishiga yordam beradi.",
+    "why-hc": "Nima uchun hCaptcha?",
+    "why-hc-text": "Har safar biron bir savolga javob berganingizda, siz odam yoki mashina ekanligingizni aniqlash uchun murakkab modellardan foydalanamiz. Keyin siz tashrif buyurgan veb-sayt ushbu natijadan foydalanib, ularning saytida tajribangizni yaxshilashga yordam beradi."
 }

@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Toegankelijkheidsinstellingen",
+    "acc-opt-but": "Meer informatie over toegankelijkheidsopties",
+    "acc-opt-text": "Bent u slechtziend of kunt u hCaptchas niet op een andere manier voltooien?",
     "accessibility-link": "Toegankelijkheid",
+    "appreciate-in": "We waarderen uw inbreng. Laat ons eventuele problemen weten en we zullen ze snel oplossen.",
+    "fb-but": "Stuur ons feedback",
+    "feedback-text": "Geef feedback over de hCaptcha die je zojuist hebt gezien",
+    "page-acc-link-1": "Als u een toegankelijkheidsgebruiker bent, meld u dan hier aan.",
+    "page-acc-subhead": "Zorgen voor naadloze toegang voor alle gebruikers met behoud van beveiliging",
+    "page-acc-title": "hCaptcha Toegankelijkheidsinformatie",
+    "priv-hc": "Privacy gericht",
+    "priv-hc-text": "Advertentienetwerken zien u als hun product. Wij niet. Het maakt ons niet uit wie gebruikers zijn, alleen hoe waarschijnlijk het is dat ze kwaadaardig zijn. We ondersteunen initiatieven zoals Privacy Pass en werken hard om privacy en veiligheid in evenwicht te brengen.",
+    "sec-hc": "Beveiliging voorop",
+    "sec-hc-text": "hCaptcha is op uitgevers gericht. We werken eraan om sites echte gegevens te geven en ze te laten beslissen hoe ze deze moeten gebruiken. Nauwkeurigheid is in uw belang en dat van ons. Andere captcha&#39;s worden geleverd door reclamebedrijven. Elke bot die ze blokkeren, kan hun inkomsten verminderen.",
     "what-is-hcaptcha": "Wat is hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha helpt uw favoriete webservices bots, spam en misbruik buiten te houden door eenvoudige vragen te stellen die gemakkelijk zijn voor mensen en moeilijk voor machines."
+    "what-is-hcaptcha-text": "hCaptcha helpt uw favoriete webservices bots, spam en misbruik buiten te houden door eenvoudige vragen te stellen die gemakkelijk zijn voor mensen en moeilijk voor machines.",
+    "why-hc": "Waarom hCaptcha?",
+    "why-hc-text": "Elke keer dat u een uitdaging beantwoordt, gebruiken we geavanceerde modellen om erachter te komen of u een mens of een machine bent. De website die u hebt bezocht, gebruikt dit resultaat om uw ervaring op hun site te verbeteren door bots buiten te houden."
 }

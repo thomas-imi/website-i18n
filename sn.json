@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Sarudzo dzekuwanika",
+    "acc-opt-but": "Dzidza zvakawanda nezve sarudzo dzekuwanika",
+    "acc-opt-text": "Iwe unokamhina kuona kana kuti neimwe nzira haugone kuzadza hCaptchas?",
     "accessibility-link": "Kuwanika",
+    "appreciate-in": "Tinotenda nezvaunotora. Ngatizivisei chero nyaya uye isu tichaagadzirisa nekukurumidza.",
+    "fb-but": "Titumire mhinduro",
+    "feedback-text": "Ipa mhinduro pane hCaptcha iwe uchangobva kuona",
+    "page-acc-link-1": "Kana iwe uri mushandisi wekuwanika, ndapota isaina apa.",
+    "page-acc-subhead": "Kuverengera kuwanikwa kusingaoneki kwevashandisi vese vachiri kuchengetedza kuchengetedzwa",
+    "page-acc-title": "hCaptcha Kuwanika Ruzivo",
+    "priv-hc": "Kuchengetedzeka Kunotarisana",
+    "priv-hc-text": "Ad ma network anoona iwe sechigadzirwa chavo. Hatidi. Hatina hanya kuti vashandisi ndivanaani, chete kuti vangangoita sei kuve noutsinye. Isu tinotsigira zvirongwa zvakaita seSecurity Pass, uye tinoshanda nesimba kuyera kuvanzika nekuchengetedzeka.",
+    "sec-hc": "Chengetedza Kutanga",
+    "sec-hc-text": "hCaptcha inoparidza-yakatarisana. Isu tinoshanda kupa saiti data chaidzo uye tidzirege ivo vasarudze nzira yekuishandisa. Kurongeka kuri mukuda kwako uye kwedu. Mamwe machinda anopihwa nemakambani ekushambadzira. Chero iwo mabhodhi avanovhara anogona kuderedza iwo mapato.",
     "what-is-hcaptcha": "Chii chinonzi hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha inobatsira yako yaunofarira webhu masevhisi kunze bots, spam, uye kushungurudzwa nekubvunza mibvunzo iri nyore iri nyore kuvanhu uye yakaoma kune michina."
+    "what-is-hcaptcha-text": "hCaptcha inobatsira yako yaunofarira webhu masevhisi kunze bots, spam, uye kushungurudzwa nekubvunza mibvunzo iri nyore iri nyore kuvanhu uye yakaoma kune michina.",
+    "why-hc": "Nei hCaptcha?",
+    "why-hc-text": "Pose paunopindura zvinonetsa, tinoshandisa mhando dzakajeka kuti uone kana uri munhu kana muchina. Iyo webhusaiti yawakashanyira inoshandisa iyi mhinduro kubatsira kugadzirisa ruzivo rwako pane yavo saiti nekuchengetedza bots."
 }

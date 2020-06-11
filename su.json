@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Pilihan aks\u00e9s",
+    "acc-opt-but": "Diajar langkung seueur ngeunaan pilihan aks\u00e9sibilitas",
+    "acc-opt-text": "Naha anjeun cacad sacara visually atanapi henteu nyampurnakeun hCaptchas?",
     "accessibility-link": "Aks\u00e9sibilitas",
+    "appreciate-in": "Kami ngahargaan input anjeun. Hayu urang terangkeun naon masalah sareng urang bakal m\u00e9r\u00e9skeun \u00e9ta gancang.",
+    "fb-but": "Kirim kami tanggepan",
+    "feedback-text": "Masihan tanggapan kana hCaptcha anu anjeun nembe ningali",
+    "page-acc-link-1": "Upami anjeun panggunaan aks\u00e9s, punten daptar di dieu.",
+    "page-acc-subhead": "Mastikeun aks\u00e9s anu mulus pikeun sadaya pangguna nalika ngajaga kaamanan",
+    "page-acc-title": "Inpormasi aks\u00e9s aks\u00e9s hCaptcha",
+    "priv-hc": "Katerangan Dipokuskeun",
+    "priv-hc-text": "Jaringan iklan ningali anjeun salaku produkna. Kami henteu. Urang teu paduli saha anu dianggo, ngan kumaha kamungkinan aranjeunna jahat. Kami ngadukung prakarsa sapertos Privasi Pass, sareng kerja keras saimbangkeun privasi sareng kaamanan.",
+    "sec-hc": "Kaamanan Mimiti",
+    "sec-hc-text": "hCaptcha mangrupikeun fokus-penerbit. Urang damel pikeun masihan situs data nyata sareng ngantepkeun aranjeunna mutuskeun kumaha ngagunakeun \u00e9ta. Ketepatan dina kapentingan anjeun sareng kami. Captchas san\u00e9sna disayogikeun ku perusahaan iklan. Unggal bot aranjeunna meungpeuk tiasa ngirangan pendapatanna.",
     "what-is-hcaptcha": "Naon hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha ngabantosan jasa w\u00e9b karesep anjeun pikeun ngajantenkeun bot, spam, sareng nyiksa ku nanyakeun patarosan anu gampang pikeun manusa sareng h\u00e9s\u00e9 pikeun mesin."
+    "what-is-hcaptcha-text": "hCaptcha ngabantosan jasa w\u00e9b karesep anjeun pikeun ngajantenkeun bot, spam, sareng nyiksa ku nanyakeun patarosan anu gampang pikeun manusa sareng h\u00e9s\u00e9 pikeun mesin.",
+    "why-hc": "Naha hCaptcha?",
+    "why-hc-text": "Unggal waktos anjeun ngajawab tantangan, kami nganggo mod\u00e9l canggih pikeun terang naha anjeun manusa atanapi mesin. Situs w\u00e9b anu anjeun k\u00e9ngingkeun teras nganggo hasilna ieu pikeun ngabantosan pangalaman dina situsna ku ngaluarkeun bot."
 }

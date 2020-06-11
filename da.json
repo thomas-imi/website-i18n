@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Tilg\u00e6ngelighedsmuligheder",
+    "acc-opt-but": "L\u00e6r mere om tilg\u00e6ngelighedsindstillinger",
+    "acc-opt-text": "Er du synsh\u00e6mmet eller p\u00e5 anden m\u00e5de ikke i stand til at gennemf\u00f8re hCaptchas?",
     "accessibility-link": "Tilg\u00e6ngelighed",
+    "appreciate-in": "Vi v\u00e6rds\u00e6tter dit input. Fort\u00e6l os eventuelle problemer, og vi l\u00f8ser dem hurtigt.",
+    "fb-but": "Send os feedback",
+    "feedback-text": "Giv feedback p\u00e5 hCaptcha, du lige har set",
+    "page-acc-link-1": "Hvis du er en tilg\u00e6ngelighedsbruger, skal du tilmelde dig her.",
+    "page-acc-subhead": "Sikring af problemfri adgang for alle brugere og samtidig opretholdelse af sikkerhed",
+    "page-acc-title": "hCaptcha Information om tilg\u00e6ngelighed",
+    "priv-hc": "Privatlivsfokuseret",
+    "priv-hc-text": "Annonceretv\u00e6rk ser dig som deres produkt. Det g\u00f8r vi ikke. Vi er ligeglad med hvem brugere er, kun hvor sandsynligt de er for ondsindet. Vi st\u00f8tter initiativer som Privacy Pass og arbejder h\u00e5rdt for at afbalancere privatliv og sikkerhed.",
+    "sec-hc": "Sikkerhed f\u00f8rst",
+    "sec-hc-text": "hCaptcha er udgiverfokuseret. Vi arbejder for at give websteder reelle data og lader dem beslutte, hvordan de skal bruges. N\u00f8jagtighed er i din interesse og vores. Andre captchas leveres af reklamevirksomheder. Hver bot, de blokerer, kan reducere deres indt\u00e6gter.",
     "what-is-hcaptcha": "Hvad er hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha hj\u00e6lper dine foretrukne webservices med at forhindre bots, spam og misbrug ved at stille enkle sp\u00f8rgsm\u00e5l, der er lette for mennesker og vanskelige for maskiner."
+    "what-is-hcaptcha-text": "hCaptcha hj\u00e6lper dine foretrukne webservices med at forhindre bots, spam og misbrug ved at stille enkle sp\u00f8rgsm\u00e5l, der er lette for mennesker og vanskelige for maskiner.",
+    "why-hc": "Hvorfor hCaptcha?",
+    "why-hc-text": "Hver gang du besvarer en udfordring, bruger vi sofistikerede modeller til at finde ud af, om du er menneske eller en maskine. Det websted, du bes\u00f8gte, bruger derefter dette resultat til at forbedre din oplevelse p\u00e5 deres websted ved at holde bots ud."
 }

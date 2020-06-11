@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Opzioni di Accessibilit\u00e0",
+    "acc-opt-but": "Amparate pi\u00f9 nantu \u00e0 l&#39;opzioni d&#39;accessibilit\u00e0",
+    "acc-opt-text": "H\u00e8 una disabilit\u00e0 visuale o altrimenti incapace di cumplet\u00e0 hCaptchas?",
     "accessibility-link": "Accessibilit\u00e0",
+    "appreciate-in": "Vi apprezzemu a vostra input. Cunniscemu ogni prublema \u00e8 i risolvemu prestu.",
+    "fb-but": "Mandateci i nostri feedback",
+    "feedback-text": "Fornite feedback nantu \u00e0 l&#39;HCaptcha ch\u00ec avete appena vistu",
+    "page-acc-link-1": "Se site un utilizatore d&#39;accessibilit\u00e0, scrivitevi qu\u00ec.",
+    "page-acc-subhead": "Assicur\u00e0 l&#39;accessu trasparente per tutti l&#39;utilizatori mentre mantenenu a sicurit\u00e0",
+    "page-acc-title": "hCaptcha Informazioni per Accessibilit\u00e0",
+    "priv-hc": "Privatezza Centrata",
+    "priv-hc-text": "I reti publicitarii vi vedenu cum&#39;\u00e8 u so pruduttu. \u00d9n facemu micca. \u00d9n ci preoccupa micca quale s\u00f2 l&#39;utilizatori, solu quantu s\u00f2 probabili di esse maliziusi. Sustenemu iniziative cum&#39;\u00e8 Passa di privacy, \u00e8 travagliammu assai per equilibr\u00e0 a privacy \u00e8 a sicurit\u00e0.",
+    "sec-hc": "Sicurit\u00e0 Prima",
+    "sec-hc-text": "hCaptcha h\u00e8 un editore-focus. Travagliemu per d\u00e0 \u00e0 i siti dati reali \u00e8 di lascialli decide di cume. L&#39;accuratezza h\u00e8 in u vostru interessu \u00e8 u nostru. L&#39;altri captchas s\u00f2 furnite da e imprese di publicit\u00e0. Ogni bot ch\u00ec bloqueghjanu p\u00f2 riduce i so ingressi.",
     "what-is-hcaptcha": "Cosa h\u00e8 hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha aiuta i vostri servizii web favuriti \u00e0 mantene i bots, u spam, \u00e8 l&#39;abusi facendu e dumande simplici ch\u00ec s\u00f2 f\u00e0ciule per l&#39;omu \u00e8 difficiule per e macchine."
+    "what-is-hcaptcha-text": "hCaptcha aiuta i vostri servizii web favuriti \u00e0 mantene i bots, u spam, \u00e8 l&#39;abusi facendu e dumande simplici ch\u00ec s\u00f2 f\u00e0ciule per l&#39;omu \u00e8 difficiule per e macchine.",
+    "why-hc": "Perch\u00e8 hCaptcha?",
+    "why-hc-text": "Ogni volta ch\u00ec rispondi \u00e0 una sfida, usemu mudelli sofisticati per capische se site umanu o una macchina. U situ web ch\u00ec avete visitatu allora usa stu risultatu per aiut\u00e0 \u00e0 migliur\u00e0 a vostra sperienza in u so situ alluntinendu bots."
 }

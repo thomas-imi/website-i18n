@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Accessibilit\u00e9it Optiounen",
+    "acc-opt-but": "L\u00e9iert m\u00e9i iwwer Accessibilit\u00e9it Optiounen",
+    "acc-opt-text": "Sidd Dir visuell beh\u00ebnnert oder soss sidd Dir net kapabel hCaptchas ze komplet\u00e9ieren?",
     "accessibility-link": "Accessibilit\u00e9it",
+    "appreciate-in": "Mir sch\u00e4tzen \u00c4ren Input. Loosst eis Problemer w\u00ebssen a mir l\u00e9ise se s\u00e9ier.",
+    "fb-but": "Sch\u00e9ckt eis Feedback",
+    "feedback-text": "Gitt Feedback op der hCaptcha Dir just gesinn",
+    "page-acc-link-1": "Wann Dir e Benotzer Accessibilit\u00e9it sidd, da mellt Iech hei.",
+    "page-acc-subhead": "S\u00e9chert Zougang fir all Benotzer w\u00e4rend d&#39;S\u00e9cherheet erhalen",
+    "page-acc-title": "hCaptcha Accessibilit\u00e9it Informatioun",
+    "priv-hc": "Privatsph\u00e4r Fokuss\u00e9iert",
+    "priv-hc-text": "Ad Netzwierker gesinn Iech als s\u00e4i Produkt. Mir hunn net. Mir sinn egal wien Benotzer sinn, n\u00ebmme w\u00e9i m\u00e9iglech se b\u00e9isaarteg sinn. Mir \u00ebnnerst\u00ebtzen Initiativen w\u00e9i Privatsph\u00e4r Pass, a schaffe schw\u00e9ier fir Privatsph\u00e4r a S\u00e9cherheet ze balans\u00e9ieren.",
+    "sec-hc": "S\u00e9cherheet \u00c9ischt",
+    "sec-hc-text": "hCaptcha ass publiz\u00e9iert konzentr\u00e9iert. Mir schaffen fir Site echt Daten ze ginn a loosse se entscheeden w\u00e9i se benotzt ginn. Genauegkeet ass an \u00c4rem Interesse an eis. Aner captchas gi vu Reklammfirmen geliwwert. All Bot d\u00e9i se block\u00e9iere k\u00ebnnen hir Recetten erofsetzen.",
     "what-is-hcaptcha": "Wat ass hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha h\u00eblleft \u00c4re Liiblingswebservicer Bots, Spam a M\u00ebssbrauch ze halen andeems se einfach Froen stellen, d\u00e9i einfach fir M\u00ebnschen a schw\u00e9ier fir Maschinnen sinn."
+    "what-is-hcaptcha-text": "hCaptcha h\u00eblleft \u00c4re Liiblingswebservicer Bots, Spam a M\u00ebssbrauch ze halen andeems se einfach Froen stellen, d\u00e9i einfach fir M\u00ebnschen a schw\u00e9ier fir Maschinnen sinn.",
+    "why-hc": "Firwat hCaptcha?",
+    "why-hc-text": "All K\u00e9ier wann Dir eng Erausfuerderung be\u00e4ntwert, benotze mir raffin\u00e9iert Modeller fir erauszefannen, ob Dir M\u00ebnsch oder eng Maschinn sidd. D&#39;Webs\u00e4it d\u00e9i Dir besicht hutt benotzt d\u00ebst Resultat fir \u00c4r Experienz op hirem Site ze verbesseren andeems Dir Bots beh\u00ebnnert."
 }

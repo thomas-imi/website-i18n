@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Tilgjengelighetsalternativer",
+    "acc-opt-but": "L\u00e6r mer om tilgjengelighetsalternativer",
+    "acc-opt-text": "Er du svaksynte eller p\u00e5 annen m\u00e5te ikke fullf\u00f8rer hCaptchas?",
     "accessibility-link": "tilgjengelighet",
+    "appreciate-in": "Vi setter pris p\u00e5 innspillene dine. Gi oss beskjed om eventuelle problemer, s\u00e5 l\u00f8ser vi dem raskt.",
+    "fb-but": "Send oss tilbakemeldinger",
+    "feedback-text": "Gi tilbakemelding p\u00e5 hCaptcha du nettopp s\u00e5",
+    "page-acc-link-1": "Hvis du er en tilgjengelighetsbruker, kan du registrere deg her.",
+    "page-acc-subhead": "Sikre s\u00f8ml\u00f8s tilgang for alle brukere og samtidig opprettholde sikkerheten",
+    "page-acc-title": "hCaptcha Tilgjengelighetsinformasjon",
+    "priv-hc": "Personvernfokusert",
+    "priv-hc-text": "Annonsenettverk ser deg som deres produkt. Det har vi ikke. Vi bryr oss ikke hvem brukere er, bare hvor sannsynlig de vil v\u00e6re ondsinnet. Vi st\u00f8tter tiltak som Privacy Pass, og jobber hardt for \u00e5 balansere personvern og sikkerhet.",
+    "sec-hc": "Sikkerhet f\u00f8rst",
+    "sec-hc-text": "hCaptcha er utgiverfokusert. Vi jobber for \u00e5 gi nettsteder ekte data og la dem bestemme hvordan de skal brukes. N\u00f8yaktighet er i din interesse og v\u00e5rt. Andre captchas er levert av reklamefirmaer. Hver bot de blokkerer, kan redusere inntektene.",
     "what-is-hcaptcha": "Hva er hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha hjelper favorittnettjenestene dine med \u00e5 holde unna bots, spam og misbruk ved \u00e5 stille enkle sp\u00f8rsm\u00e5l som er enkle for mennesker og vanskelige for maskiner."
+    "what-is-hcaptcha-text": "hCaptcha hjelper favorittnettjenestene dine med \u00e5 holde unna bots, spam og misbruk ved \u00e5 stille enkle sp\u00f8rsm\u00e5l som er enkle for mennesker og vanskelige for maskiner.",
+    "why-hc": "Hvorfor hCaptcha?",
+    "why-hc-text": "Hver gang du svarer p\u00e5 en utfordring, bruker vi sofistikerte modeller for \u00e5 finne ut om du er menneske eller en maskin. Nettstedet du bes\u00f8kte bruker deretter dette resultatet for \u00e5 forbedre opplevelsen din p\u00e5 nettstedet deres ved \u00e5 holde ut bots."
 }

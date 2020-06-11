@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Pilihan Kebolehcapaian",
+    "acc-opt-but": "Ketahui lebih lanjut mengenai pilihan kebolehaksesan",
+    "acc-opt-text": "Adakah anda cacat penglihatan atau tidak dapat menyelesaikan hCaptchas?",
     "accessibility-link": "Kebolehcapaian",
+    "appreciate-in": "Kami menghargai input anda. Beritahu kami sebarang masalah dan kami akan menyelesaikannya dengan cepat.",
+    "fb-but": "Hantarkan maklum balas kepada kami",
+    "feedback-text": "Berikan maklum balas mengenai hCaptcha yang baru anda lihat",
+    "page-acc-link-1": "Sekiranya anda pengguna kebolehaksesan, sila daftar di sini.",
+    "page-acc-subhead": "Memastikan akses lancar untuk semua pengguna sambil menjaga keselamatan",
+    "page-acc-title": "Maklumat Kebolehcapaian hCaptcha",
+    "priv-hc": "Privasi Tumpuan",
+    "priv-hc-text": "Rangkaian iklan melihat anda sebagai produk mereka. Kami tidak. Kami tidak peduli siapa pengguna, hanya kemungkinan mereka berniat jahat. Kami menyokong inisiatif seperti Privacy Pass, dan bekerja keras untuk mengimbangi privasi dan keselamatan.",
+    "sec-hc": "Keselamatan Pertama",
+    "sec-hc-text": "hCaptcha memberi tumpuan kepada penerbit. Kami berusaha memberikan data sebenar kepada laman web dan membiarkan mereka memutuskan cara menggunakannya. Ketepatan adalah kepentingan anda dan kami. Captchas lain disediakan oleh syarikat pengiklanan. Setiap bot yang mereka blokir dapat mengurangkan pendapatan mereka.",
     "what-is-hcaptcha": "Apa itu hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha membantu perkhidmatan web kegemaran anda untuk mengelakkan bot, spam, dan penyalahgunaan dengan mengemukakan soalan mudah yang mudah untuk manusia dan sukar untuk mesin."
+    "what-is-hcaptcha-text": "hCaptcha membantu perkhidmatan web kegemaran anda untuk mengelakkan bot, spam, dan penyalahgunaan dengan mengemukakan soalan mudah yang mudah untuk manusia dan sukar untuk mesin.",
+    "why-hc": "Mengapa hCaptcha?",
+    "why-hc-text": "Setiap kali anda menjawab cabaran, kami menggunakan model canggih untuk mengetahui sama ada anda manusia atau mesin. Laman web yang anda lawati kemudian menggunakan hasil ini untuk membantu meningkatkan pengalaman anda di laman web mereka dengan menjaga bot."
 }

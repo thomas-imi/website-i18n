@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Prieinamumo parinktys",
+    "acc-opt-but": "Su\u017einokite daugiau apie pritaikym\u0105 ne\u012fgaliesiems",
+    "acc-opt-text": "Ar turite reg\u0117jimo negali\u0105 ar kitaip negalite atlikti \u201ehCaptchas\u201c?",
     "accessibility-link": "Prieinamumas",
+    "appreciate-in": "Mes vertiname j\u016bs\u0173 ind\u0117l\u012f. Prane\u0161kite mums apie bet kokias problemas ir greitai jas i\u0161spr\u0119sime.",
+    "fb-but": "Atsi\u0173skite mums atsiliepim\u0105",
+    "feedback-text": "Pateikite atsiliepim\u0173 apie k\u0105 tik matyt\u0105 \u201ehCaptcha\u201c",
+    "page-acc-link-1": "Jei esate pritaikymo ne\u012fgaliesiems vartotojas, prisiregistruokite \u010dia.",
+    "page-acc-subhead": "Visiems vartotojams u\u017etikrinant skland\u017ei\u0105 prieig\u0105, i\u0161laikant saugum\u0105",
+    "page-acc-title": "\u201ehCaptcha\u201c prieinamumo informacija",
+    "priv-hc": "Sutelktas d\u0117mesys \u012f privatum\u0105",
+    "priv-hc-text": "Skelbim\u0173 tinklai mato jus kaip savo produkt\u0105. Mes to nedarome. Mums ner\u016bpi, kas yra vartotojai, tik kokia tikimyb\u0117, kad jie bus klastingi. Mes palaikome tokias iniciatyvas kaip \u201ePrivacy Pass\u201c ir sunkiai dirbame siekdami subalansuoti privatum\u0105 ir saugum\u0105.",
+    "sec-hc": "Pirmiausia saugumas",
+    "sec-hc-text": "\u201ehCaptcha\u201c yra orientuota \u012f leid\u0117jus. Mes stengiam\u0117s suteikti svetain\u0117ms tikrus duomenis ir leisti jiems nuspr\u0119sti, kaip jais naudotis. Tikslumas yra j\u016bs\u0173 ir m\u016bs\u0173 interesas. Kitus \u201ecaptchas\u201c teikia reklamos kompanijos. Kiekvienas u\u017eblokuotas robotas gali suma\u017einti j\u0173 pajamas.",
     "what-is-hcaptcha": "Kas yra \u201ehCaptcha\u201c?",
-    "what-is-hcaptcha-text": "\u201ehCaptcha\u201c padeda j\u016bs\u0173 m\u0117gstamoms \u017einiatinklio paslaugoms saugoti nuo robot\u0173, \u0161lam\u0161to ir piktnaud\u017eiavimo, u\u017eduodant paprastus klausimus, kurie yra lengvai \u017emon\u0117ms ir ma\u0161inoms sunk\u016bs."
+    "what-is-hcaptcha-text": "\u201ehCaptcha\u201c padeda j\u016bs\u0173 m\u0117gstamoms \u017einiatinklio paslaugoms saugoti nuo robot\u0173, \u0161lam\u0161to ir piktnaud\u017eiavimo, u\u017eduodant paprastus klausimus, kurie yra lengvai \u017emon\u0117ms ir ma\u0161inoms sunk\u016bs.",
+    "why-hc": "Kod\u0117l \u201ehCaptcha\u201c?",
+    "why-hc-text": "Kiekvien\u0105 kart\u0105 atsakydami \u012f i\u0161\u0161\u016bk\u012f naudojame sud\u0117tingesnius modelius, kad i\u0161siai\u0161kintume, ar esate \u017emogus, ar ma\u0161ina. Tada svetain\u0117, kurioje lank\u0117t\u0117s, naudoja \u0161\u012f rezultat\u0105, kad pad\u0117t\u0173 pagerinti j\u016bs\u0173 patirt\u012f j\u0173 svetain\u0117je, nesl\u0117pt\u0173 robot\u0173."
 }

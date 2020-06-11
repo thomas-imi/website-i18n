@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Opsi Aksesibilitas",
+    "acc-opt-but": "Pelajari lebih lanjut tentang opsi aksesibilitas",
+    "acc-opt-text": "Apakah Anda tunanetra atau tidak dapat menyelesaikan hCaptcha?",
     "accessibility-link": "Aksesibilitas",
+    "appreciate-in": "Kami menghargai masukan Anda. Beri tahu kami masalah apa pun dan kami akan menyelesaikannya dengan cepat.",
+    "fb-but": "Kirimkan kami umpan balik",
+    "feedback-text": "Berikan umpan balik pada hCaptcha yang baru saja Anda lihat",
+    "page-acc-link-1": "Jika Anda pengguna aksesibilitas, silakan daftar di sini.",
+    "page-acc-subhead": "Memastikan akses tanpa batas untuk semua pengguna sambil menjaga keamanan",
+    "page-acc-title": "hCaptcha Informasi Aksesibilitas",
+    "priv-hc": "Privasi Berfokus",
+    "priv-hc-text": "Jaringan iklan melihat Anda sebagai produk mereka. Kami tidak. Kami tidak peduli siapa pengguna, hanya seberapa besar kemungkinan mereka berbahaya. Kami mendukung inisiatif seperti Privacy Pass, dan bekerja keras untuk menyeimbangkan privasi dan keamanan.",
+    "sec-hc": "Keamanan Pertama",
+    "sec-hc-text": "hCaptcha berfokus pada penerbit. Kami berupaya memberikan situs data nyata dan membiarkan mereka memutuskan cara menggunakannya. Akurasi adalah minat Anda dan kami. Captcha lainnya disediakan oleh perusahaan periklanan. Setiap bot yang mereka blokir dapat mengurangi pendapatan mereka.",
     "what-is-hcaptcha": "Apa itu hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha membantu layanan web favorit Anda mencegah bot, spam, dan penyalahgunaan dengan mengajukan pertanyaan sederhana yang mudah bagi manusia dan sulit untuk mesin."
+    "what-is-hcaptcha-text": "hCaptcha membantu layanan web favorit Anda mencegah bot, spam, dan penyalahgunaan dengan mengajukan pertanyaan sederhana yang mudah bagi manusia dan sulit untuk mesin.",
+    "why-hc": "Kenapa hCaptcha?",
+    "why-hc-text": "Setiap kali Anda menjawab tantangan, kami menggunakan model-model canggih untuk mencari tahu apakah Anda manusia atau mesin. Situs web yang Anda kunjungi kemudian menggunakan hasil ini untuk membantu meningkatkan pengalaman Anda di situs mereka dengan mencegah bot."
 }

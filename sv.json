@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Hj\u00e4lpmedelsalternativen",
+    "acc-opt-but": "L\u00e4s mer om tillg\u00e4nglighetsalternativ",
+    "acc-opt-text": "\u00c4r du synskadad eller p\u00e5 annat s\u00e4tt inte kan fullf\u00f6lja hCaptchas?",
     "accessibility-link": "Tillg\u00e4nglighet",
+    "appreciate-in": "Vi uppskattar ditt bidrag. L\u00e5t oss veta alla problem s\u00e5 l\u00f6ser vi dem snabbt.",
+    "fb-but": "Skicka feedback",
+    "feedback-text": "Ge feedback p\u00e5 hCaptcha du just s\u00e5g",
+    "page-acc-link-1": "Om du \u00e4r en anv\u00e4ndare av tillg\u00e4nglighet kan du registrera dig h\u00e4r.",
+    "page-acc-subhead": "S\u00e4kerst\u00e4lla s\u00f6ml\u00f6s \u00e5tkomst f\u00f6r alla anv\u00e4ndare med bibeh\u00e5llen s\u00e4kerhet",
+    "page-acc-title": "hCaptcha tillg\u00e4nglighetsinformation",
+    "priv-hc": "Sekretessfokuserad",
+    "priv-hc-text": "Annonsn\u00e4tverk ser dig som deras produkt. Det g\u00f6r vi inte. Vi bryr oss inte om vilka anv\u00e4ndare som \u00e4r, bara hur troligt att de \u00e4r skadliga. Vi st\u00f6der initiativ som Privacy Pass och arbetar h\u00e5rt f\u00f6r att balansera integritet och s\u00e4kerhet.",
+    "sec-hc": "S\u00e4kerhet f\u00f6rst",
+    "sec-hc-text": "hCaptcha \u00e4r utgivare-fokuserad. Vi arbetar f\u00f6r att ge webbplatser verklig information och l\u00e5ta dem best\u00e4mma hur de ska anv\u00e4nda den. Noggrannhet \u00e4r i ditt intresse och v\u00e5rt. Andra captchas tillhandah\u00e5lls av reklamf\u00f6retag. Varje bot de blockerar kan minska sina int\u00e4kter.",
     "what-is-hcaptcha": "Vad \u00e4r hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha hj\u00e4lper dina favoritwebtj\u00e4nster att h\u00e5lla undan bots, spam och missbruk genom att st\u00e4lla enkla fr\u00e5gor som \u00e4r enkla f\u00f6r m\u00e4nniskor och sv\u00e5ra f\u00f6r maskiner."
+    "what-is-hcaptcha-text": "hCaptcha hj\u00e4lper dina favoritwebtj\u00e4nster att h\u00e5lla undan bots, spam och missbruk genom att st\u00e4lla enkla fr\u00e5gor som \u00e4r enkla f\u00f6r m\u00e4nniskor och sv\u00e5ra f\u00f6r maskiner.",
+    "why-hc": "Varf\u00f6r hCaptcha?",
+    "why-hc-text": "Varje g\u00e5ng du besvarar en utmaning anv\u00e4nder vi sofistikerade modeller f\u00f6r att ta reda p\u00e5 om du \u00e4r m\u00e4nniska eller en maskin. Webbplatsen du bes\u00f6kte anv\u00e4nder sedan detta resultat f\u00f6r att f\u00f6rb\u00e4ttra din upplevelse p\u00e5 deras webbplats genom att h\u00e5lla ut bots."
 }

@@ -1,5 +1,20 @@
 {
+    "acc-opt": "El\u00fdeterlilik opsi\u00fdalary",
+    "acc-opt-but": "El\u00fdeterlilik opsi\u00fdalary barada has gi\u0148i\u015fle\u00fdin \u00f6wreni\u0148",
+    "acc-opt-text": "G\u00f6r\u00fc\u015fi\u0148iz pesmi \u00fda-da hCaptchas-y tamamlap bilme\u00fd\u00e4rsi\u0148izmi?",
     "accessibility-link": "El\u00fdeterlilik",
+    "appreciate-in": "Giri\u015fi\u0148ize minnetdar. Islendik mesel\u00e4ni bize habar beri\u0148 we olary \u00e7alt \u00e7\u00f6zeris.",
+    "fb-but": "Bize jogap iberi\u0148",
+    "feedback-text": "Justa\u0148y g\u00f6ren hCaptcha barada seslenme beri\u0148",
+    "page-acc-link-1": "El\u00fdeterlilik ulanyjy bolsa\u0148yz, \u015fu \u00fdere \u00fdazyly\u0148.",
+    "page-acc-subhead": "Howpsuzlygy saklamak bilen \u00e4hli ulanyjylar \u00fc\u00e7in b\u00f6kden\u00e7siz giri\u015fi \u00fcpj\u00fcn etmek",
+    "page-acc-title": "hCaptcha el\u00fdeterlilik maglumatlary",
+    "priv-hc": "Gizlinlik",
+    "priv-hc-text": "Mahabat torlary sizi \u00f6n\u00fcmi h\u00f6km\u00fcnde g\u00f6r\u00fd\u00e4rler. Biz be\u00fdle d\u00e4l. Ulanyjylary\u0148 kimdigi bilen gyzyklanamzok, di\u0148e olary\u0148 zy\u00fdanly bolmagy \u00e4htimal. Gizlinlik Pass \u00fdaly ba\u015flangy\u00e7lary golda\u00fdarys we gizlinligi we howpsuzlygy de\u0148le\u015fdirmek \u00fc\u00e7in k\u00f6p i\u015fle\u00fd\u00e4ris.",
+    "sec-hc": "Howpsuzlyk Ilki",
+    "sec-hc-text": "\u201chCaptcha\u201d ne\u015fir\u00e7\u00e4 g\u00f6n\u00fckdirilen. Sahypalara hakyky maglumatlary bermek we olary n\u00e4dip ulanmalydygyny kesgitlemek \u00fc\u00e7in i\u015fle\u00fd\u00e4ris. Takyklyk sizi\u0148 we bizi\u0148ki. Be\u00fdleki \u00fdazgylar mahabat kompani\u00fdalary tarapyndan \u00fcpj\u00fcn edil\u00fd\u00e4r. Blok eden her bot girdejilerini azaldyp biler.",
     "what-is-hcaptcha": "HCaptcha n\u00e4me?",
-    "what-is-hcaptcha-text": "hCaptcha hala\u00fdan web hyzmatlary\u0148yza, adamlar \u00fc\u00e7in a\u0148sat we ma\u015fynlar \u00fc\u00e7in kyn bolan \u00fd\u00f6neke\u00fd soraglary berip, botlary, spamlary we hy\u00fdanat\u00e7ylyklary saklamaga k\u00f6mek ed\u00fd\u00e4r."
+    "what-is-hcaptcha-text": "hCaptcha hala\u00fdan web hyzmatlary\u0148yza, adamlar \u00fc\u00e7in a\u0148sat we ma\u015fynlar \u00fc\u00e7in kyn bolan \u00fd\u00f6neke\u00fd soraglary berip, botlary, spamlary we hy\u00fdanat\u00e7ylyklary saklamaga k\u00f6mek ed\u00fd\u00e4r.",
+    "why-hc": "N\u00e4me \u00fc\u00e7in hCaptcha?",
+    "why-hc-text": "Her gezek bir kyn\u00e7ylyga jogap bereni\u0148izde, adamdygy\u0148yzy \u00fda-da enjamdygy\u0148yzy anyklamak \u00fc\u00e7in \u00e7yl\u015fyrymly modelleri ulan\u00fdarys. So\u0148ra giren web sahypa\u0148yz, bu netij\u00e4ni botlary saklamak bilen \u00f6z sahypasyndaky tejrib\u00e4\u0148izi \u00fdokarlandyrmak \u00fc\u00e7in ulan\u00fdar."
 }

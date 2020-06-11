@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Likhetho tsa ho fihlella",
+    "acc-opt-but": "Ithute haholoanyane ka likhetho tsa phihlello",
+    "acc-opt-text": "Na o haelloa ke pono kapa ka tsela e &#39;ngoe o sitoa ho qeta hCaptchas?",
     "accessibility-link": "Phihlello",
+    "appreciate-in": "Re leboha litlatsetso tsa hau. Re tsebise mathata afe kapa afe mme re tla a rarolla ka potlako.",
+    "fb-but": "Re romelle maikutlo",
+    "feedback-text": "Fana ka maikutlo ka hCaptcha eo u sa tsoa e bona",
+    "page-acc-link-1": "Haeba u mosebelisi oa phihlello, ka kopo ingolisa mona.",
+    "page-acc-subhead": "Ho netefatsa phihlello ea marang-rang bakeng sa basebelisi bohle ha ba ntse ba boloka ts&#39;ireletso",
+    "page-acc-title": "Tlhahisoleseling ea phihlello ea hCaptcha",
+    "priv-hc": "Lekunutu Li Shebile",
+    "priv-hc-text": "Marang-rang a papatso a u bona u le sehlahisoa sa &#39;ona. Ha re etse joalo. Ha re tsotelle hore na basebelisi ke bo-mang, hore na ba na le menyetla e mekae ea ho ba lonya. Re ts&#39;ehetsa mats&#39;olo a ts&#39;oanang le boithuto ba lekunutu, &#39;me re sebetsa ka thata ho lekana lekunutu le polokeho.",
+    "sec-hc": "Ts&#39;ireletso Pele",
+    "sec-hc-text": "hCaptcha e tsepamisitsoe mohopolo. Re sebeletsa ho fana ka lisaete tsa nnete mme re ba tlohelle hore ba nke qeto ea ho e sebelisa. Ho nepahala ho teng molemong oa hau le oa rona. Barekisi ba bang ba fanoa ke lik&#39;hamphani tsa papatso. Bothata bo bong le bo bong boo ba bo thibelang bo ka fokotsa chelete ea bona.",
     "what-is-hcaptcha": "HCaptcha ke eng?",
-    "what-is-hcaptcha-text": "hCaptcha e thusa lits&#39;ebeletso tsa hau tsa marang-rang tseo u li ratang ho boloka bots, spam le tlhekefetso ka ho botsa lipotso tse bonolo tse bonolo ho batho le tse thata bakeng sa mechini."
+    "what-is-hcaptcha-text": "hCaptcha e thusa lits&#39;ebeletso tsa hau tsa marang-rang tseo u li ratang ho boloka bots, spam le tlhekefetso ka ho botsa lipotso tse bonolo tse bonolo ho batho le tse thata bakeng sa mechini.",
+    "why-hc": "Hobaneng hCaptcha?",
+    "why-hc-text": "Nako le nako ha u araba phephetso, re sebelisa mehlala ea maemo ho tseba hore na u motho kapa mochini. Webosaete eo u e etetseng e sebelisa sepheo sena ho thusa ho ntlafatsa boiphihlelo ba hau sebakeng sa bona ka ho boloka bots."
 }

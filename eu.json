@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Irisgarritasun Aukerak",
+    "acc-opt-but": "Eskura ezazu irisgarritasun aukerei buruz",
+    "acc-opt-text": "Ikusmen urritasuna duzu edo bestela ezin duzu hCaptchas osatu?",
     "accessibility-link": "erabilerraztasuna",
+    "appreciate-in": "Zure sarrera eskertzen dugu Jakinarazi iezaguzu arazo guztiak eta azkar konponduko ditugu.",
+    "fb-but": "Bidal iezaguzu iritzia",
+    "feedback-text": "Eman ikusitako hCaptcha-ri buruzko iritzia",
+    "page-acc-link-1": "Irisgarritasuneko erabiltzailea bazara, eman izena hemen.",
+    "page-acc-subhead": "Erabiltzaile guztientzako sarbidea bermatzea segurtasuna mantentzen duten bitartean",
+    "page-acc-title": "hCaptcha Irisgarritasunari buruzko informazioa",
+    "priv-hc": "Pribatutasuna bideratuta",
+    "priv-hc-text": "Iragarkien sareek beren produktu gisa ikusten dute. Guk ez. Erabiltzaileak nortzuk diren ez zaigu axola, gaiztoak izateaz gain. Pribatutasun pase bezalako ekimenak onartzen ditugu eta gogor lan egiten dugu pribatutasuna eta segurtasuna orekatzeko.",
+    "sec-hc": "Segurtasuna Lehenik",
+    "sec-hc-text": "hCaptcha argitaletxera bideratuta dago. Guneak datu errealak emateko lan egiten dugu eta nola erabili erabakitzen uzten diegu. Zehaztasuna zure interesean dago eta gurean. Beste harrapaketa batzuk publizitate konpainiek ematen dituzte. Blokeatzen duten bot bakoitzak diru sarrerak murriztu ditzake.",
     "what-is-hcaptcha": "Zer da hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha-k zure web zerbitzu gogokoenak botak, spam eta gehiegikeriak mantentzen laguntzen du gizakientzako errazak eta makinak zailak diren galdera errazak eginez."
+    "what-is-hcaptcha-text": "hCaptcha-k zure web zerbitzu gogokoenak botak, spam eta gehiegikeriak mantentzen laguntzen du gizakientzako errazak eta makinak zailak diren galdera errazak eginez.",
+    "why-hc": "Zergatik hCaptcha?",
+    "why-hc-text": "Erronka bati erantzuten dizun bakoitzean, eredu sofistikatuak erabiltzen ditugu gizakia zaren ala makina bat den jakiteko. Bisitatutako webguneak orduan, emaitza hau erabiltzen du euren webgunean esperientzia hobetzen laguntzeko."
 }

@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Pilihan Aksesibilitas",
+    "acc-opt-but": "Sinau luwih lengkap babagan opsi aksesibilitas",
+    "acc-opt-text": "Apa sampeyan cacat visual utawa ora bisa ngrampungake hCaptchas?",
     "accessibility-link": "Aksesibilitas",
+    "appreciate-in": "We appreciate input sampeyan. Ayo ngerti babagan masalah lan kita bakal bisa ngatasi kanthi cepet.",
+    "fb-but": "Kirimi tanggepan",
+    "feedback-text": "Wenehi umpan balik babagan hCaptcha sing lagi wae deleng",
+    "page-acc-link-1": "Yen sampeyan pangguna aksesibilitas, mangga mlebu ing kene.",
+    "page-acc-subhead": "Njamin akses sing rapi kanggo kabeh pangguna nalika njaga keamanan",
+    "page-acc-title": "Informasi Aksesibilitas hCaptcha",
+    "priv-hc": "Kebijakan Fokus",
+    "priv-hc-text": "Jaringan iklan ndeleng sampeyan minangka produk. Aku ora. Kita ora peduli manawa pangguna, mung kepiye cidra mbebayani. Kita ndhukung inisiatif kaya Pass Pass, lan kerja keras kanggo ngimbangi privasi lan keamanan.",
+    "sec-hc": "Keamanan Kaping pisanan",
+    "sec-hc-text": "hCaptcha minangka fokus penerbit. Kita makarya kanggo menehi situs data nyata lan supaya wong-wong mau mutusake cara nggunakake. Akurasi kanggo kapentingan lan kito. Captchas liyane diwenehake dening perusahaan pariwara. Saben bot sing dikatutake bisa nyuda bathi.",
     "what-is-hcaptcha": "Apa sing hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha mbantu layanan web favorit sampeyan supaya bot, spam, lan penyalahgunaan kanthi takon babagan pitakonan sing gampang gampang kanggo manungsa lan angel kanggo mesin."
+    "what-is-hcaptcha-text": "hCaptcha mbantu layanan web favorit sampeyan supaya bot, spam, lan penyalahgunaan kanthi takon babagan pitakonan sing gampang gampang kanggo manungsa lan angel kanggo mesin.",
+    "why-hc": "Napa hCaptcha?",
+    "why-hc-text": "Saben sampeyan mangsuli tantangan, kita nggunakake model sing canggih kanggo ngerti apa sampeyan manungsa utawa mesin. Situs web sing dibukak banjur nggunakake asil iki kanggo mbantu nambah pengalaman ing situs kasebut kanthi tetep bot."
 }

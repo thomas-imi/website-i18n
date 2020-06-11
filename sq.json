@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Opsionet e aksesit",
+    "acc-opt-but": "M\u00ebsoni m\u00eb shum\u00eb rreth opsioneve t\u00eb aksesit",
+    "acc-opt-text": "A jeni i d\u00ebmtuar nga shikimi apo nuk jeni n\u00eb gjendje t\u00eb plot\u00ebsoni hCaptchas?",
     "accessibility-link": "Accessibility",
+    "appreciate-in": "Ne e vler\u00ebsojm\u00eb kontributin tuaj. Na tregoni \u00e7do \u00e7\u00ebshtje dhe ne do t&#39;i zgjidhim ato shpejt.",
+    "fb-but": "Na d\u00ebrgoni reagime",
+    "feedback-text": "Jepni feedback p\u00ebr hCaptcha q\u00eb sapo keni par\u00eb",
+    "page-acc-link-1": "N\u00ebse jeni p\u00ebrdorues i aksesit, ju lutemi regjistrohuni k\u00ebtu.",
+    "page-acc-subhead": "Sigurimi i nj\u00eb aksesi t\u00eb thjesht\u00eb p\u00ebr t\u00eb gjith\u00eb p\u00ebrdoruesit duke ruajtur sigurin\u00eb",
+    "page-acc-title": "Informacioni i hyrjes n\u00eb hCaptcha",
+    "priv-hc": "Fokusi i intimitetit",
+    "priv-hc-text": "Rrjetet e reklamave ju shohin si produktin e tyre. Ne nuk e b\u00ebjm\u00eb Ne nuk na intereson kush jan\u00eb p\u00ebrdoruesit, vet\u00ebm sa ka t\u00eb ngjar\u00eb t\u00eb jen\u00eb ata me q\u00ebllim t\u00eb keq. Ne mb\u00ebshtesim nisma si Pass Pass, dhe punojm\u00eb shum\u00eb p\u00ebr t\u00eb balancuar privat\u00ebsin\u00eb dhe sigurin\u00eb.",
+    "sec-hc": "Siguria e par\u00eb",
+    "sec-hc-text": "hCaptcha \u00ebsht\u00eb p\u00ebrqendruar te botuesit. Ne punojm\u00eb p\u00ebr t&#39;i dh\u00ebn\u00eb faqeve t\u00eb dh\u00ebna t\u00eb v\u00ebrteta dhe t&#39;i l\u00ebm\u00eb ata t\u00eb vendosin se si t&#39;i p\u00ebrdorin ato. Sakt\u00ebsia \u00ebsht\u00eb n\u00eb interesin tuaj dhe ton\u00ebn. Kap\u00ebse t\u00eb tjera sigurohen nga kompanit\u00eb e reklamimit. Botdo bot q\u00eb bllokon mund t\u00eb zvog\u00ebloj\u00eb t\u00eb ardhurat e tyre.",
     "what-is-hcaptcha": "Isfar\u00eb \u00ebsht\u00eb hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha ndihmon sh\u00ebrbimet e tua t\u00eb preferuara t\u00eb uebit t\u00eb mbajn\u00eb larg bots, spam dhe abuzim duke b\u00ebr\u00eb pyetje t\u00eb thjeshta q\u00eb jan\u00eb t\u00eb lehta p\u00ebr njer\u00ebzit dhe t\u00eb v\u00ebshtira p\u00ebr makinat."
+    "what-is-hcaptcha-text": "hCaptcha ndihmon sh\u00ebrbimet e tua t\u00eb preferuara t\u00eb uebit t\u00eb mbajn\u00eb larg bots, spam dhe abuzim duke b\u00ebr\u00eb pyetje t\u00eb thjeshta q\u00eb jan\u00eb t\u00eb lehta p\u00ebr njer\u00ebzit dhe t\u00eb v\u00ebshtira p\u00ebr makinat.",
+    "why-hc": "Pse hCaptcha?",
+    "why-hc-text": "Sa her\u00eb q\u00eb i p\u00ebrgjigjeni nj\u00eb sfide, ne p\u00ebrdorim modele t\u00eb sofistikuara p\u00ebr t\u00eb kuptuar n\u00ebse jeni njer\u00ebz apo makin\u00eb. Uebsajti q\u00eb vizituat at\u00ebher\u00eb e p\u00ebrdor k\u00ebt\u00eb rezultat p\u00ebr t\u00eb ndihmuar n\u00eb p\u00ebrmir\u00ebsimin e p\u00ebrvoj\u00ebs tuaj n\u00eb faqen e tyre duke mbajtur jasht\u00eb bote."
 }

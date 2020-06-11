@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Avanoa Avanoa",
+    "acc-opt-but": "A\u02bboa\u02bbo atili e uiga i fa\u02bbatagaina filifiliga",
+    "acc-opt-text": "O lo\u02bbo e va\u02bbai fa\u02bbafitauli pe le mafai ona fa\u02bbatumu le hCaptchas?",
     "accessibility-link": "Avanoa",
+    "appreciate-in": "Matou te talisapaia lou sao. Fa\u02bbailoa ia i matou ni mataupu ma o le a matou foia vave.",
+    "fb-but": "Auina mai ia matou fa\u02bbamatalaga",
+    "feedback-text": "Fa\u02bbailoa mai ni manatu i luga ole hCaptcha na e va\u02bbaia",
+    "page-acc-link-1": "Afai o oe o se tagata ulufale ulufale, fa\u02bbamolemole saini iinei.",
+    "page-acc-subhead": "Mautinoa le fa\u02bbaaogaina faigofie mo tagata uma e fa\u02bbaaogaina le tausiga",
+    "page-acc-title": "hCaptcha Avanoa Fa\u02bbamatalaga",
+    "priv-hc": "Tulaga faalilolilo Taulai",
+    "priv-hc-text": "Fa\u02bbaliga va\u02bbaia va\u02bbaia oe o lo latou oloa. Matou te le. Tatou te le popole fo\u02bbi poo ai e fa\u02bbaaoga, pau lava le mea e ono o latou loto leaga. Matou te lagolagoina polokalame pei ole Privacy Pass, ma matou galulue malosi e faapaleni le le faalauaiteleina ma le puipuia.",
+    "sec-hc": "Puipuiga Muamua",
+    "sec-hc-text": "hCaptcha o fa\u02bbasalalauga-fa\u02bbapitoa. Matou te galulue e tu\u02bbuina atu upega tafailagi o fa\u02bbamatalaga moni ma tuu latou latou filifili pe fa\u02bbapefea ona fa\u02bbaaoga. Tonu o lo oe fiafia ma matou. O isi captchas e maua e kamupani fa\u02bbasalalau. O bot uma latou te polokaina e ono fa\u02bbaititia a latou tupe maua.",
     "what-is-hcaptcha": "O le a le hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha fesoasoani i mea e sili ona e fiafia iai i luga o le upega tafailagi e taofia ai bots, spam, ma le fa\u02bbaleagaina e ala i le faia o ni fesili faigofie e faigofie mo tagata ma faigata mo masini."
+    "what-is-hcaptcha-text": "hCaptcha fesoasoani i mea e sili ona e fiafia iai i luga o le upega tafailagi e taofia ai bots, spam, ma le fa\u02bbaleagaina e ala i le faia o ni fesili faigofie e faigofie mo tagata ma faigata mo masini.",
+    "why-hc": "Aisea hCaptcha?",
+    "why-hc-text": "O taimi uma e te taliina se lu\u02bbi, matou te fa\u02bbaaogaina ni fa\u02bbata\u02bbita\u02bbiga lelei e iloa ai pe o oe o se tagata pe o se masini. O le &#39;upega tafa\u02bbilagi na e asia fa\u02bbaaogaina ai lenei fa\u02bbaiuga e fesoasoani e fa\u02bbaleleia atili lou poto masani i luga o la latou&#39; &#39;upega tafa\u02bbilagi i le tausia ese o ni bot."
 }

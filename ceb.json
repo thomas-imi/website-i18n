@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Mga kapilian sa pag-access",
+    "acc-opt-but": "Pagkat-on og dugang bahin sa mga kapilian sa pag-access",
+    "acc-opt-text": "May panan-aw ka ba sa biswal o kung dili nimo makompleto ang hCaptchas?",
     "accessibility-link": "Pag-access",
+    "appreciate-in": "Gipabilhan namon ang imong input. Hibal-i namon ang bisan unsang mga isyu ug dali namon kini nga masulbad.",
+    "fb-but": "Magpadala kami feedback",
+    "feedback-text": "Paghatag feedback sa hCaptcha nga imong nakita",
+    "page-acc-link-1": "Kung ikaw usa ka tiggamit nga magamit, palihug mag-sign up dinhi.",
+    "page-acc-subhead": "Pagsiguro sa seamless access alang sa tanan nga mga tiggamit samtang nagpadayon sa seguridad",
+    "page-acc-title": "Ang kasayuran sa Pagkapili sa hCaptcha",
+    "priv-hc": "Gipunting ang Pagkapribado",
+    "priv-hc-text": "Ang mga network network makita kanimo ingon nga ilang produkto. Dili kami. Wala kami nahibal-an kung kinsa ang mga tiggamit, kon unsa ka dali sila makadaot. Gisuportahan namon ang mga inisyatibo sama sa Privacy Pass, ug naningkamot pag-ayo aron mabalanse ang pagkapribado ug kasiguruhan.",
+    "sec-hc": "Una ang Kalig-on",
+    "sec-hc-text": "Ang hCaptcha mao ang nakapunting sa publisher. Nagtrabaho kami aron mahatagan ang mga site nga tinuud nga datos ug tugutan sila nga magdesisyon kung unsaon kini paggamit. Ang tukma naa sa imong interes ug ato. Ang uban nga mga bihag gihatag sa mga kompanya sa advertising. Ang matag bot nga ilang gibabagan mahimong makunhuran ang ilang kinitaan.",
     "what-is-hcaptcha": "Unsa man ang hCaptcha?",
-    "what-is-hcaptcha-text": "Gitabangan sa hCaptcha ang imong paborito nga mga serbisyo sa web nga mapadayon ang mga bot, spam, ug pag-abuso pinaagi sa pagpangutana sa yano nga mga pangutana nga sayon alang sa mga tawo ug lisud alang sa mga makina."
+    "what-is-hcaptcha-text": "Gitabangan sa hCaptcha ang imong paborito nga mga serbisyo sa web nga mapadayon ang mga bot, spam, ug pag-abuso pinaagi sa pagpangutana sa yano nga mga pangutana nga sayon alang sa mga tawo ug lisud alang sa mga makina.",
+    "why-hc": "Ngano ang hCaptcha?",
+    "why-hc-text": "Matag higayon nga makatubag ka usa ka hagit, gigamit namon ang mga sopistikado nga mga modelo aron mahibal-an kung ikaw ba tawo o makina. Ang website nga imong gibisitahan unya gigamit kini nga sangputanan aron matabangan ang pagpaayo sa imong kasinatian sa ilang site pinaagi sa pagpadayon sa mga bot."
 }

@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Chaguzi za Ufikiaji",
+    "acc-opt-but": "Jifunze zaidi juu ya chaguzi za ufikiaji",
+    "acc-opt-text": "Je! Umelemavu au hauwezi kukamilisha hCaptchas?",
     "accessibility-link": "Ufikiaji",
+    "appreciate-in": "Tunashukuru maoni yako. Wacha tujue maswala yoyote na tutayasuluhisha haraka.",
+    "fb-but": "Tutumie maoni",
+    "feedback-text": "Toa maoni juu ya hCaptcha uliyoona hivi karibuni",
+    "page-acc-link-1": "Ikiwa wewe ni mtumiaji wa upatikanaji, tafadhali jisajili hapa.",
+    "page-acc-subhead": "Kuhakikisha upatikanaji wa mshono kwa watumiaji wote wakati wa kudumisha usalama",
+    "page-acc-title": "Habari ya Upataji wa hCaptcha",
+    "priv-hc": "Usiri wa Usiri",
+    "priv-hc-text": "Mitandao ya matangazo inakuona kama bidhaa yao. Hatufanyi. Hatujali watumiaji ni nani, tu wana uwezekano wa kuwa mbaya. Tunasaidia mipango kama Pass ya faragha, na tunafanya bidii kusawazisha faragha na usalama.",
+    "sec-hc": "Usalama Kwanza",
+    "sec-hc-text": "hCaptcha imelenga-chapisha. Tunafanya kazi kupeana data halisi na waache waamue jinsi ya kuitumia. Usahihi ni kwa faida yako na yetu. Captchas zingine hutolewa na kampuni za matangazo. Kila bot wanayozuia inaweza kupunguza mapato yao.",
     "what-is-hcaptcha": "HCaptcha ni nini?",
-    "what-is-hcaptcha-text": "hCaptcha husaidia huduma zako za wavuti unazopenda kuweka bots, spam, na unyanyasaji kwa kuuliza maswali rahisi ambayo ni rahisi kwa wanadamu na ngumu kwa mashine."
+    "what-is-hcaptcha-text": "hCaptcha husaidia huduma zako za wavuti unazopenda kuweka bots, spam, na unyanyasaji kwa kuuliza maswali rahisi ambayo ni rahisi kwa wanadamu na ngumu kwa mashine.",
+    "why-hc": "Kwa nini hCaptcha?",
+    "why-hc-text": "Kila wakati unajibu changamoto, tunatumia mifano ya kisasa kubaini ikiwa wewe ni binadamu au mashine. Wavuti uliyotembelea basi hutumia matokeo haya kusaidia kuboresha hali yako ya uzoefu kwenye wavuti yao kwa kuweka nje bots."
 }

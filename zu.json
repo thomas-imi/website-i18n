@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Izinketho Zokufinyelela",
+    "acc-opt-but": "Funda kabanzi mayelana nezinketho zokungeneka",
+    "acc-opt-text": "Ngabe ungaboni kahle noma awukwazi ukuqeda i-hCaptchas?",
     "accessibility-link": "Ukutholakala",
+    "appreciate-in": "Siyabonga ukufaka kwakho. Sazise noma yiziphi izingqinamba futhi sizozixazulula ngokushesha.",
+    "fb-but": "Sithumele impendulo",
+    "feedback-text": "Nikeza impendulo ku-hCaptcha osanda kuyibona",
+    "page-acc-link-1": "Uma ungumsebenzisi wokufinyelela, sicela ubhalise lapha.",
+    "page-acc-subhead": "Ukuqinisekisa ukufinyeleleka komthungo kwabo bonke abasebenzisi ngenkathi kugcinwa ukuphepha",
+    "page-acc-title": "Imininingwane yokuFinyeleleka ye-hCaptcha",
+    "priv-hc": "Ubumfihlo Ugxilwe",
+    "priv-hc-text": "Amanethiwekhi ezikhangiso akubona njengomkhiqizo wawo. Asazi. Asinendaba ukuthi abasebenzisi banjani, kuphela ukuthi bangaba yingozi kangakanani. Sisekela imizamo efana ne-Privacy Pass, futhi sisebenza kanzima ukulinganisa ubumfihlo nokuphepha.",
+    "sec-hc": "Ezokuphepha Okokuqala",
+    "sec-hc-text": "I-hCaptcha igxile kumshicileli. Sisebenzela ukunika amasayithi idatha yangempela futhi sibavumele banqume ukuthi bayisebenzisa kanjani. Ukunemba kuyintshisekelo yakho neyethu. Ezinye izikhulu zinikezwa yizinkampani zokukhangisa. Wonke ama-bot awavimbayo anganciphisa imali ayitholayo.",
     "what-is-hcaptcha": "Yini i-hCaptcha?",
-    "what-is-hcaptcha-text": "i-hCaptcha isiza izinsizakalo zakho zewebhu eziyizintandokazi ukugcina i-bots, ogaxekile, kanye nokuhlukumeza ngokubuza imibuzo elula elula kubantu futhi enzima ngemishini."
+    "what-is-hcaptcha-text": "i-hCaptcha isiza izinsizakalo zakho zewebhu eziyizintandokazi ukugcina i-bots, ogaxekile, kanye nokuhlukumeza ngokubuza imibuzo elula elula kubantu futhi enzima ngemishini.",
+    "why-hc": "Kungani hCaptcha?",
+    "why-hc-text": "Njalo lapho uphendula inselelo, sisebenzisa amamodeli amnandi ukuthola ukuthi ungumuntu noma ungumshini. Iwebhusayithi oyivakashele isebenzisa lo mphumela ukusiza ukuthuthukisa ulwazi lwakho kusayithi labo ngokugcina i-bots."
 }

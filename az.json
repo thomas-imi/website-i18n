@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Giri\u015f Se\u00e7iml\u0259ri",
+    "acc-opt-but": "Giri\u015f se\u00e7iml\u0259ri haqq\u0131nda daha \u00e7ox m\u0259lumat \u0259ld\u0259 edin",
+    "acc-opt-text": "G\u00f6rm\u0259 qabiliyy\u0259tli v\u0259 ya ba\u015fqa bir \u015f\u0259kild\u0259 hCaptchas&#39;\u0131 tamamlaya bilmirsiniz?",
     "accessibility-link": "\u018fl\u00e7atanl\u0131q",
+    "appreciate-in": "Giri\u015finizi qiym\u0259tl\u0259ndiririk. H\u0259r hans\u0131 bir m\u0259s\u0259l\u0259ni biz\u0259 bildirin v\u0259 tez bir zamanda h\u0259ll ed\u0259c\u0259yik.",
+    "fb-but": "Biz\u0259 r\u0259y g\u00f6nd\u0259rin",
+    "feedback-text": "G\u00f6rd\u00fcy\u00fcn\u00fcz hCaptcha haqq\u0131nda r\u0259y verin",
+    "page-acc-link-1": "\u018fl\u00e7atanl\u0131q istifad\u0259\u00e7isisinizs\u0259, xahi\u015f edir\u0259m burada qeydiyyatdan ke\u00e7in.",
+    "page-acc-subhead": "T\u0259hl\u00fck\u0259sizliyi qoruyark\u0259n b\u00fct\u00fcn istifad\u0259\u00e7il\u0259r \u00fc\u00e7\u00fcn problemsiz giri\u015fi t\u0259min etm\u0259k",
+    "page-acc-title": "hCaptcha Giri\u015f M\u0259lumat\u0131",
+    "priv-hc": "M\u0259xfilik diqq\u0259t m\u0259rk\u0259zind\u0259",
+    "priv-hc-text": "Reklam \u015f\u0259b\u0259k\u0259l\u0259ri sizi m\u0259hsulu olaraq g\u00f6r\u00fcr. Biz etmirik. \u0130stifad\u0259\u00e7il\u0259rin kim oldu\u011funa \u0259h\u0259miyy\u0259t vermirik, yaln\u0131z z\u0259r\u0259rli olma ehtimal\u0131 n\u0259 q\u0259d\u0259rdir. Privacy Pass kimi t\u0259\u015f\u0259bb\u00fcsl\u0259ri d\u0259st\u0259kl\u0259yirik v\u0259 m\u0259xfilik v\u0259 t\u0259hl\u00fck\u0259sizliyi tarazla\u015fd\u0131rmaq \u00fc\u00e7\u00fcn \u00e7ox \u00e7al\u0131\u015f\u0131r\u0131q.",
+    "sec-hc": "\u018fvv\u0259lc\u0259 t\u0259hl\u00fck\u0259sizlik",
+    "sec-hc-text": "hCaptcha na\u015fir y\u00f6n\u00fcml\u00fcd\u00fcr. Saytlara real m\u0259lumatlar verm\u0259k \u00fc\u00e7\u00fcn \u00e7al\u0131\u015f\u0131r\u0131q v\u0259 onlardan nec\u0259 istifad\u0259 ed\u0259c\u0259yin\u0259 q\u0259rar ver\u0259k. D\u0259qiqlik sizin maraqlar\u0131n\u0131zdad\u0131r v\u0259 biziml\u0259dir. Dig\u0259r tutulmalar reklam \u015firk\u0259tl\u0259ri t\u0259r\u0259find\u0259n t\u0259min edilir. T\u0131xand\u0131qlar\u0131 h\u0259r bot g\u0259lirl\u0259rini azalda bil\u0259r.",
     "what-is-hcaptcha": "HCaptcha n\u0259dir?",
-    "what-is-hcaptcha-text": "hCaptcha, sevdiyiniz veb xidm\u0259tl\u0259riniz\u0259 insanlar \u00fc\u00e7\u00fcn asan v\u0259 ma\u015f\u0131nlar \u00fc\u00e7\u00fcn \u00e7\u0259tin olan sad\u0259 suallar verm\u0259kl\u0259 botlardan, spamdan v\u0259 sui-istifad\u0259 hallar\u0131ndan qorunma\u011fa k\u00f6m\u0259k edir."
+    "what-is-hcaptcha-text": "hCaptcha, sevdiyiniz veb xidm\u0259tl\u0259riniz\u0259 insanlar \u00fc\u00e7\u00fcn asan v\u0259 ma\u015f\u0131nlar \u00fc\u00e7\u00fcn \u00e7\u0259tin olan sad\u0259 suallar verm\u0259kl\u0259 botlardan, spamdan v\u0259 sui-istifad\u0259 hallar\u0131ndan qorunma\u011fa k\u00f6m\u0259k edir.",
+    "why-hc": "Niy\u0259 hCaptcha?",
+    "why-hc-text": "H\u0259r d\u0259f\u0259 bir \u00e7a\u011f\u0131r\u0131\u015fa cavab ver\u0259rk\u0259n, insan v\u0259 ya ma\u015f\u0131n oldu\u011funuzu anlamaq \u00fc\u00e7\u00fcn m\u00fcr\u0259kk\u0259b modell\u0259rd\u0259n istifad\u0259 edirik. Daha sonra ziyar\u0259t etdiyiniz veb sayt bu n\u0259tic\u0259ni istifad\u0259 ed\u0259r\u0259k saytlar\u0131nda t\u0259cr\u00fcb\u0259l\u0259rini yax\u015f\u0131la\u015fd\u0131raraq botlar\u0131 saxlamadan istifad\u0259 edir."
 }

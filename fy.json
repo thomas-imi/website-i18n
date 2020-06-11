@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Opsjes foar tagonklikens",
+    "acc-opt-but": "Learje mear oer tagonklikensopsjes",
+    "acc-opt-text": "Binne jo fisueel beheind of kinne jo net hCaptchas folt\u00f4gje?",
     "accessibility-link": "Tagonklikheid",
+    "appreciate-in": "Wy wurdearje jo ynbring. Lit \u00fas eventuele problemen witte en wy sille se fluch oplosse.",
+    "fb-but": "Stjoer \u00fas feedback",
+    "feedback-text": "Jou feedback oer de hCaptcha dy&#39;t jo krekt seagen",
+    "page-acc-link-1": "As jo in br\u00fbker fan tagonklikens binne, registrearje jo hjir dan.",
+    "page-acc-subhead": "Soargje foar naadleaze tagong foar alle br\u00fbkers wylst beh\u00e2ld fan feiligens",
+    "page-acc-title": "hCaptcha Tagonklikensynformaasje",
+    "priv-hc": "Privacy Fokusearre",
+    "priv-hc-text": "Advertinsjenetwurken sjogge jo as har produkt. Dat dogge wy net. It makket \u00fas net \u00fat wa&#39;t br\u00fbkers binne, allinich hoe wierskynlik se kwea binne. Wy stypje inisjativen lykas Privacy Pass, en wurkje hurd om privacy en feiligens te balansearjen.",
+    "sec-hc": "Feiligens earst",
+    "sec-hc-text": "hCaptcha is \u00fatjouwer-rjochte. Wy wurkje om siden wirklike gegevens te jaan en litte se beslute hoe&#39;t se it br\u00fbke. De krektens is yn jo belang en fan \u00fas. Oare captchas wurde levere troch reklamebedriuwen. Elke bot dy&#39;t se blokkearje, kin har ynkomsten ferminderje.",
     "what-is-hcaptcha": "Wat is hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha helpt jo favorite webservers bots, spam en misbr\u00fbk \u00fat te h\u00e2lden troch ienf\u00e2ldige fragen te stellen dy&#39;t maklik binne foar minsken en lestich foar masines."
+    "what-is-hcaptcha-text": "hCaptcha helpt jo favorite webservers bots, spam en misbr\u00fbk \u00fat te h\u00e2lden troch ienf\u00e2ldige fragen te stellen dy&#39;t maklik binne foar minsken en lestich foar masines.",
+    "why-hc": "W\u00earom hCaptcha?",
+    "why-hc-text": "Elke kear as jo in \u00fatdaging beantwurdzje, br\u00fbke wy sobere modellen om \u00fat te finen oft jo minske binne as in masine. De webside dy&#39;t jo besochten br\u00fbkt dit resultaat om jo \u00fbnderfining op har side te ferbetterjen troch bots \u00fat te h\u00e2lden."
 }

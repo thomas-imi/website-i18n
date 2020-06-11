@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Zugangsm\u00f6glichkeiten",
+    "acc-opt-but": "Erfahren Sie mehr \u00fcber Eingabehilfen",
+    "acc-opt-text": "Sind Sie sehbehindert oder anderweitig nicht in der Lage, hCaptchas zu absolvieren?",
     "accessibility-link": "Barrierefreiheit",
+    "appreciate-in": "Wir freuen uns \u00fcber Ihre Beitr\u00e4ge. Lassen Sie uns alle Probleme wissen und wir werden sie schnell l\u00f6sen.",
+    "fb-but": "Sende uns Feedback",
+    "feedback-text": "Geben Sie Feedback zu dem gerade gesehenen hCaptcha",
+    "page-acc-link-1": "Wenn Sie ein Benutzer f\u00fcr Barrierefreiheit sind, melden Sie sich bitte hier an.",
+    "page-acc-subhead": "Gew\u00e4hrleistung eines nahtlosen Zugriffs f\u00fcr alle Benutzer bei gleichzeitiger Wahrung der Sicherheit",
+    "page-acc-title": "Informationen zur Barrierefreiheit von hCaptcha",
+    "priv-hc": "Datenschutz fokussiert",
+    "priv-hc-text": "Werbenetzwerke sehen Sie als ihr Produkt. Wir nicht. Es ist uns egal, wer Benutzer sind, nur wie wahrscheinlich es ist, dass sie b\u00f6sartig sind. Wir unterst\u00fctzen Initiativen wie den Privacy Pass und arbeiten hart daran, Datenschutz und Sicherheit in Einklang zu bringen.",
+    "sec-hc": "Sicherheit geht vor",
+    "sec-hc-text": "hCaptcha konzentriert sich auf Verlage. Wir arbeiten daran, Websites echte Daten zu geben und sie entscheiden zu lassen, wie sie verwendet werden sollen. Die Genauigkeit liegt in Ihrem und unserem Interesse. Andere Captchas werden von Werbefirmen bereitgestellt. Jeder Bot, den sie blockieren, kann ihre Einnahmen reduzieren.",
     "what-is-hcaptcha": "Was ist hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha hilft Ihren bevorzugten Webdiensten, Bots, Spam und Missbrauch fernzuhalten, indem einfache Fragen gestellt werden, die f\u00fcr Menschen einfach und f\u00fcr Maschinen schwierig sind."
+    "what-is-hcaptcha-text": "hCaptcha hilft Ihren bevorzugten Webdiensten, Bots, Spam und Missbrauch fernzuhalten, indem einfache Fragen gestellt werden, die f\u00fcr Menschen einfach und f\u00fcr Maschinen schwierig sind.",
+    "why-hc": "Warum hCaptcha?",
+    "why-hc-text": "Jedes Mal, wenn Sie eine Herausforderung beantworten, verwenden wir ausgefeilte Modelle, um herauszufinden, ob Sie ein Mensch oder eine Maschine sind. Die von Ihnen besuchte Website verwendet dieses Ergebnis, um Ihre Erfahrung auf ihrer Website zu verbessern, indem Bots ferngehalten werden."
 }

@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Opcije pristupa\u010dnosti",
+    "acc-opt-but": "Saznajte vi\u0161e o opcijama pristupa\u010dnosti",
+    "acc-opt-text": "Jeste li slabovidni ili ne mo\u017eete dovr\u0161iti hCaptchas?",
     "accessibility-link": "Pristupa\u010dnost",
+    "appreciate-in": "Cijenimo va\u0161 doprinos. Javite nam bilo koja pitanja i brzo \u0107emo ih rije\u0161iti.",
+    "fb-but": "Po\u0161aljite nam povratne informacije",
+    "feedback-text": "Dajte povratne informacije o hCaptcha koji ste upravo vidjeli",
+    "page-acc-link-1": "Ako ste korisnik pristupa\u010dnosti, prijavite se ovdje.",
+    "page-acc-subhead": "Osiguravanje besprijekornog pristupa svim korisnicima uz odr\u017eavanje sigurnosti",
+    "page-acc-title": "Informacije o pristupa\u010dnosti hCaptcha",
+    "priv-hc": "Privatnost fokusirana",
+    "priv-hc-text": "Oglasne mre\u017ee vide vas kao njihov proizvod. Mi ne. Ne zanima nas ko su korisnici, samo koliko su vjerojatni da \u0107e biti zlonamerni. Podr\u017eavamo inicijative poput Privacy Pass-a i naporno radimo na uravnote\u017eenju privatnosti i sigurnosti.",
+    "sec-hc": "Prvo sigurnost",
+    "sec-hc-text": "hCaptcha je fokusiran na izdava\u010da. Radimo na tome da web stranicama pru\u017eimo stvarne podatke i pustimo ih da odlu\u010de kako \u0107e ih koristiti. Preciznost je u va\u0161em interesu i nama. Ostale kaptole pru\u017eaju reklamne kompanije. Svaki bot koji blokiraju mo\u017ee smanjiti svoj prihod.",
     "what-is-hcaptcha": "\u0160to je hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha poma\u017ee va\u0161im omiljenim web uslugama da spre\u010de botove, ne\u017eeljenu po\u0161tu i zloupotrebu postavljanjem jednostavnih pitanja koja su jednostavna za ljude i te\u0161ka za ma\u0161ine."
+    "what-is-hcaptcha-text": "hCaptcha poma\u017ee va\u0161im omiljenim web uslugama da spre\u010de botove, ne\u017eeljenu po\u0161tu i zloupotrebu postavljanjem jednostavnih pitanja koja su jednostavna za ljude i te\u0161ka za ma\u0161ine.",
+    "why-hc": "Za\u0161to hCaptcha?",
+    "why-hc-text": "Svaki put kada odgovorite na izazov, koristimo sofisticirane modele kako bismo shvatili da li ste \u010dovjek ili stroj. Web lokacija koju ste posjetili tada koristi ovaj rezultat za pobolj\u0161anje va\u0161eg iskustva na njihovoj web stranici \u010duvanjem botova."
 }

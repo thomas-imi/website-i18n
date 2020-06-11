@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Alireblaj Ebloj",
+    "acc-opt-but": "Lernu pli pri alireblecoj",
+    "acc-opt-text": "\u0108u vi videblas a\u016d alie ne kapablas plenumi hCaptchas?",
     "accessibility-link": "Alirebleco",
+    "appreciate-in": "Ni dankas vian enigon. Informu nin pri problemoj kaj ni solvu ilin rapide.",
+    "fb-but": "Sendu retpo\u015dton al ni",
+    "feedback-text": "Provizu sugestojn pri la hCaptcha, kiun vi \u0135us vidis",
+    "page-acc-link-1": "Se vi estas alirebla uzanto, bonvolu registri\u011di \u0109i tie.",
+    "page-acc-subhead": "Certigante sen\u0109esan aliron por \u0109iuj uzantoj dum konservado de sekureco",
+    "page-acc-title": "Informoj pri Alirebleco de hCaptcha",
+    "priv-hc": "Privateco Fokusigita",
+    "priv-hc-text": "Reklamaj retoj vidas vin kiel ilia produkto. Ni ne faras. Ni ne zorgas, kiuj uzantoj estas, sed kiom probable ili estas malicaj. Ni subtenas iniciatojn kiel Private Pass, kaj laboras forte por ekvilibrigi privatecon kaj sekurecon.",
+    "sec-hc": "Sekureco Unue",
+    "sec-hc-text": "hCaptcha estas eldonisto-fokusita. Ni laboras por doni realajn datumojn al retejoj kaj lasi ilin decidi kiel uzi \u011din. Precizeco interesas vin kaj nian. Aliaj kaptitoj estas reklamitaj de reklamaj kompanioj. \u0108iu bot, kiun ili blokas, povus redukti siajn enspezojn.",
     "what-is-hcaptcha": "Kio estas hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha helpas viajn plej \u015datatajn retajn servojn konservi bots, spamojn kaj misuzojn demandante simplajn demandojn, kiuj estas facilaj por homoj kaj malfacilaj por ma\u015dinoj."
+    "what-is-hcaptcha-text": "hCaptcha helpas viajn plej \u015datatajn retajn servojn konservi bots, spamojn kaj misuzojn demandante simplajn demandojn, kiuj estas facilaj por homoj kaj malfacilaj por ma\u015dinoj.",
+    "why-hc": "Kial hCaptcha?",
+    "why-hc-text": "\u0108iufoje kiam vi respondas defion, ni uzas sofistikajn modelojn por konstati \u0109u vi estas homo a\u016d ma\u015dino. La retejo, kiun vi vizitis, uzas \u0109i tiun rezulton por plibonigi vian sperton sur ilia retejo per konservado de bots."
 }

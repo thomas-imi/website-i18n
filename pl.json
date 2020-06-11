@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Opcje u\u0142atwie\u0144 dost\u0119pu",
+    "acc-opt-but": "Dowiedz si\u0119 wi\u0119cej o opcjach u\u0142atwie\u0144 dost\u0119pu",
+    "acc-opt-text": "Czy jeste\u015b niedowidz\u0105cy lub w inny spos\u00f3b nie jeste\u015b w stanie uko\u0144czy\u0107 hCaptchas?",
     "accessibility-link": "Dost\u0119pno\u015b\u0107",
+    "appreciate-in": "Dzi\u0119kujemy za wk\u0142ad. Daj nam zna\u0107 o wszelkich problemach, a my szybko je rozwi\u0105\u017cemy.",
+    "fb-but": "Wy\u015blij nam opinie",
+    "feedback-text": "Przeka\u017c opini\u0119 na temat hCaptcha, kt\u00f3r\u0105 w\u0142a\u015bnie widzia\u0142e\u015b",
+    "page-acc-link-1": "Je\u015bli jeste\u015b u\u017cytkownikiem u\u0142atwie\u0144 dost\u0119pu, zarejestruj si\u0119 tutaj.",
+    "page-acc-subhead": "Zapewnienie bezproblemowego dost\u0119pu dla wszystkich u\u017cytkownik\u00f3w przy jednoczesnym zachowaniu bezpiecze\u0144stwa",
+    "page-acc-title": "hCaptcha Informacje o dost\u0119pno\u015bci",
+    "priv-hc": "Koncentracja na prywatno\u015bci",
+    "priv-hc-text": "Sieci reklamowe postrzegaj\u0105 Ci\u0119 jako sw\u00f3j produkt. My nie. Nie obchodzi nas, kim s\u0105 u\u017cytkownicy, tylko prawdopodobie\u0144stwo, \u017ce b\u0119d\u0105 z\u0142o\u015bliwi. Wspieramy inicjatywy takie jak Privacy Pass i ci\u0119\u017cko pracujemy, aby zr\u00f3wnowa\u017cy\u0107 prywatno\u015b\u0107 i bezpiecze\u0144stwo.",
+    "sec-hc": "Bezpiecze\u0144stwo przede wszystkim",
+    "sec-hc-text": "hCaptcha koncentruje si\u0119 na wydawcach. Pracujemy nad tym, aby witryny by\u0142y prawdziwe i pozwala\u0142y im decydowa\u0107, jak z nich korzysta\u0107. Dok\u0142adno\u015b\u0107 le\u017cy w twoim interesie i naszym. Inne captchas s\u0105 dostarczane przez firmy reklamowe. Ka\u017cdy bot, kt\u00f3ry zablokuj\u0105, mo\u017ce zmniejszy\u0107 swoje przychody.",
     "what-is-hcaptcha": "Co to jest hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha pomaga twoim ulubionym us\u0142ugom internetowym unika\u0107 bot\u00f3w, spamu i nadu\u017cy\u0107, zadaj\u0105c proste pytania, kt\u00f3re s\u0105 \u0142atwe dla ludzi i trudne dla maszyn."
+    "what-is-hcaptcha-text": "hCaptcha pomaga twoim ulubionym us\u0142ugom internetowym unika\u0107 bot\u00f3w, spamu i nadu\u017cy\u0107, zadaj\u0105c proste pytania, kt\u00f3re s\u0105 \u0142atwe dla ludzi i trudne dla maszyn.",
+    "why-hc": "Dlaczego hCaptcha?",
+    "why-hc-text": "Za ka\u017cdym razem, gdy odpowiadasz na wyzwanie, u\u017cywamy zaawansowanych modeli, aby dowiedzie\u0107 si\u0119, czy jeste\u015b cz\u0142owiekiem, czy maszyn\u0105. Witryna, kt\u00f3r\u0105 odwiedzi\u0142e\u015b, wykorzystuje ten wynik, aby poprawi\u0107 jako\u015b\u0107 korzystania ze swojej witryny, blokuj\u0105c boty."
 }

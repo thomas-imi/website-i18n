@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Pieejam\u012bbas opcijas",
+    "acc-opt-but": "Uzziniet vair\u0101k par piek\u013cuves iesp\u0113j\u0101m",
+    "acc-opt-text": "Vai esat v\u0101jredz\u012bgs vai k\u0101 cit\u0101di nesp\u0113jat pabeigt hCaptchas?",
     "accessibility-link": "Pieejam\u012bba",
+    "appreciate-in": "M\u0113s nov\u0113rt\u0113jam j\u016bsu ieguld\u012bjumu. Pazi\u0146ojiet mums par visiem jaut\u0101jumiem un m\u0113s tos \u0101tri atrisin\u0101sim.",
+    "fb-but": "S\u016btiet mums atsauksmes",
+    "feedback-text": "Sniedziet atsauksmes par tikko redz\u0113to hCaptcha",
+    "page-acc-link-1": "Ja esat piek\u013cuves lietot\u0101js, l\u016bdzu, re\u0123istr\u0113jieties \u0161eit.",
+    "page-acc-subhead": "Vienm\u0113r\u012bgas piek\u013cuves nodro\u0161in\u0101\u0161ana visiem lietot\u0101jiem, vienlaikus saglab\u0101jot dro\u0161\u012bbu",
+    "page-acc-title": "hCaptcha pieejam\u012bbas inform\u0101cija",
+    "priv-hc": "Konfidencialit\u0101te",
+    "priv-hc-text": "Rekl\u0101mu t\u012bkli redz j\u016bs k\u0101 vi\u0146u produktu. Mums nav. Mums nav vienalga, kas ir lietot\u0101ji, tikai cik iesp\u0113jams, ka vi\u0146i ir \u013caunpr\u0101t\u012bgi. M\u0113s atbalst\u0101m t\u0101das iniciat\u012bvas k\u0101 Privacy Pass un smagi str\u0101d\u0101jam, lai l\u012bdzsvarotu priv\u0101tumu un dro\u0161\u012bbu.",
+    "sec-hc": "Dro\u0161\u012bba vispirms",
+    "sec-hc-text": "hCaptcha ir orient\u0113ta uz izdev\u0113jiem. M\u0113s str\u0101d\u0101jam, lai vietn\u0113m sniegtu re\u0101lus datus un \u013cautu t\u0101m izlemt, k\u0101 tos izmantot. Precizit\u0101te ir j\u016bsu un m\u016bsu interes\u0113s. Citus captchas nodro\u0161ina rekl\u0101mas uz\u0146\u0113mumi. Katrs blo\u0137\u0113ts robots var samazin\u0101t ie\u0146\u0113mumus.",
     "what-is-hcaptcha": "Kas ir hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha pal\u012bdz j\u016bsu iecien\u012bt\u0101kajiem t\u012bmek\u013ca pakalpojumiem nov\u0113rst robotprogrammat\u016bru, surog\u0101tpastu un \u013caunpr\u0101t\u012bgu izmanto\u0161anu, uzdodot vienk\u0101r\u0161us jaut\u0101jumus, kas ir viegli cilv\u0113kiem un sare\u017e\u0123\u012bti ma\u0161\u012bn\u0101m."
+    "what-is-hcaptcha-text": "hCaptcha pal\u012bdz j\u016bsu iecien\u012bt\u0101kajiem t\u012bmek\u013ca pakalpojumiem nov\u0113rst robotprogrammat\u016bru, surog\u0101tpastu un \u013caunpr\u0101t\u012bgu izmanto\u0161anu, uzdodot vienk\u0101r\u0161us jaut\u0101jumus, kas ir viegli cilv\u0113kiem un sare\u017e\u0123\u012bti ma\u0161\u012bn\u0101m.",
+    "why-hc": "K\u0101p\u0113c hCaptcha?",
+    "why-hc-text": "Katru reizi, kad atbildat uz izaicin\u0101jumu, m\u0113s izmantojam sare\u017e\u0123\u012btus mode\u013cus, lai noskaidrotu, vai j\u016bs esat cilv\u0113ks vai ma\u0161\u012bna. P\u0113c tam j\u016bsu apmekl\u0113t\u0101 vietne izmanto \u0161o rezult\u0101tu, lai pal\u012bdz\u0113tu uzlabot j\u016bsu pieredzi vi\u0146u vietn\u0113, turot \u0101rpus robotprogrammat\u016bras."
 }

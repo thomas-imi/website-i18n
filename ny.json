@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Zosankha zopezeka",
+    "acc-opt-but": "Dziwani zambiri zamomwe mungasankhire",
+    "acc-opt-text": "Kodi mukulephera kuwona bwino kapena simutha kulemba chinsinsi?",
     "accessibility-link": "Kupezeka",
+    "appreciate-in": "Tili othokoza kwambiri chifukwa chanu. Tidziwitseni zovuta zilizonse ndipo tidzazithetsa mwachangu.",
+    "fb-but": "Titumizireni mayankho",
+    "feedback-text": "Fotokozani za hCaptcha yomwe mwawonapo",
+    "page-acc-link-1": "Ngati ndinu wogwiritsa ntchito, chonde lowani apa.",
+    "page-acc-subhead": "Kuwonetsetsa kuti anthu onse ogwiritsa ntchito satha kugwiritsa ntchito njira zawo mosasamala",
+    "page-acc-title": "chidziwitso cha Kufikira kwa hCaptcha",
+    "priv-hc": "Chinsinsi",
+    "priv-hc-text": "Maukonde amatsamba amakuwona ngati chinthu chawo. Sititero. Sitikusamala kuti ogwiritsa ntchito ndi ndani, kokha momwe angakhalire ovutitsa. Timathandizira zoyeserera ngati Zachinsinsi Zachinsinsi, ndipo timagwira ntchito molimbika kuti tisungane zachinsinsi komanso chitetezo.",
+    "sec-hc": "Chitetezo Choyamba",
+    "sec-hc-text": "hCaptcha imayang&#39;ana osindikiza. Timagwira ntchito kuti tizipereka masamba enieni komanso kuwalola kusankha momwe angagwiritsire ntchito. Kulondola kuli mu chidwi chanu ndi chathu. Ma Captcha ena amaperekedwa ndi makampani otsatsa. Bot iliyonse yomwe ingabise ingachepetse ndalama zomwe amapeza.",
     "what-is-hcaptcha": "Kodi hCaptcha ndi chiyani?",
-    "what-is-hcaptcha-text": "hCaptcha imathandizira ntchito zomwe mumakonda pa intaneti kuti musatseke malo osokoneza bongo, ma spam, ndi kuzunza pofunsa mafunso osavuta omwe ndi osavuta kwa anthu komanso ovuta makina."
+    "what-is-hcaptcha-text": "hCaptcha imathandizira ntchito zomwe mumakonda pa intaneti kuti musatseke malo osokoneza bongo, ma spam, ndi kuzunza pofunsa mafunso osavuta omwe ndi osavuta kwa anthu komanso ovuta makina.",
+    "why-hc": "Chifukwa hCaptcha?",
+    "why-hc-text": "Nthawi iliyonse mukayankha zovuta, timagwiritsa ntchito zitsanzo zamakono kuti tidziwe ngati ndinu munthu kapena makina. Tsamba lanu lomwe mudapitako limagwiritsa ntchito izi kuti muthandizire kukulitsa zomwe mumachita patsamba lawo posunga bots."
 }

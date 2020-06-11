@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Kiseg\u00edt\u0151 lehet\u0151s\u00e9gek",
+    "acc-opt-but": "Tov\u00e1bbi inform\u00e1ci\u00f3 az akad\u00e1lymentess\u00e9gr\u0151l",
+    "acc-opt-text": "L\u00e1t\u00e1ss\u00e9r\u00fcltek vagy m\u00e1s m\u00f3don nem tudj\u00e1k teljes\u00edteni a hCaptchas-t?",
     "accessibility-link": "Megk\u00f6zel\u00edthet\u0151s\u00e9g",
+    "appreciate-in": "Nagyra \u00e9rt\u00e9kelj\u00fck az \u00d6n hozz\u00e1j\u00e1rul\u00e1s\u00e1t. Tudassa vel\u00fcnk a probl\u00e9m\u00e1kat, \u00e9s gyorsan megoldjuk azokat.",
+    "fb-but": "K\u00fcldj\u00f6n visszajelz\u00e9st",
+    "feedback-text": "Adjon visszajelz\u00e9st az \u00e9ppen l\u00e1tott hCaptcha-r\u00f3l",
+    "page-acc-link-1": "Ha akad\u00e1lymentess\u00e9g-felhaszn\u00e1l\u00f3, k\u00e9rj\u00fck, jelentkezzen ide.",
+    "page-acc-subhead": "Z\u00f6kken\u0151mentes hozz\u00e1f\u00e9r\u00e9s biztos\u00edt\u00e1sa minden felhaszn\u00e1l\u00f3 sz\u00e1m\u00e1ra, a biztons\u00e1g fenntart\u00e1sa mellett",
+    "page-acc-title": "hCaptcha akad\u00e1lymentess\u00e9g",
+    "priv-hc": "A mag\u00e1n\u00e9let f\u00f3kusz\u00e1lt",
+    "priv-hc-text": "A hirdet\u00e9si h\u00e1l\u00f3zatok term\u00e9keikk\u00e9nt l\u00e1tnak t\u00e9ged. Nem mi. Nem \u00e9rdekli, hogy kik a felhaszn\u00e1l\u00f3k, csak az, hogy val\u00f3sz\u00edn\u0171leg \u00e1rtalmasak-e. T\u00e1mogatjuk az olyan kezdem\u00e9nyez\u00e9seket, mint a Privacy Pass, \u00e9s kem\u00e9nyen dolgozunk a mag\u00e1n\u00e9let \u00e9s a biztons\u00e1g egyens\u00faly\u00e1nak megteremt\u00e9se \u00e9rdek\u00e9ben.",
+    "sec-hc": "El\u0151sz\u00f6r a biztons\u00e1g",
+    "sec-hc-text": "A hCaptcha a kiad\u00f3kra \u00f6sszpontos\u00edt. Arra t\u00f6reksz\u00fcnk, hogy a webhelyek val\u00f3di adatokat ny\u00fajtsanak, \u00e9s hagyjuk, hogy eld\u00f6nts\u00e9k, hogyan kell felhaszn\u00e1lni \u0151ket. A pontoss\u00e1g az \u00f6n \u00e9s a mi \u00e9rdek\u00fcnkben rejlik. Egy\u00e9b captchas-okat rekl\u00e1mc\u00e9gek biztos\u00edtanak. Minden blokkolt bot cs\u00f6kkentheti bev\u00e9tel\u00e9t.",
     "what-is-hcaptcha": "Mi a hCaptcha?",
-    "what-is-hcaptcha-text": "A hCaptcha seg\u00edti a kedvenc webszolg\u00e1ltat\u00e1sait a robotok, a spam \u00e9s a vissza\u00e9l\u00e9sek elker\u00fcl\u00e9s\u00e9ben az\u00e1ltal, hogy egyszer\u0171 k\u00e9rd\u00e9seket tesz fel, amelyek az emberek sz\u00e1m\u00e1ra egyszer\u0171ek \u00e9s a g\u00e9pek sz\u00e1m\u00e1ra nehezek."
+    "what-is-hcaptcha-text": "A hCaptcha seg\u00edti a kedvenc webszolg\u00e1ltat\u00e1sait a robotok, a spam \u00e9s a vissza\u00e9l\u00e9sek elker\u00fcl\u00e9s\u00e9ben az\u00e1ltal, hogy egyszer\u0171 k\u00e9rd\u00e9seket tesz fel, amelyek az emberek sz\u00e1m\u00e1ra egyszer\u0171ek \u00e9s a g\u00e9pek sz\u00e1m\u00e1ra nehezek.",
+    "why-hc": "Mi\u00e9rt a hCaptcha?",
+    "why-hc-text": "Minden alkalommal, amikor egy kih\u00edv\u00e1sra v\u00e1laszol, kifinomult modelleket haszn\u00e1lunk annak kider\u00edt\u00e9s\u00e9re, hogy \u00d6n ember vagy g\u00e9p. A megl\u00e1togatott webhely ezt az eredm\u00e9nyt haszn\u00e1lja arra, hogy jav\u00edtsa a webhelyen szerzett tapasztalatait a botok elker\u00fcl\u00e9s\u00e9vel."
 }

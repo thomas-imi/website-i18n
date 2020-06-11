@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Iinketho zofikelelo",
+    "acc-opt-but": "Funda ngakumbi malunga nokukhetha ukufikelela",
+    "acc-opt-text": "Ngaba ungaboni kakuhle okanye akakwazi ukugqiba i-hCaptchas?",
     "accessibility-link": "Ukufikeleleka",
+    "appreciate-in": "Sibulela igalelo lakho. Sazise nayiphi na imiba kwaye siya kuyicombulula ngokukhawuleza.",
+    "fb-but": "Sithumele ingxelo",
+    "feedback-text": "Nika ingxelo kwi-hCaptcha osandula kuyibona",
+    "page-acc-link-1": "Ukuba ungumsebenzisi wokufikelela, nceda ubhalise apha.",
+    "page-acc-subhead": "Ukuqinisekisa ukufikelela komthungo kubo bonke abasebenzisi ngelixa kugcinwa ukhuseleko",
+    "page-acc-title": "Ulwazi loFikeleleko lwe-hCaptcha",
+    "priv-hc": "Ukugcinwa kubucala",
+    "priv-hc-text": "Inethiwekhi zentengiso zikubona njengemveliso yazo. Asazi. Asikhathalelanga ukuba ngabasebenzisi bani na, kuphela kukuba kunokwenzeka ukuba babe njani na. Sixhasa amalinge afana nokudlula kwabucala, kwaye sisebenza nzima ukulungelelanisa ubumfihlo kunye nokhuseleko.",
+    "sec-hc": "Ukhuseleko kuqala",
+    "sec-hc-text": "I-hCaptcha ijolise kumshicileli. Sisebenzela ukunika amaziko wedatha yangempela kwaye sibavumele benze isigqibo sokuba bayayisebenzisa njani. Ukuchaneka kukuomdla wakho kunye nowethu. Ezinye i-Captchas zinikezelwa ziinkampani zentengiso. Yonke ibhloko bayivimba banokunciphisa ingeniso yabo.",
     "what-is-hcaptcha": "Yintoni i-hCaptcha?",
-    "what-is-hcaptcha-text": "I-hCaptcha inceda iinkonzo zakho zewebhu ozithandayo ukugcina i-bots, ugaxekile, kunye nokuxhaphaza ngokubuza imibuzo elula elula ebantwini kwaye inzima koomatshini."
+    "what-is-hcaptcha-text": "I-hCaptcha inceda iinkonzo zakho zewebhu ozithandayo ukugcina i-bots, ugaxekile, kunye nokuxhaphaza ngokubuza imibuzo elula elula ebantwini kwaye inzima koomatshini.",
+    "why-hc": "Kutheni hCaptcha?",
+    "why-hc-text": "Qho xa uphendula ucelomngeni, sisebenzisa iimodeli ezinobunkunkqele ukufumanisa ukuba ungumntu okanye umatshini. Iwebhusayithi oyindwendweleyo isebenzisa esi siphumo ukunceda ukuphucula amava akho kwindawo yabo ngokugcina i-bots."
 }

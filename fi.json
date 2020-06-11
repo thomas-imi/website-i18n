@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Esteett\u00f6myysasetukset",
+    "acc-opt-but": "Lis\u00e4tietoja esteett\u00f6myysvaihtoehdoista",
+    "acc-opt-text": "N\u00e4k\u00f6vammaiset tai muuten eiv\u00e4t pysty suorittamaan hCaptchasia?",
     "accessibility-link": "saavutettavuus",
+    "appreciate-in": "Arvostamme panostasi. Kerro meille kaikista ongelmista ja ratkaisemme ne nopeasti.",
+    "fb-but": "L\u00e4het\u00e4 meille palautetta",
+    "feedback-text": "Anna palautetta juuri n\u00e4kem\u00e4st\u00e4si hCaptchasta",
+    "page-acc-link-1": "Jos olet esteett\u00f6myysk\u00e4ytt\u00e4j\u00e4, kirjaudu sis\u00e4\u00e4n t\u00e4\u00e4ll\u00e4.",
+    "page-acc-subhead": "Varmistetaan kaikkien k\u00e4ytt\u00e4jien saumaton p\u00e4\u00e4sy turvallisuuteen",
+    "page-acc-title": "hCaptcha-p\u00e4\u00e4sy",
+    "priv-hc": "Yksityisyyden keskittyminen",
+    "priv-hc-text": "Mainosverkostot n\u00e4kev\u00e4t sinut heid\u00e4n tuotteenaan. Emme. Emme v\u00e4lit\u00e4 siit\u00e4, kuka k\u00e4ytt\u00e4j\u00e4t ovat, vain kuinka todenn\u00e4k\u00f6isesti he ovat pahantahtoisia. Tuemme aloitteita, kuten Privacy Pass, ja ty\u00f6skentelemme ahkerasti yksityisyyden ja turvallisuuden tasapainottamiseksi.",
+    "sec-hc": "Turvallisuus ensin",
+    "sec-hc-text": "hCaptcha on kustantajakeskeinen. Pyrimme antamaan sivustoille todellista tietoa ja antamaan heid\u00e4n p\u00e4\u00e4tt\u00e4\u00e4, kuinka sit\u00e4 k\u00e4ytet\u00e4\u00e4n. Tarkkuus on sinun ja meid\u00e4n edun mukainen. Muita captchasia toimittavat mainosyritykset. Jokainen botti, jonka ne est\u00e4v\u00e4t, voi v\u00e4hent\u00e4\u00e4 niiden tuloja.",
     "what-is-hcaptcha": "Mik\u00e4 on hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha auttaa suosikkiverkkopalvelusi pit\u00e4m\u00e4\u00e4n robotteja, roskapostia ja v\u00e4\u00e4rink\u00e4yt\u00f6ksi\u00e4 pois esitt\u00e4m\u00e4ll\u00e4 yksinkertaisia kysymyksi\u00e4, jotka ovat helppoja ihmisille ja vaikeita koneille."
+    "what-is-hcaptcha-text": "hCaptcha auttaa suosikkiverkkopalvelusi pit\u00e4m\u00e4\u00e4n robotteja, roskapostia ja v\u00e4\u00e4rink\u00e4yt\u00f6ksi\u00e4 pois esitt\u00e4m\u00e4ll\u00e4 yksinkertaisia kysymyksi\u00e4, jotka ovat helppoja ihmisille ja vaikeita koneille.",
+    "why-hc": "Miksi hCaptcha?",
+    "why-hc-text": "Joka kerta kun vastaat haasteeseen, k\u00e4yt\u00e4mme hienostuneita malleja selvitt\u00e4\u00e4ksesi oletko ihminen vai kone. Vieraillasi verkkosivusto k\u00e4ytt\u00e4\u00e4 sitten t\u00e4t\u00e4 tulosta parantamaan kokemustasi sivustolla pit\u00e4m\u00e4ll\u00e4 robotteja pois."
 }

@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Roghainnean ruigsinneachd",
+    "acc-opt-but": "Ionnsaich tuilleadh mu roghainnean ruigsinneachd",
+    "acc-opt-text": "A bheil thu fradharcach no nach urrainn dhut hCaptchas a chr\u00ecochnachadh?",
     "accessibility-link": "Ruigsinneachd",
+    "appreciate-in": "Tha sinn a \u2019cur luach m\u00f2r air do thaic. Leig fios thugainn mu ch\u00f9isean sam bith agus bidh sinn gan fuasgladh gu sgiobalta.",
+    "fb-but": "Cuir thugainn fios air ais",
+    "feedback-text": "Thoir seachad fios air ais mun hCaptcha a chunnaic thu",
+    "page-acc-link-1": "Ma tha thu nad neach-cleachdaidh ruigsinneachd, cuir d \u2019ainm a-steach an seo.",
+    "page-acc-subhead": "A \u2019d\u00e8anamh cinnteach \u00e0 ruigsinneachd gun fhiosta don h-uile neach-cleachdaidh fhad\u2018 s a tha iad a \u2019cumail suas t\u00e8arainteachd",
+    "page-acc-title": "Fiosrachadh ruigsinneachd hCaptcha",
+    "priv-hc": "Pr\u00ecobhaideachd air a chuimseachadh",
+    "priv-hc-text": "Bidh l\u00econraidhean sanasachd gad fhaicinn mar an toradh aca. Cha d\u00e8an sinn sin. Chan eil dragh againn c\u00f2 na luchd-cleachdaidh, d\u00ecreach d\u00e8 cho dualtach \u2018s a tha iad a bhith droch-r\u00f9nach. Bidh sinn a \u2019toirt taic do dh\u2019 iomairtean mar Pas Pr\u00ecobhaideachd, agus ag obair gu cruaidh gus pr\u00ecobhaideachd agus t\u00e8arainteachd a chothromachadh.",
+    "sec-hc": "T\u00e8arainteachd an toiseach",
+    "sec-hc-text": "Tha hCaptcha ag amas air foillsichear. Bidh sinn ag obair gus f\u00ecor dh\u00e0ta a thoirt do l\u00e0raich agus leigeil leotha co-dh\u00f9nadh ciamar a chleachdas iad e. Tha cruinneas ann airson d \u2019\u00f9idh agus sinne. Tha captchas eile air an toirt seachad le companaidhean sanasachd. Dh \u2019fhaodadh gach bot a chuireas iad bacadh air an teachd-a-steach aca a lughdachadh.",
     "what-is-hcaptcha": "D\u00e8 a th &#39;ann an hCaptcha?",
-    "what-is-hcaptcha-text": "Bidh hCaptcha a \u2019cuideachadh nan seirbheisean l\u00ecn as fhe\u00e0rr leat a bhith a\u2019 cumail a-mach botaichean, spama, agus droch dh\u00ecol le bhith a \u2019faighneachd cheistean s\u00ecmplidh a tha furasta do dhaoine agus duilich dha innealan."
+    "what-is-hcaptcha-text": "Bidh hCaptcha a \u2019cuideachadh nan seirbheisean l\u00ecn as fhe\u00e0rr leat a bhith a\u2019 cumail a-mach botaichean, spama, agus droch dh\u00ecol le bhith a \u2019faighneachd cheistean s\u00ecmplidh a tha furasta do dhaoine agus duilich dha innealan.",
+    "why-hc": "Carson hCaptcha?",
+    "why-hc-text": "Gach uair a fhreagras tu d\u00f9bhlan, bidh sinn a \u2019cleachdadh mhodalan s\u00f2laimte gus faighinn a-mach a bheil thu nad dhuine no inneal. Bidh an l\u00e0rach-l\u00ecn air an do thadhail thu an uairsin a \u2019cleachdadh an toradh seo gus cuideachadh le bhith a\u2019 leasachadh do e\u00f2las air an l\u00e0rach aca le bhith a \u2019cumail a-mach botaichean."
 }

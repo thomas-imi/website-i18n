@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Opciones de accesibilidad",
+    "acc-opt-but": "Obtenga m\u00e1s informaci\u00f3n sobre las opciones de accesibilidad",
+    "acc-opt-text": "\u00bfTiene discapacidad visual o no puede completar hCaptchas?",
     "accessibility-link": "Accesibilidad",
+    "appreciate-in": "Agradecemos su aporte. H\u00e1ganos saber cualquier problema y lo resolveremos r\u00e1pidamente.",
+    "fb-but": "Envianos tus comentarios",
+    "feedback-text": "Proporcione comentarios sobre el hCaptcha que acaba de ver",
+    "page-acc-link-1": "Si es un usuario de accesibilidad, reg\u00edstrese aqu\u00ed.",
+    "page-acc-subhead": "Garantizar un acceso perfecto para todos los usuarios mientras se mantiene la seguridad.",
+    "page-acc-title": "Informaci\u00f3n de accesibilidad de hCaptcha",
+    "priv-hc": "Privacidad enfocada",
+    "priv-hc-text": "Las redes publicitarias lo ven como su producto. Nosotros no No nos importa qui\u00e9nes son los usuarios, solo la probabilidad de que sean maliciosos. Apoyamos iniciativas como Privacy Pass y trabajamos duro para equilibrar la privacidad y la seguridad.",
+    "sec-hc": "Seguridad primero",
+    "sec-hc-text": "hCaptcha se centra en el editor. Trabajamos para proporcionar a los sitios datos reales y dejar que decidan c\u00f3mo usarlos. La precisi\u00f3n es de su inter\u00e9s y del nuestro. Otras captchas son proporcionadas por empresas de publicidad. Cada bot que bloquean puede reducir sus ingresos.",
     "what-is-hcaptcha": "\u00bfQu\u00e9 es hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha ayuda a sus servicios web favoritos a evitar los bots, el spam y el abuso al hacer preguntas simples que son f\u00e1ciles para los humanos y dif\u00edciles para las m\u00e1quinas."
+    "what-is-hcaptcha-text": "hCaptcha ayuda a sus servicios web favoritos a evitar los bots, el spam y el abuso al hacer preguntas simples que son f\u00e1ciles para los humanos y dif\u00edciles para las m\u00e1quinas.",
+    "why-hc": "\u00bfPor qu\u00e9 hCaptcha?",
+    "why-hc-text": "Cada vez que responde un desaf\u00edo, utilizamos modelos sofisticados para determinar si usted es humano o una m\u00e1quina. El sitio web que visit\u00f3 luego usa este resultado para ayudarlo a mejorar su experiencia en su sitio al evitar los bots."
 }

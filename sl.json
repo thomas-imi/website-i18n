@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Mo\u017enosti dostopnosti",
+    "acc-opt-but": "Preberite ve\u010d o mo\u017enostih dostopnosti",
+    "acc-opt-text": "Ali ste slabovidni ali ne morete dokon\u010dati hCaptchas?",
     "accessibility-link": "Dostopnost",
+    "appreciate-in": "Cenimo va\u0161 prispevek. Sporo\u010dite nam vsa vpra\u0161anja in jih bomo hitro re\u0161ili.",
+    "fb-but": "Po\u0161ljite nam povratne informacije",
+    "feedback-text": "Po\u0161ljite povratne informacije o hCaptcha, ki ste ga pravkar videli",
+    "page-acc-link-1": "\u010ce ste uporabnik za dostop, se prijavite tukaj.",
+    "page-acc-subhead": "Zagotavljanje brez\u0161ivnega dostopa za vse uporabnike ob ohranjanju varnosti",
+    "page-acc-title": "Informacije o dostopnosti hCaptcha",
+    "priv-hc": "Zasebnost usmerjena",
+    "priv-hc-text": "Oglasna omre\u017eja vas vidijo kot njihov izdelek. Ne bomo. Ne zanima nas, kdo so uporabniki, le kako verjetno so zlonamerni. Podpiramo pobude, kot je varnost zasebnosti, in trdo delamo, da uravnote\u017eimo zasebnost in varnost.",
+    "sec-hc": "Varnost najprej",
+    "sec-hc-text": "hCaptcha je osredoto\u010den na zalo\u017enike. Trudimo se, da spletnim mestom dajemo resni\u010dne podatke in jim omogo\u010dimo, da se sami odlo\u010dijo, kako jih bodo uporabljali. Natan\u010dnost je v va\u0161em in na\u0161em interesu. Ostale kapsule ponujajo ogla\u0161evalske dru\u017ebe. Vsak bot, ki ga blokirajo, lahko zmanj\u0161a njihov prihodek.",
     "what-is-hcaptcha": "Kaj je hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha pomaga va\u0161im najljub\u0161im spletnim storitvam prepre\u010devati bote, ne\u017eeleno po\u0161to in zlorabe, tako da postavlja preprosta vpra\u0161anja, ki so enostavna za ljudi in te\u017eka za stroje."
+    "what-is-hcaptcha-text": "hCaptcha pomaga va\u0161im najljub\u0161im spletnim storitvam prepre\u010devati bote, ne\u017eeleno po\u0161to in zlorabe, tako da postavlja preprosta vpra\u0161anja, ki so enostavna za ljudi in te\u017eka za stroje.",
+    "why-hc": "Zakaj hCaptcha?",
+    "why-hc-text": "Vsaki\u010d, ko odgovorite na izziv, uporabljamo prefinjene modele, da ugotovimo, ali ste \u010dlovek ali stroj. Spletno mesto, ki ste ga obiskali, nato uporabi ta rezultat za izbolj\u0161anje izku\u0161enj na njihovem spletnem mestu z izogibanjem botov."
 }

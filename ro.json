@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Optiuni de accesibilitate",
+    "acc-opt-but": "Afla\u021bi mai multe despre op\u021biunile de accesibilitate",
+    "acc-opt-text": "Sunte\u021bi cu deficien\u021be de vedere sau nu pute\u021bi finaliza hCaptchas?",
     "accessibility-link": "Accesibilitate",
+    "appreciate-in": "Apreciem contribu\u021bia dvs. Spune-ne eventualele probleme \u0219i le vom rezolva rapid.",
+    "fb-but": "Trimite\u021bi-ne feedback",
+    "feedback-text": "Oferi\u021bi feedback despre hCaptcha pe care tocmai l-a\u021bi v\u0103zut",
+    "page-acc-link-1": "Dac\u0103 sunte\u021bi utilizator de accesibilitate, v\u0103 rug\u0103m s\u0103 v\u0103 \u00eenscrie\u021bi aici.",
+    "page-acc-subhead": "Asigurarea accesului perfect pentru to\u021bi utilizatorii, men\u021bin\u00e2nd securitatea",
+    "page-acc-title": "Informa\u021bii privind accesibilitatea hCaptcha",
+    "priv-hc": "Privat asupra confiden\u021bialit\u0103\u021bii",
+    "priv-hc-text": "Re\u021belele publicitare v\u0103 v\u0103d drept produsul lor. Noi nu. Nu ne intereseaz\u0103 cine sunt utilizatorii, ci doar c\u00e2t de probabil sunt r\u0103u inten\u021bionat. Sus\u021binem ini\u021biative precum Privacy Pass \u0219i lucr\u0103m din greu pentru a echilibra confiden\u021bialitatea \u0219i securitatea.",
+    "sec-hc": "Securitatea \u00eent\u00e2i",
+    "sec-hc-text": "hCaptcha este orientat c\u0103tre editor. Lucr\u0103m pentru a oferi site-urilor date reale \u0219i pentru a le permite s\u0103 decid\u0103 cum s\u0103 le foloseasc\u0103. Precizia este \u00een interesul t\u0103u \u0219i al nostru. Alte captcha sunt furnizate de companii de publicitate. Fiecare bot pe care \u00eel blocheaz\u0103 \u00ee\u0219i poate reduce veniturile.",
     "what-is-hcaptcha": "Ce este hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha v\u0103 ajut\u0103 serviciile web preferate s\u0103 p\u0103streze robo\u021bii, spamul \u0219i abuzul pun\u00e2nd \u00eentreb\u0103ri simple, u\u0219oare pentru oameni \u0219i dificile pentru ma\u0219ini."
+    "what-is-hcaptcha-text": "hCaptcha v\u0103 ajut\u0103 serviciile web preferate s\u0103 p\u0103streze robo\u021bii, spamul \u0219i abuzul pun\u00e2nd \u00eentreb\u0103ri simple, u\u0219oare pentru oameni \u0219i dificile pentru ma\u0219ini.",
+    "why-hc": "De ce hCaptcha?",
+    "why-hc-text": "De fiecare dat\u0103 c\u00e2nd r\u0103spunde\u021bi la o provocare, folosim modele sofisticate pentru a ne da seama dac\u0103 sunte\u021bi oameni sau ma\u0219ini. Site-ul pe care l-a\u021bi vizitat utilizeaz\u0103 apoi acest rezultat pentru a v\u0103 ajuta s\u0103 v\u0103 \u00eembun\u0103t\u0103\u021bi\u021bi experien\u021ba pe site-ul lor, p\u0103str\u00e2nd botul."
 }

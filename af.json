@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Toeganklikheidsopsies",
+    "acc-opt-but": "Kom meer te wete oor toeganklikheidsopsies",
+    "acc-opt-text": "Is u gesiggestremd of kan u nie hCaptchas voltooi nie?",
     "accessibility-link": "Toeganklikheid",
+    "appreciate-in": "Ons waardeer u insette. Laat weet ons van enige probleme, en ons sal dit vinnig oplos.",
+    "fb-but": "Stuur vir ons terugvoer",
+    "feedback-text": "Gee terugvoer oor die hCaptcha wat u so pas gesien het",
+    "page-acc-link-1": "As u &#39;n toeganklikheidsgebruiker is, kan u hier registreer.",
+    "page-acc-subhead": "Die versekering van naatlose toegang vir alle gebruikers, terwyl sekuriteit behou word",
+    "page-acc-title": "hCaptcha Toeganklikheidsinligting",
+    "priv-hc": "Privaatheid gefokus",
+    "priv-hc-text": "Advertensienetwerke sien u as hul produk. Ons doen nie. Ons gee nie om wie gebruikers is nie, net hoe waarskynlik hulle kwaadwillig sal wees. Ons ondersteun inisiatiewe soos Privacy Pass en werk hard om privaatheid en sekuriteit te balanseer.",
+    "sec-hc": "Eerste sekuriteit",
+    "sec-hc-text": "hCaptcha is gefokus op uitgewers. Ons werk daaraan om werwe ware data te gee en laat hulle besluit hoe om dit te gebruik. Akkuraatheid is in u en u eie belang. Ander captchas word deur advertensiemaatskappye aangebied. Elke bot wat hulle blokkeer, kan hul inkomste verminder.",
     "what-is-hcaptcha": "Wat is hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha help u gunsteling webdienste om bots, spam en misbruik uit te hou deur eenvoudige vrae te stel wat maklik is vir mense en vir masjiene moeilik is."
+    "what-is-hcaptcha-text": "hCaptcha help u gunsteling webdienste om bots, spam en misbruik uit te hou deur eenvoudige vrae te stel wat maklik is vir mense en vir masjiene moeilik is.",
+    "why-hc": "Waarom hCaptcha?",
+    "why-hc-text": "Elke keer as u &#39;n uitdaging beantwoord, gebruik ons gesofistikeerde modelle om uit te vind of u &#39;n mens of &#39;n masjien is. Die webwerf wat u besoek het, gebruik dan hierdie resultaat om u ervaring op hul webwerf te verbeter deur bots uit te hou."
 }

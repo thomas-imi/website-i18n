@@ -1,5 +1,20 @@
 {
     "accessibility-link": "Accessibility",
     "what-is-hcaptcha": "What is hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha helps your favorite web services keep out bots, spam, and abuse by asking simple questions that are easy for humans and difficult for machines."
+    "what-is-hcaptcha-text": "hCaptcha helps your favorite web services keep out bots, spam, and abuse by asking simple questions that are easy for humans and difficult for machines.",
+    "feedback-text": "Provide feedback on the hCaptcha you just saw",
+    "appreciate-in": "We appreciate your input. Let us know any issues and we'll solve them quickly.",
+    "fb-but": "Send us feedback",
+    "why-hc":"Why hCaptcha?",
+    "why-hc-text": "Each time you answer a challenge, we use sophisticated models to figure out whether you are human or a machine. The website you visited then uses this result to help improve your experience on their site by keeping out bots.",
+    "priv-hc": "Privacy Focused",
+    "priv-hc-text": "Ad networks see you as their product. We don't. We do not care who users are, only how likely they are to be malicious. We support initiatives like Privacy Pass, and work hard to balance privacy and security.",
+    "sec-hc": "Security First",
+    "sec-hc-text": "hCaptcha is publisher-focused. We work to give sites real data and let them decide how to use it. Accuracy is in your interest and ours. Other captchas are provided by  advertising companies. Every bot they block may reduce their revenue.",
+    "acc-opt": "Accessibility Options",
+    "acc-opt-text": "Are you visually impaired or otherwise unable to complete hCaptchas?",
+	"acc-opt-but": "Learn more about accessibility options",
+	"page-acc-link-1": "If you are an accessibility user, please sign up here.",
+	"page-acc-subhead": "Ensuring seamless access for all users while maintaining security",
+	"page-acc-title": "hCaptcha Accessibility Information"
 }

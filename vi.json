@@ -1,5 +1,20 @@
 {
+    "acc-opt": "T\u00f9y ch\u1ecdn kh\u1ea3 n\u0103ng ti\u1ebfp c\u1eadn",
+    "acc-opt-but": "T\u00ecm hi\u1ec3u th\u00eam v\u1ec1 c\u00e1c t\u00f9y ch\u1ecdn tr\u1ee3 n\u0103ng",
+    "acc-opt-text": "B\u1ea1n c\u00f3 khi\u1ebfm th\u1ecb ho\u1eb7c kh\u00f4ng th\u1ec3 ho\u00e0n th\u00e0nh hCaptchas?",
     "accessibility-link": "Kh\u1ea3 n\u0103ng ti\u1ebfp c\u1eadn",
+    "appreciate-in": "Ch\u00fang t\u00f4i \u0111\u00e1nh gi\u00e1 cao \u0111\u1ea7u v\u00e0o c\u1ee7a b\u1ea1n. H\u00e3y cho ch\u00fang t\u00f4i bi\u1ebft b\u1ea5t k\u1ef3 v\u1ea5n \u0111\u1ec1 n\u00e0o v\u00e0 ch\u00fang t\u00f4i s\u1ebd gi\u1ea3i quy\u1ebft ch\u00fang nhanh ch\u00f3ng.",
+    "fb-but": "G\u1eedi ph\u1ea3n h\u1ed3i cho ch\u00fang t\u00f4i",
+    "feedback-text": "Cung c\u1ea5p ph\u1ea3n h\u1ed3i v\u1ec1 hCaptcha b\u1ea1n v\u1eeba th\u1ea5y",
+    "page-acc-link-1": "N\u1ebfu b\u1ea1n l\u00e0 ng\u01b0\u1eddi d\u00f9ng c\u00f3 th\u1ec3 truy c\u1eadp, vui l\u00f2ng \u0111\u0103ng k\u00fd t\u1ea1i \u0111\u00e2y.",
+    "page-acc-subhead": "\u0110\u1ea3m b\u1ea3o truy c\u1eadp li\u1ec1n m\u1ea1ch cho t\u1ea5t c\u1ea3 ng\u01b0\u1eddi d\u00f9ng trong khi duy tr\u00ec b\u1ea3o m\u1eadt",
+    "page-acc-title": "Th\u00f4ng tin truy c\u1eadp hCaptcha",
+    "priv-hc": "Quy\u1ec1n ri\u00eang t\u01b0 t\u1eadp trung",
+    "priv-hc-text": "M\u1ea1ng qu\u1ea3ng c\u00e1o xem b\u1ea1n l\u00e0 s\u1ea3n ph\u1ea9m c\u1ee7a h\u1ecd. Ch\u00fang t\u00f4i kh\u00f4ng. Ch\u00fang t\u00f4i kh\u00f4ng quan t\u00e2m ng\u01b0\u1eddi d\u00f9ng l\u00e0 ai, ch\u1ec9 c\u00f3 kh\u1ea3 n\u0103ng h\u1ecd l\u00e0 \u0111\u1ed9c h\u1ea1i. Ch\u00fang t\u00f4i h\u1ed7 tr\u1ee3 c\u00e1c s\u00e1ng ki\u1ebfn nh\u01b0 Privacy Pass v\u00e0 l\u00e0m vi\u1ec7c ch\u0103m ch\u1ec9 \u0111\u1ec3 c\u00e2n b\u1eb1ng quy\u1ec1n ri\u00eang t\u01b0 v\u00e0 b\u1ea3o m\u1eadt.",
+    "sec-hc": "B\u1ea3o m\u1eadt \u0111\u1ea7u ti\u00ean",
+    "sec-hc-text": "hCaptcha t\u1eadp trung v\u00e0o nh\u00e0 xu\u1ea5t b\u1ea3n. Ch\u00fang t\u00f4i l\u00e0m vi\u1ec7c \u0111\u1ec3 cung c\u1ea5p cho c\u00e1c trang web d\u1eef li\u1ec7u th\u1ef1c v\u00e0 \u0111\u1ec3 h\u1ecd quy\u1ebft \u0111\u1ecbnh c\u00e1ch s\u1eed d\u1ee5ng n\u00f3. \u0110\u1ed9 ch\u00ednh x\u00e1c l\u00e0 l\u1ee3i \u00edch c\u1ee7a b\u1ea1n v\u00e0 c\u1ee7a ch\u00fang t\u00f4i. C\u00e1c captcha kh\u00e1c \u0111\u01b0\u1ee3c cung c\u1ea5p b\u1edfi c\u00e1c c\u00f4ng ty qu\u1ea3ng c\u00e1o. M\u1ed7i bot h\u1ecd ch\u1eb7n c\u00f3 th\u1ec3 l\u00e0m gi\u1ea3m doanh thu c\u1ee7a h\u1ecd.",
     "what-is-hcaptcha": "HCaptcha l\u00e0 g\u00ec?",
-    "what-is-hcaptcha-text": "hCaptcha gi\u00fap c\u00e1c d\u1ecbch v\u1ee5 web y\u00eau th\u00edch c\u1ee7a b\u1ea1n tr\u00e1nh \u0111\u01b0\u1ee3c bot, spam v\u00e0 l\u1ea1m d\u1ee5ng b\u1eb1ng c\u00e1ch h\u1ecfi nh\u1eefng c\u00e2u h\u1ecfi \u0111\u01a1n gi\u1ea3n, d\u1ec5 d\u00e0ng cho con ng\u01b0\u1eddi v\u00e0 kh\u00f3 cho m\u00e1y m\u00f3c."
+    "what-is-hcaptcha-text": "hCaptcha gi\u00fap c\u00e1c d\u1ecbch v\u1ee5 web y\u00eau th\u00edch c\u1ee7a b\u1ea1n tr\u00e1nh \u0111\u01b0\u1ee3c bot, spam v\u00e0 l\u1ea1m d\u1ee5ng b\u1eb1ng c\u00e1ch h\u1ecfi nh\u1eefng c\u00e2u h\u1ecfi \u0111\u01a1n gi\u1ea3n, d\u1ec5 d\u00e0ng cho con ng\u01b0\u1eddi v\u00e0 kh\u00f3 cho m\u00e1y m\u00f3c.",
+    "why-hc": "T\u1ea1i sao hCaptcha?",
+    "why-hc-text": "M\u1ed7i khi b\u1ea1n tr\u1ea3 l\u1eddi m\u1ed9t th\u1eed th\u00e1ch, ch\u00fang t\u00f4i s\u1eed d\u1ee5ng c\u00e1c m\u00f4 h\u00ecnh tinh vi \u0111\u1ec3 t\u00ecm hi\u1ec3u xem b\u1ea1n l\u00e0 con ng\u01b0\u1eddi hay m\u00e1y m\u00f3c. Trang web b\u1ea1n \u0111\u00e3 truy c\u1eadp sau \u0111\u00f3 s\u1eed d\u1ee5ng k\u1ebft qu\u1ea3 n\u00e0y \u0111\u1ec3 gi\u00fap c\u1ea3i thi\u1ec7n tr\u1ea3i nghi\u1ec7m c\u1ee7a b\u1ea1n tr\u00ean trang web c\u1ee7a h\u1ecd b\u1eb1ng c\u00e1ch lo\u1ea1i b\u1ecf c\u00e1c bot."
 }

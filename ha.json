@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Za\u0253u\u0253\u0253ukan Samun dama",
+    "acc-opt-but": "Moreara koyo game da za\u0253u\u0253\u0253ukan dama",
+    "acc-opt-text": "Shin baka da hangen nesa ne ko kuma ba zaka iya kammala hCaptchas ba?",
     "accessibility-link": "Samun dama",
+    "appreciate-in": "Mun gode da shigarwar ku. Bari mu san kowace matsala kuma za mu magance su cikin sauri.",
+    "fb-but": "A aiko mana da martani",
+    "feedback-text": "Bayar da ra&#39;ayi akan hCaptcha da kuka gani yanzu",
+    "page-acc-link-1": "Idan kai mai amfani ne da izinin shiga, da fatan za a yi rajista anan.",
+    "page-acc-subhead": "Tabbatar da samun daidaituwa ga duk masu amfani yayin kiyaye tsaro",
+    "page-acc-title": "Bayanin damar isa ga hCaptcha",
+    "priv-hc": "An Adana Sirrin Sirri",
+    "priv-hc-text": "Hanyoyin sadarwar talla suna ganin ku azaman samfuran su. Ba mu yi. Ba mu damu da su masu amfani ba, kawai ta yaya za su zama masu \u0199eta. Muna tallafawa ayyukan kirkirar kamar &#39;Pass Pass&#39;, kuma muna aiki tu\u0199uru don daidaita tsare sirri da tsaro.",
+    "sec-hc": "Tsaro Da farko",
+    "sec-hc-text": "hCaptcha ne ya fi mayar da hankali kan mai shela. Muna aiki don ba wa shafukan yanar gizo ainihin bayanan kuma mu bar su su yanke shawara yadda za su yi amfani da shi. Yi daidai yana cikin amfani da namu. Sauran kamfanoni masu kamfani ana ba su ta kamfanonin talla. Kowane bot da suka toshe na iya rage kudaden shiga.",
     "what-is-hcaptcha": "Menene hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha yana taimakawa ayyukan gidan yanar gizonku da kuka fi so don kiyaye bots, spam, da cin zarafi ta hanyar yin tambayoyi masu sau\u0199i wa\u0257anda ke da sau\u0199i ga \u0257an adam da wuya ga injuna."
+    "what-is-hcaptcha-text": "hCaptcha yana taimakawa ayyukan gidan yanar gizonku da kuka fi so don kiyaye bots, spam, da cin zarafi ta hanyar yin tambayoyi masu sau\u0199i wa\u0257anda ke da sau\u0199i ga \u0257an adam da wuya ga injuna.",
+    "why-hc": "Me yasa hCaptcha?",
+    "why-hc-text": "Kowane lokaci da kuka amsa \u0199alubalen, muna amfani da \u0199ira mai laushi don gano ko mutum ne ko mashin. Gidan yanar gizon da kuka ziyarta sannan yana amfani da wannan sakamakon don taimakawa ha\u0253aka kwarewarku akan rukuninsu ta hanyar kiyaye bots."
 }

@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Mo\u017enosti usnadn\u011bn\u00ed",
+    "acc-opt-but": "Dal\u0161\u00ed informace o mo\u017enostech usnadn\u011bn\u00ed p\u0159\u00edstupu",
+    "acc-opt-text": "Jste zrakov\u011b posti\u017eeni nebo jinak neschopn\u00ed dokon\u010dit hCaptchas?",
     "accessibility-link": "P\u0159\u00edstupnost",
+    "appreciate-in": "V\u00e1\u017e\u00edme si va\u0161eho p\u0159\u00edsp\u011bvku. Sd\u011blte n\u00e1m jak\u00e9koli probl\u00e9my a my je rychle vy\u0159e\u0161\u00edme.",
+    "fb-but": "Po\u0161lete n\u00e1m zp\u011btnou vazbu",
+    "feedback-text": "Poskytn\u011bte zp\u011btnou vazbu na hCaptcha, kterou jste pr\u00e1v\u011b vid\u011bli",
+    "page-acc-link-1": "Pokud jste u\u017eivatelem p\u0159\u00edstupnosti, zaregistrujte se zde.",
+    "page-acc-subhead": "Zaji\u0161t\u011bn\u00ed plynul\u00e9ho p\u0159\u00edstupu pro v\u0161echny u\u017eivatele p\u0159i zachov\u00e1n\u00ed bezpe\u010dnosti",
+    "page-acc-title": "hCaptcha Informace o p\u0159\u00edstupnosti",
+    "priv-hc": "Zam\u011b\u0159en\u00ed na soukrom\u00ed",
+    "priv-hc-text": "Reklamn\u00ed s\u00edt\u011b v\u00e1s vid\u00ed jako jejich produkt. My ne. Nezaj\u00edm\u00e1 n\u00e1s, kdo jsou u\u017eivatel\u00e9, pouze jak je pravd\u011bpodobn\u00e9, \u017ee budou \u0161kodliv\u00ed. Podporujeme iniciativy jako Privacy Pass a usilovn\u011b pracujeme na vyv\u00e1\u017een\u00ed soukrom\u00ed a bezpe\u010dnosti.",
+    "sec-hc": "Zabezpe\u010den\u00ed prvn\u00ed",
+    "sec-hc-text": "hCaptcha je zam\u011b\u0159en na vydavatele. Pracujeme na tom, abychom web\u016fm poskytli skute\u010dn\u00e1 data a nechali je rozhodnout, jak je budou pou\u017e\u00edvat. P\u0159esnost je ve va\u0161em z\u00e1jmu a na\u0161e. Dal\u0161\u00ed captchas poskytuj\u00ed reklamn\u00ed spole\u010dnosti. Ka\u017ed\u00fd blok, kter\u00fd blokuj\u00ed, m\u016f\u017ee sn\u00ed\u017eit jejich p\u0159\u00edjmy.",
     "what-is-hcaptcha": "Co je hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha pom\u00e1h\u00e1 va\u0161im obl\u00edben\u00fdm webov\u00fdm slu\u017eb\u00e1m vyh\u00fdbat se robot\u016fm, spamu a zneu\u017e\u00edv\u00e1n\u00ed t\u00edm, \u017ee klade jednoduch\u00e9 ot\u00e1zky, kter\u00e9 jsou pro \u010dlov\u011bka jednoduch\u00e9 a pro stroje obt\u00ed\u017en\u00e9."
+    "what-is-hcaptcha-text": "hCaptcha pom\u00e1h\u00e1 va\u0161im obl\u00edben\u00fdm webov\u00fdm slu\u017eb\u00e1m vyh\u00fdbat se robot\u016fm, spamu a zneu\u017e\u00edv\u00e1n\u00ed t\u00edm, \u017ee klade jednoduch\u00e9 ot\u00e1zky, kter\u00e9 jsou pro \u010dlov\u011bka jednoduch\u00e9 a pro stroje obt\u00ed\u017en\u00e9.",
+    "why-hc": "Pro\u010d hCaptcha?",
+    "why-hc-text": "Poka\u017ed\u00e9, kdy\u017e odpov\u00edte na v\u00fdzvu, pou\u017e\u00edv\u00e1me sofistikovan\u00e9 modely, abychom zjistili, zda jste \u010dlov\u011bk nebo stroj. Web, kter\u00fd jste nav\u0161t\u00edvili, pak pou\u017eije tento v\u00fdsledek k vylep\u0161en\u00ed va\u0161eho z\u00e1\u017eitku na sv\u00e9m webu t\u00edm, \u017ee udr\u017euje roboty."
 }

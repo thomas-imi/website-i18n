@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Opci\u00f3ns de accesibilidade",
+    "acc-opt-but": "Co\u00f1ece m\u00e1is sobre as opci\u00f3ns de accesibilidade",
+    "acc-opt-text": "\u00c9 deficiente visual ou non pode completar hCaptchas?",
     "accessibility-link": "Accesibilidade",
+    "appreciate-in": "Agradecemos a s\u00faa entrada. Av\u00edsanos calquera problema e resolveremos rapidamente.",
+    "fb-but": "Env\u00edanos comentarios",
+    "feedback-text": "Ofrece comentarios sobre o hCaptcha que acabas de ver",
+    "page-acc-link-1": "Se es usuario de accesibilidade, rex\u00edstrese aqu\u00ed.",
+    "page-acc-subhead": "Asegurando o acceso perfecto para todos os usuarios mantendo a seguridade",
+    "page-acc-title": "hCaptcha Informaci\u00f3n de accesibilidade",
+    "priv-hc": "Enfocado \u00e1 privacidade",
+    "priv-hc-text": "As redes de anuncios ven o seu produto. Non o facemos. Non nos importa quen son os usuarios, s\u00f3 o probable que sexan maliciosos. Apoiamos iniciativas como Privacy Pass e traballamos duro para equilibrar privacidade e seguridade.",
+    "sec-hc": "Primeiro de seguridade",
+    "sec-hc-text": "hCaptcha est\u00e1 centrado no editor. Traballamos para dar aos sitios datos reais e deixalos decidir como empregalo. A precisi\u00f3n \u00e9 do teu interese e do noso. Outras capturas son fornecidas por empresas de publicidade. Cada bot que bloquean pode reducir os seus ingresos.",
     "what-is-hcaptcha": "Que \u00e9 hCaptcha?",
-    "what-is-hcaptcha-text": "hCaptcha axuda aos teus servizos web favoritos a evitar bots, spam e abusos facendo preguntas sinxelas que son f\u00e1ciles para os humanos e dif\u00edciles para as m\u00e1quinas."
+    "what-is-hcaptcha-text": "hCaptcha axuda aos teus servizos web favoritos a evitar bots, spam e abusos facendo preguntas sinxelas que son f\u00e1ciles para os humanos e dif\u00edciles para as m\u00e1quinas.",
+    "why-hc": "Por que hCaptcha?",
+    "why-hc-text": "Cada vez que respondes a un reto, usamos modelos sofisticados para descubrir se es humano ou \u00e9 unha m\u00e1quina. O sitio web que visitou usa este resultado para mellorar a s\u00faa experiencia no seu sitio evitando bots."
 }

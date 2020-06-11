@@ -1,5 +1,20 @@
 {
+    "acc-opt": "Vebijark\u00ean gih\u00ee\u015ftin\u00ea",
+    "acc-opt-but": "Di derbar\u00ea vebijark\u00ean gih\u00ee\u015ftin\u00ea de b\u00eatir f\u00ear bibin",
+    "acc-opt-text": "Ma h\u00fbn ji h\u00eala d\u00eet\u00ee ve veqetand\u00ee ne an na wek\u00ee din nikarin hCaptchas temam bikin?",
     "accessibility-link": "Gih\u00ee\u015ftin",
+    "appreciate-in": "Em \u015fanaziya we qeb\u00fbl dikin. Werin em her pirsgir\u00eakan nas bikin \u00fb em \u00ea wan bi lez \u00e7areser bikin.",
+    "fb-but": "Bersiv\u00ea me bi\u015f\u00eenin",
+    "feedback-text": "Li ser hCaptcha ku we h\u00ea d\u00eet d\u00eet bala xwe daynin",
+    "page-acc-link-1": "Heke h\u00fbn bikarh\u00eanerek gih\u00ee\u015ftin\u00ea ne, ji kerema xwe li vir bibin endam.",
+    "page-acc-subhead": "Tev\u00ee ku ewlehiya wan bipar\u00eaze, ji bo hem\u00ee bikarh\u00eaneran gih\u00ee\u015ftina b\u00eadaw\u00ee p\u00eak t\u00eene",
+    "page-acc-title": "Agahdariya gih\u00ee\u015ftina hCaptcha",
+    "priv-hc": "Tevnekariya Focuse",
+    "priv-hc-text": "Tora Ad\u00ea we wek\u00ee hilbera wan dib\u00eene. Em nakin. Em eleqedar nakin ka k\u00ee bikarh\u00eaner in, ten\u00ea ka ew \u00ea \u00e7awa malxem bin. Em pi\u015ftgir\u00ee didin \u00eensiyat\u00eefa m\u00eena Qertaf\u00ean Ve\u015fartin\u00ea, \u00fb gelek dixebitin ku baldar\u00ee \u00fb ewlehiy\u00ea bipar\u00eazin.",
+    "sec-hc": "Ewil Ewlekar\u00ee",
+    "sec-hc-text": "hCaptcha ku we\u015fanger-eleqedar e. Em dixebitin ku malperan daney\u00ean rast\u00een bidin \u00fb bidin ku ew biryar bidin ka w\u00ea \u00e7awa bikar b\u00eenin. Rast\u00ee di berjewendiya we \u00fb ya me de ye. Cerdevan\u00ean din ji h\u00eala parg\u00eedaniy\u00ean reklam\u00ea ve t\u00eane peyda kirin. Her botek ku ew asteng dikin dibe ku dahata wan k\u00eam bike.",
     "what-is-hcaptcha": "HCaptcha \u00e7i ye?",
-    "what-is-hcaptcha-text": "hCaptcha bi kar\u00fbbar\u00ean xwey\u00ean xwey\u00ean bijare re dibe al\u00eekar ku pirs\u00ean h\u00easan \u00ean ku ji bo mirovan h\u00easan in \u00fb ji bo mak\u00eeneyan j\u00ee ne h\u00easan e, bots, spam \u00fb destdir\u00eajiy\u00ea bigirin."
+    "what-is-hcaptcha-text": "hCaptcha bi kar\u00fbbar\u00ean xwey\u00ean xwey\u00ean bijare re dibe al\u00eekar ku pirs\u00ean h\u00easan \u00ean ku ji bo mirovan h\u00easan in \u00fb ji bo mak\u00eeneyan j\u00ee ne h\u00easan e, bots, spam \u00fb destdir\u00eajiy\u00ea bigirin.",
+    "why-hc": "Whyima hCaptcha?",
+    "why-hc-text": "Her gava ku h\u00fbn bersivek bersiv\u00ea didin, em model\u00ean sof\u00eest\u00eek bikar t\u00eenin da ku h\u00fbn f\u00eam bikin ka h\u00fbn mirov in an mak\u00eeneyek in. Malpera ku we ziyaret kir w\u00ea hing\u00ea v\u00ea encam\u00ea bikar t\u00eene da ku ji we re \u00e7\u00eatir dibe ku ezm\u00fbna we li ser malpera wan \u00e7\u00eabike da ku bisekinin."
 }
