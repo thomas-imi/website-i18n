@@ -71,15 +71,14 @@ if (browser_lang !== "en") {
         element.setAttribute("data-vavilon-dict", browser_lang);
         document.body.appendChild(element);
 
-        // load vavilon JS
-        var element2 = document.createElement("script");
-        element2.src = "https://assets.hcaptcha.com/website-tr-js/vavilon.min.js";
-        document.body.appendChild(element2);
-
-        // probably unnecessary
+        // avoids DOM insert race
         setTimeout(function() {
-            setLang(browser_lang)
-        }, 750);
+            // load vavilon JS
+            var element2 = document.createElement("script");
+            element2.src = "https://assets.hcaptcha.com/website-tr-js/vavilon.min.js";
+            document.body.appendChild(element2);
+            setLang(browser_lang);
+        }, 10);
 };
 
 // only required if el exists
