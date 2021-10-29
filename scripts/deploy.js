@@ -68,7 +68,7 @@ function upload(file) {
         ContentType: "application/json",
         Key: `${BUCKET_CONFIG.key}/${path}`,
         CacheControl: `max-age=${CACHE_TIME}`,
-        Body: createReadStream(file).pipe(createGzip())
+        Body: createReadStream(file)
     };
 
     return new Promise(( resolve, reject) => {
