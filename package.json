@@ -7,13 +7,22 @@
     "type": "git",
     "url": "git+https://github.com/hCaptcha/website-i18n.git"
   },
-  "author": "Brad Peters",
+  "scripts": {
+    "translate": "json-autotranslate -i locales -l en -t key-based -c ./trans-service.json -m i18next -d",
+    "deploy": "node ./scripts/deploy.js"
+  },
+  "author": "hCaptcha Team",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/hCaptcha/website-i18n/issues"
   },
   "homepage": "https://github.com/hCaptcha/website-i18n#readme",
   "files": [
-    "translations/",
-  ]
+    "locales/"
+  ],
+  "devDependencies": {
+    "aws-sdk": "^2.1018.0",
+    "json-autotranslate": "^1.9.3",
+    "zlib": "^1.0.5"
+  }
 }

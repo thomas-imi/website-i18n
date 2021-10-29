@@ -112,11 +112,11 @@
   "intro-heading-privacy": "Designed for privacy.",
   "intro-subtitle-p1-privacy": " A uniquely privacy-driven approach to online security.",
   "info-head-2-pr": "Your user data is not for sale.",
-  "info-text-1-pr": "hCaptcha Enterprise has only one purpose: to prevent bad actors from disrupting your online operations and harming your users.",
+  "info-text-1-pr": "hCaptcha Enterprise has only one purpose: to prevent bad actors from disrupting your online operations and harming your users.",
   "info-text-2-pr": "Our systems are thus designed from the ground up to minimize data collection and retention while maintaining class-leading security. The best way to protect user data is not to store it at all.",
   "info-text-3-pr": "All customer relationships are also protected by a strong Data Processing Agreement. The hCaptcha service complies with all privacy laws no matter where your service or your customers reside. Not keeping personal data makes this much easier for us than for other companies.",
   "info-head-2-pr": "Recording online activity is not the answer.",
-  "info-text-2-2-pr": "Services like reCAPTCHA v3 say that putting their tracking pixel on every page of your site is necessary for good security. This is not the case.",
+  "info-text-2-2-pr": "Services like reCAPTCHA v3 say that putting their tracking pixel on every page of your site is necessary for good security. This is not the case.",
   "info-text-2-3-pr": "Simple behavioral analysis is a signal easily forged by bad actors, and requires retaining browsing history for all of your legitimate traffic as well.",
   "info-text-2-4-pr": "We do not operate an ad network, and have no interest in observing your user behavior in order to sell them ads. This means we do not require a passive pixel on every page of your site.",
   "info-text-2-5-pr": "Add our challenge code only where it is necessary, and where it makes sense to protect both you and your users.",
@@ -154,5 +154,5 @@
   "home-main-plans2-new": "hCaptcha Enterprise solutions deliver class-leading security and protect many of the top online services.",
   "home-plans-button-2-new": "Learn more",
   "header-enterprise-link": "Enterprise",
-  "sales-interstitial-c1b-new": "Learn more about hCaptcha Enterprise",
+  "sales-interstitial-c1b-new": "Learn more about hCaptcha Enterprise"
 }
