@@ -1,0 +1,19 @@
+{
+  "name": "@hcaptcha/website-i18n",
+  "version": "1.0.0",
+  "description": "Translation table for the hCaptcha website.",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hCaptcha/website-i18n.git"
+  },
+  "author": "Brad Peters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hCaptcha/website-i18n/issues"
+  },
+  "homepage": "https://github.com/hCaptcha/website-i18n#readme",
+  "files": [
+    "translations/",
+  ]
+}

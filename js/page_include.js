@@ -60,7 +60,7 @@ var Language =  {
 };
 
 var browser_lang = Language.getLocale();
-var tr_root = 'https://assets.hcaptcha.com/website-tr/'
+var tr_root = 'https://assets.hcaptcha.com/website-i18n/'
 var tr_path = tr_root + browser_lang + '.json';
 
 if (browser_lang !== "en") {
