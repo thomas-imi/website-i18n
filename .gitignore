@@ -1,1 +1,5 @@
 NEXT
+trans-service.json
+/node_modules
+/.json-autotranslate-cache
+.DS_Store

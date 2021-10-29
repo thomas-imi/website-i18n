@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/hCaptcha/website-i18n.git"
   },
+  "scripts": {
+    "translate": "json-autotranslate -i locales -l en -t key-based -c ./trans-service.json -m i18next -d"
+  },
   "author": "Brad Peters",
   "license": "MIT",
   "bugs": {
@@ -14,6 +17,9 @@
   },
   "homepage": "https://github.com/hCaptcha/website-i18n#readme",
   "files": [
-    "translations/",
-  ]
+    "locales/"
+  ],
+  "dependencies": {
+    "json-autotranslate": "^1.9.3"
+  }
 }
