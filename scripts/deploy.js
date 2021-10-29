@@ -1,4 +1,4 @@
-import { access, readdir, readFile, stat } from "fs/promises";
+import { access, readdir, stat } from "fs/promises";
 import { constants, createReadStream } from "fs";
 import path from "path";
 import url from "url";

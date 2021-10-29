@@ -8,8 +8,8 @@
     "url": "git+https://github.com/hCaptcha/website-i18n.git"
   },
   "scripts": {
-    "translate": "json-autotranslate -i locales -l en -t key-based -c ./trans-service.json -m i18next -d",
-    "deploy": "node ./scripts/deploy.js"
+    "deploy": "node ./scripts/deploy.js",
+    "translate": "node ./scripts/translate.js"
   },
   "author": "hCaptcha Team",
   "license": "MIT",
