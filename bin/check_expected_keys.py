@@ -21,7 +21,7 @@ def NestedDictKeys(d):
     else:
       yield k
 
-with open('src/translation_key.json', encoding='utf-8') as fh:
+with open('src/main_keys.json', encoding='utf-8') as fh:
     data = json.load(fh)
 
 to_check = sys.argv[1]
