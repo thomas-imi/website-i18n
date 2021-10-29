@@ -37,6 +37,15 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-east-1
 
+      # Setup NodeJS
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '16.8'
+
+      # Install NPM packages
+      - name: 'Install packages'
+        run: npm install
+
       # Deploys locales to S3 Bucket
       - name: Deploy to S3
         run: npm run deploy
