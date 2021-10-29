@@ -60,8 +60,11 @@ var Language =  {
 };
 
 var browser_lang = Language.getLocale();
-var tr_root = 'https://assets.hcaptcha.com/website-i18n/'
-var tr_path = tr_root + browser_lang + '.json';
+var pathname = window.location.pathname;
+
+var asset_root = "https://newassets.hcaptcha.com/website-i18n";
+var page = pathname.indexOf("enterprise") >= 0? "enterprise" : "main";
+var tr_path = asset_root + "/" + browser_lang + "/" + page + ".json";
 
 if (browser_lang !== "en") {
         // load correct lang JSON
