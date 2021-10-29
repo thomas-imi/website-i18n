@@ -29,6 +29,19 @@ jobs:
       - name: Test
         run: bash tests/validate.sh
 
+  deploy:
+    needs: build
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Only deploy if previous job was successful and master
+    if: success() && github.ref == 'refs/heads/master'
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
       # Setups AWS credentials
       - name: Configure AWS Credentials
         uses: aws-actions/configure-aws-credentials@v1
