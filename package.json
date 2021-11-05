@@ -1,0 +1,28 @@
+{
+  "name": "@hcaptcha/website-i18n",
+  "version": "1.0.0",
+  "description": "Translation table for the hCaptcha website.",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hCaptcha/website-i18n.git"
+  },
+  "scripts": {
+    "deploy": "node ./scripts/deploy.js",
+    "translate": "node ./scripts/translate.js"
+  },
+  "author": "hCaptcha Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hCaptcha/website-i18n/issues"
+  },
+  "homepage": "https://github.com/hCaptcha/website-i18n#readme",
+  "files": [
+    "locales/"
+  ],
+  "devDependencies": {
+    "aws-sdk": "^2.1018.0",
+    "json-autotranslate": "^1.9.3",
+    "zlib": "^1.0.5"
+  }
+}

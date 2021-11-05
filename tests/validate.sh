@@ -10,4 +10,5 @@ grep -F '&#' *.json && exit 1
 
 # key mismatch checks
 echo "checking for mismatched keysets, i.e. missing or superfluous keys"
-find . -type f  -iname "*.json" -not -path './src/*' | while read json; do echo $json ; python3 bin/check_expected_keys.py $json || exit 1; done
+find . -type f  -iname "main.json" -path './locales/*' | while read json; do echo $json ; python3 bin/check_expected_keys.py $json "main" || exit 1; done
+find . -type f  -iname "enterprise.json" -path './locales/*' | while read json; do echo $json ; python3 bin/check_expected_keys.py $json "enterprise" || exit 1; done

@@ -1,1 +1,26 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+lerna-debug.log*
+
+
+# Folder hidden file
+.DS_Store
+**/.DS_Store
+
+# JetBrains IDEs
+.idea
+
+# Dependency directories
+**/node_modules/
+
+
+# next.js build output
+.next
+
 NEXT
+trans-service.json
+/node_modules
+/.json-autotranslate-cache
+.DS_Store
