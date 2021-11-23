@@ -35,7 +35,7 @@ jobs:
     runs-on: ubuntu-latest
 
     # Only deploy if previous job was successful and master
-    if: success() && github.ref == 'refs/heads/master'
+    # if: success() && github.ref == 'refs/heads/master'
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:

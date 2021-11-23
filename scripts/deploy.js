@@ -6,6 +6,8 @@ import url from "url";
 import S3 from "aws-sdk/clients/s3.js";
 import { createGzip } from "zlib";
 
+import { version } from "../package.json";
+
 const __filename = url.fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
@@ -15,7 +17,7 @@ const CACHE_TIME = 86400 * 14; // (Seconds Per Day) * Days = Total Seconds
 
 const BUCKET_CONFIG = {
     bucket: "assets.hcaptcha.com",
-    key: "website-i18n"
+    key: `website-i18n/${version}`
 };
 
 const S3Client = new S3();
