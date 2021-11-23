@@ -115,7 +115,7 @@
   "info-text-1-pr": "hCaptcha Enterprisella on vain yksi tarkoitus: estää huonoja toimijoita häiritsemästä verkkotoimintaasi ja vahingoittamasta käyttäjiäsi.",
   "info-text-2-pr": "Järjestelmämme on siis suunniteltu alusta alkaen minimoimaan tietojen kerääminen ja säilyttäminen samalla kun säilytetään luokkansa johtava tietoturva. Paras tapa suojata käyttäjätietoja on olla tallentamatta niitä ollenkaan.",
   "info-text-3-pr": "Kaikki asiakassuhteet on myös suojattu vahvalla tietojenkäsittelysopimuksella. hCaptcha-palvelu noudattaa kaikkia tietosuojalakeja riippumatta siitä, missä palvelusi tai asiakkaasi asuvat. Henkilötietojen säilyttämättä jättäminen tekee tästä meille paljon helpompaa kuin muille yrityksille.",
-  "info-text-2-2-pr": "Palvelut, kuten reCAPTCHA v3, sanovat, että seurantapikselin sijoittaminen sivustosi jokaiselle sivulle on välttämätöntä hyvän turvallisuuden takaamiseksi. Tämä ei ole se tapaus.",
+  "info-text-2-2-pr": "Palvelut, kuten reCAPTCHA v3, sanovat, että seurantapikselin sijoittaminen sivustosi jokaiselle sivulle on välttämätöntä hyvän turvallisuuden takaamiseksi. Tämä ei ole se tapaus.",
   "info-text-2-3-pr": "Yksinkertainen käyttäytymisanalyysi on signaali, jonka huonot toimijat helposti väärentävät, ja se edellyttää myös kaiken laillisen liikentesi selaushistorian säilyttämistä.",
   "info-text-2-4-pr": "Meillä ei ole mainosverkostoa, emmekä ole kiinnostuneita seuraamaan käyttäjien käyttäytymistä myydäksemme heille mainoksia. Tämä tarkoittaa, että emme vaadi passiivista pikseliä sivustosi jokaisella sivulla.",
   "info-text-2-5-pr": "Lisää haastekoodimme vain sinne, missä se on välttämätöntä ja missä on järkevää suojata sekä sinua että käyttäjiäsi.",
