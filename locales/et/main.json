@@ -459,5 +459,9 @@
   "what-is-hcaptcha": "Mis on hCaptcha?",
   "what-is-hcaptcha-text": "hCaptcha aitab teie lemmikveebiteenustel hoida eemal robotid, rämpspost ja kuritarvitamine, esitades lihtsaid küsimusi, mis on inimestele lihtsad ja masinate jaoks keerulised.",
   "why-hc": "Miks hCaptcha?",
-  "why-hc-text": "Iga kord, kui vastate väljakutsele, kasutame keerukaid mudeleid, et välja selgitada, kas olete inimene või masin. Seejärel külastas teie külastatud veebisait seda tulemust, et robotid eemal hoida, et parandada nende kasutuskogemust nende saidil."
+  "why-hc-text": "Iga kord, kui vastate väljakutsele, kasutame keerukaid mudeleid, et välja selgitada, kas olete inimene või masin. Seejärel külastas teie külastatud veebisait seda tulemust, et robotid eemal hoida, et parandada nende kasutuskogemust nende saidil.",
+  "footer-link-5b": "Vajutage",
+  "footer-link-cyberattacks": "Küberrünnakud 101",
+  "header-enterprise-link": "Ettevõtlus",
+  "intro-subtitle": "Lahendage oma robotiprobleem juba täna."
 }

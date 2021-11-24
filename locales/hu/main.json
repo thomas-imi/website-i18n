@@ -459,5 +459,9 @@
   "what-is-hcaptcha": "Mi a hCaptcha?",
   "what-is-hcaptcha-text": "A hCaptcha segíti kedvenc webszolgáltatásait a botok, a spamek és a visszaélések megakadályozásában azáltal, hogy egyszerű kérdéseket tesz fel, amelyek könnyen kezelhetők az emberek számára, és nehézek a gépek számára.",
   "why-hc": "Miért pont a hCaptcha?",
-  "why-hc-text": "Minden alkalommal, amikor válaszol egy kihívásra, kifinomult modelleket használunk annak kiderítésére, hogy ember vagy-e vagy gép. A meglátogatott webhely ezt az eredményt felhasználva javítja az Ön webhelyén való élményét azáltal, hogy kizárja a botokat."
+  "why-hc-text": "Minden alkalommal, amikor válaszol egy kihívásra, kifinomult modelleket használunk annak kiderítésére, hogy ember vagy-e vagy gép. A meglátogatott webhely ezt az eredményt felhasználva javítja az Ön webhelyén való élményét azáltal, hogy kizárja a botokat.",
+  "footer-link-5b": "nyomja meg",
+  "footer-link-cyberattacks": "Kibertámadások 101",
+  "header-enterprise-link": "Vállalkozás",
+  "intro-subtitle": "Oldja meg a bot problémáját még ma."
 }

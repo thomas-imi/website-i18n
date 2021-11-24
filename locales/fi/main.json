@@ -459,5 +459,9 @@
   "what-is-hcaptcha": "Mikä on hCaptcha?",
   "what-is-hcaptcha-text": "hCaptcha auttaa suosikkiverkkopalveluitasi estämään botit, roskapostin ja väärinkäytökset esittämällä yksinkertaisia kysymyksiä, jotka ovat helposti ihmisille ja vaikeita koneille.",
   "why-hc": "Miksi hCaptcha?",
-  "why-hc-text": "Aina kun vastaat haasteeseen, käytämme hienostuneita malleja selvittääksesi oletko ihminen vai kone. Sitten vierailemasi verkkosivusto käyttää tätä tulosta parantaakseen kokemustaan heidän sivustollaan pitämällä poissa botteja."
+  "why-hc-text": "Aina kun vastaat haasteeseen, käytämme hienostuneita malleja selvittääksesi oletko ihminen vai kone. Sitten vierailemasi verkkosivusto käyttää tätä tulosta parantaakseen kokemustaan heidän sivustollaan pitämällä poissa botteja.",
+  "footer-link-5b": "Lehdistö",
+  "footer-link-cyberattacks": "Kyberhyökkäykset 101",
+  "header-enterprise-link": "Yritys",
+  "intro-subtitle": "Ratkaise bottiongelmasi tänään."
 }

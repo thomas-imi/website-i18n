@@ -459,5 +459,9 @@
   "what-is-hcaptcha": "什麼是hCaptcha？",
   "what-is-hcaptcha-text": "hCaptcha通過詢問對人類來說很容易且對機器來說很困難的簡單問題，可以幫助您喜歡的Web服務阻止機器人，垃圾郵件和濫用行為。",
   "why-hc": "為什麼選擇hCaptcha？",
-  "why-hc-text": "每次您回答挑戰時，我們都會使用複雜的模型來確定您是人還是機器。然後，您訪問的網站會使用此結果通過阻止漫遊器來幫助改善您在其網站上的體驗。"
+  "why-hc-text": "每次您回答挑戰時，我們都會使用複雜的模型來確定您是人還是機器。然後，您訪問的網站會使用此結果通過阻止漫遊器來幫助改善您在其網站上的體驗。",
+  "footer-link-5b": "按",
+  "footer-link-cyberattacks": "網絡攻擊 101",
+  "header-enterprise-link": "企業",
+  "intro-subtitle": "今天解決你的機器人問題。"
 }

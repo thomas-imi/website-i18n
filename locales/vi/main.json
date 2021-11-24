@@ -459,5 +459,9 @@
   "what-is-hcaptcha": "HCaptcha là gì?",
   "what-is-hcaptcha-text": "hCaptcha giúp các dịch vụ web yêu thích của bạn ngăn chặn bot, thư rác và lạm dụng bằng cách đặt những câu hỏi đơn giản dễ đối với con người và khó đối với máy móc.",
   "why-hc": "Tại sao hCaptcha?",
-  "why-hc-text": "Mỗi khi bạn trả lời một thử thách, chúng tôi sử dụng các mô hình phức tạp để tìm ra bạn là người hay máy. Sau đó, trang web bạn đã truy cập sử dụng kết quả này để giúp cải thiện trải nghiệm của bạn trên trang web của họ bằng cách loại bỏ bot."
+  "why-hc-text": "Mỗi khi bạn trả lời một thử thách, chúng tôi sử dụng các mô hình phức tạp để tìm ra bạn là người hay máy. Sau đó, trang web bạn đã truy cập sử dụng kết quả này để giúp cải thiện trải nghiệm của bạn trên trang web của họ bằng cách loại bỏ bot.",
+  "footer-link-5b": "nhấn",
+  "footer-link-cyberattacks": "Tấn công mạng 101",
+  "header-enterprise-link": "Doanh nghiệp",
+  "intro-subtitle": "Giải quyết vấn đề bot của bạn ngay hôm nay."
 }

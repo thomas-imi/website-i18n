@@ -459,5 +459,9 @@
   "what-is-hcaptcha": "Vad är hCaptcha?",
   "what-is-hcaptcha-text": "hCaptcha hjälper dina favoritwebbtjänster att hålla bort bots, skräppost och missbruk genom att ställa enkla frågor som är lätta för människor och svåra för maskiner.",
   "why-hc": "Varför hCaptcha?",
-  "why-hc-text": "Varje gång du svarar på en utmaning använder vi sofistikerade modeller för att ta reda på om du är människa eller maskin. Webbplatsen du besökte använder sedan detta resultat för att förbättra din upplevelse på deras webbplats genom att hålla bort bots."
+  "why-hc-text": "Varje gång du svarar på en utmaning använder vi sofistikerade modeller för att ta reda på om du är människa eller maskin. Webbplatsen du besökte använder sedan detta resultat för att förbättra din upplevelse på deras webbplats genom att hålla bort bots.",
+  "footer-link-5b": "Tryck",
+  "footer-link-cyberattacks": "Cyberattacker 101",
+  "header-enterprise-link": "Företag",
+  "intro-subtitle": "Lös ditt botproblem idag."
 }

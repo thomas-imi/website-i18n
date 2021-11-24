@@ -459,5 +459,9 @@
   "what-is-hcaptcha": "Kas ir hCaptcha?",
   "what-is-hcaptcha-text": "hCaptcha palīdz jūsu iecienītākajiem tīmekļa pakalpojumiem novērst robotus, surogātpastu un ļaunprātīgu izmantošanu, uzdodot vienkāršus jautājumus, kas ir viegli cilvēkiem un grūti mašīnām.",
   "why-hc": "Kāpēc hCaptcha?",
-  "why-hc-text": "Katru reizi, kad atbildat uz izaicinājumu, mēs izmantojam sarežģītus modeļus, lai noskaidrotu, vai jūs esat cilvēks vai mašīna. Pēc tam jūsu apmeklētā vietne izmanto šo rezultātu, lai palīdzētu uzlabot jūsu vietnes pieredzi, novēršot robotus."
+  "why-hc-text": "Katru reizi, kad atbildat uz izaicinājumu, mēs izmantojam sarežģītus modeļus, lai noskaidrotu, vai jūs esat cilvēks vai mašīna. Pēc tam jūsu apmeklētā vietne izmanto šo rezultātu, lai palīdzētu uzlabot jūsu vietnes pieredzi, novēršot robotus.",
+  "footer-link-5b": "Nospiediet",
+  "footer-link-cyberattacks": "Kiberuzbrukumi 101",
+  "header-enterprise-link": "Uzņēmums",
+  "intro-subtitle": "Atrisiniet savu robotprogrammatūras problēmu šodien."
 }

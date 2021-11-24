@@ -459,5 +459,9 @@
   "what-is-hcaptcha": "Zer da hCaptcha?",
   "what-is-hcaptcha-text": "hCaptcha-k zure web zerbitzu gogokoenak robotak, spamak eta gehiegikeriak kanpoan uzten laguntzen die gizakientzat errazak eta makinak zailak diren galdera errazak eginez.",
   "why-hc": "Zergatik hCaptcha?",
-  "why-hc-text": "Erronka bati erantzuten diozun bakoitzean, eredu sofistikatuak erabiltzen ditugu gizakia edo makina bat zaren ala ez jakiteko. Ondoren bisitatutako webguneak emaitza hau erabiltzen du bere webguneko esperientzia hobetzen laguntzeko bot-ak kanpoan utziz."
+  "why-hc-text": "Erronka bati erantzuten diozun bakoitzean, eredu sofistikatuak erabiltzen ditugu gizakia edo makina bat zaren ala ez jakiteko. Ondoren bisitatutako webguneak emaitza hau erabiltzen du bere webguneko esperientzia hobetzen laguntzeko bot-ak kanpoan utziz.",
+  "footer-link-5b": "Sakatu",
+  "footer-link-cyberattacks": "Zibererasoak 101",
+  "header-enterprise-link": "Enpresa",
+  "intro-subtitle": "Ebatzi zure bot arazoa gaur."
 }

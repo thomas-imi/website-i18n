@@ -459,5 +459,9 @@
   "what-is-hcaptcha": "HCaptcha nədir?",
   "what-is-hcaptcha-text": "hCaptcha, insanlar üçün asan və maşınlar üçün çətin olan sadə suallar verərək sevimli veb xidmətlərinizin botlardan, spamlardan və sui-istifadələrdən kənarda qalmasına kömək edir.",
   "why-hc": "Niyə hCaptcha?",
-  "why-hc-text": "Hər dəfə bir problemi cavablandırdığınız zaman insan və ya maşın olduğunuzu müəyyənləşdirmək üçün inkişaf etmiş modellərdən istifadə edirik. Daha sonra ziyarət etdiyiniz veb sayt bu nəticəni botlardan kənarda saxlayaraq saytlarındakı təcrübənizi yaxşılaşdırmağa kömək edir."
+  "why-hc-text": "Hər dəfə bir problemi cavablandırdığınız zaman insan və ya maşın olduğunuzu müəyyənləşdirmək üçün inkişaf etmiş modellərdən istifadə edirik. Daha sonra ziyarət etdiyiniz veb sayt bu nəticəni botlardan kənarda saxlayaraq saytlarındakı təcrübənizi yaxşılaşdırmağa kömək edir.",
+  "footer-link-5b": "basın",
+  "footer-link-cyberattacks": "Kiberhücumlar 101",
+  "header-enterprise-link": "Müəssisə",
+  "intro-subtitle": "Bu gün bot probleminizi həll edin."
 }

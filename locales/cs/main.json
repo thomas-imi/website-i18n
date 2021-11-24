@@ -459,5 +459,9 @@
   "what-is-hcaptcha": "Co je hCaptcha?",
   "what-is-hcaptcha-text": "hCaptcha pomáhá vašim oblíbeným webovým službám udržovat roboty, spam a zneužívání kladením jednoduchých otázek, které jsou snadné pro lidi a obtížné pro stroje.",
   "why-hc": "Proč hCaptcha?",
-  "why-hc-text": "Pokaždé, když odpovíte na výzvu, pomocí sofistikovaných modelů zjistíme, zda jste člověk nebo stroj. Web, který jste navštívili, pak pomocí tohoto výsledku pomůže zlepšit vaši zkušenost s jejich stránkou tím, že nebude udržovat roboty."
+  "why-hc-text": "Pokaždé, když odpovíte na výzvu, pomocí sofistikovaných modelů zjistíme, zda jste člověk nebo stroj. Web, který jste navštívili, pak pomocí tohoto výsledku pomůže zlepšit vaši zkušenost s jejich stránkou tím, že nebude udržovat roboty.",
+  "footer-link-5b": "lis",
+  "footer-link-cyberattacks": "Kybernetické útoky 101",
+  "header-enterprise-link": "Podnik",
+  "intro-subtitle": "Vyřešte svůj problém s robotem ještě dnes."
 }

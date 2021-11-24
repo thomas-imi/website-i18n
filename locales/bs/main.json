@@ -459,5 +459,9 @@
   "what-is-hcaptcha": "Šta je hCaptcha?",
   "what-is-hcaptcha-text": "hCaptcha pomaže vašim omiljenim web uslugama da izbjegnu botove, neželjenu poštu i zloupotrebe postavljanjem jednostavnih pitanja koja su jednostavna za ljude i teška za mašine.",
   "why-hc": "Zašto hCaptcha?",
-  "why-hc-text": "Svaki put kada odgovorite na izazov, koristimo sofisticirane modele da bismo utvrdili jeste li čovjek ili mašina. Web stranica koju ste posjetili zatim koristi ovaj rezultat da pomogne poboljšati vaše iskustvo na njihovoj web lokaciji tako što neće koristiti botove."
+  "why-hc-text": "Svaki put kada odgovorite na izazov, koristimo sofisticirane modele da bismo utvrdili jeste li čovjek ili mašina. Web stranica koju ste posjetili zatim koristi ovaj rezultat da pomogne poboljšati vaše iskustvo na njihovoj web lokaciji tako što neće koristiti botove.",
+  "footer-link-5b": "Pritisnite",
+  "footer-link-cyberattacks": "Sajber napadi 101",
+  "header-enterprise-link": "Enterprise",
+  "intro-subtitle": "Riješite svoj problem s botom danas."
 }

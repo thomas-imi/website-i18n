@@ -459,5 +459,9 @@
   "what-is-hcaptcha": "Hvað er hCaptcha?",
   "what-is-hcaptcha-text": "hCaptcha hjálpar uppáhalds vefþjónustunum þínum að halda úti bots, ruslpósti og misnotkun með því að spyrja einfaldra spurninga sem eru auðvelt fyrir menn og erfiðar fyrir vélar.",
   "why-hc": "Af hverju hCaptcha?",
-  "why-hc-text": "Í hvert skipti sem þú svarar áskorun notum við háþróuð líkön til að komast að því hvort þú ert manneskja eða vél. Vefsíðan sem þú heimsóttir notar síðan þessa niðurstöðu til að bæta upplifun þína á vefsíðu sinni með því að halda úti vélmennum."
+  "why-hc-text": "Í hvert skipti sem þú svarar áskorun notum við háþróuð líkön til að komast að því hvort þú ert manneskja eða vél. Vefsíðan sem þú heimsóttir notar síðan þessa niðurstöðu til að bæta upplifun þína á vefsíðu sinni með því að halda úti vélmennum.",
+  "footer-link-5b": "Ýttu á",
+  "footer-link-cyberattacks": "Netárásir 101",
+  "header-enterprise-link": "Fyrirtæki",
+  "intro-subtitle": "Leystu bot vandamálið þitt í dag."
 }

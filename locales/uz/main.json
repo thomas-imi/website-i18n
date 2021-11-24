@@ -459,5 +459,9 @@
   "what-is-hcaptcha": "HCaptcha nima?",
   "what-is-hcaptcha-text": "hCaptcha sevimli veb-xizmatlaringizga odamlar uchun oson va mashinalar uchun qiyin bo'lgan oddiy savollarni berish orqali botlardan, spamlardan va suiiste'mollardan saqlanishda yordam beradi.",
   "why-hc": "Nima uchun hCaptcha?",
-  "why-hc-text": "Har safar biron bir savolga javob berganingizda, biz o'zingizning insonmisiz yoki mashina ekanligingizni aniqlash uchun murakkab modellardan foydalanamiz. Keyin tashrif buyurgan veb-sayt ushbu natijadan botlardan saqlanib, o'zlarining saytidagi tajribangizni yaxshilashga yordam beradi."
+  "why-hc-text": "Har safar biron bir savolga javob berganingizda, biz o'zingizning insonmisiz yoki mashina ekanligingizni aniqlash uchun murakkab modellardan foydalanamiz. Keyin tashrif buyurgan veb-sayt ushbu natijadan botlardan saqlanib, o'zlarining saytidagi tajribangizni yaxshilashga yordam beradi.",
+  "footer-link-5b": "bosing",
+  "footer-link-cyberattacks": "Kiberhujumlar 101",
+  "header-enterprise-link": "Korxona",
+  "intro-subtitle": "Bugun bot muammosini hal qiling."
 }

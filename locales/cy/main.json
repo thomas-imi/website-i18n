@@ -459,5 +459,9 @@
   "what-is-hcaptcha": "Beth yw hCaptcha?",
   "what-is-hcaptcha-text": "Mae hCaptcha yn helpu'ch hoff wasanaethau gwe i gadw bots, sbam, a cham-drin allan trwy ofyn cwestiynau syml sy'n hawdd i fodau dynol ac yn anodd i beiriannau.",
   "why-hc": "Pam hCaptcha?",
-  "why-hc-text": "Bob tro rydych chi'n ateb her, rydyn ni'n defnyddio modelau soffistigedig i ddarganfod a ydych chi'n ddynol neu'n beiriant. Yna mae'r wefan y gwnaethoch chi ymweld â hi yn defnyddio'r canlyniad hwn i helpu i wella'ch profiad ar eu gwefan trwy gadw bots allan."
+  "why-hc-text": "Bob tro rydych chi'n ateb her, rydyn ni'n defnyddio modelau soffistigedig i ddarganfod a ydych chi'n ddynol neu'n beiriant. Yna mae'r wefan y gwnaethoch chi ymweld â hi yn defnyddio'r canlyniad hwn i helpu i wella'ch profiad ar eu gwefan trwy gadw bots allan.",
+  "footer-link-5b": "Gwasg",
+  "footer-link-cyberattacks": "Cyberattacks 101",
+  "header-enterprise-link": "Menter",
+  "intro-subtitle": "Datryswch eich problem bot heddiw."
 }

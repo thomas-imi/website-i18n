@@ -459,5 +459,9 @@
   "what-is-hcaptcha": "Que é hCaptcha?",
   "what-is-hcaptcha-text": "hCaptcha axuda aos teus servizos web favoritos a evitar bots, spam e abusos facendo preguntas sinxelas que son fáciles para os humanos e difíciles para as máquinas.",
   "why-hc": "Por que hCaptcha?",
-  "why-hc-text": "Cada vez que respondes a un desafío, empregamos modelos sofisticados para descubrir se es humano ou máquina. A continuación, o sitio web que visitou usa este resultado para axudar a mellorar a súa experiencia no seu sitio mantendo fóra os bots."
+  "why-hc-text": "Cada vez que respondes a un desafío, empregamos modelos sofisticados para descubrir se es humano ou máquina. A continuación, o sitio web que visitou usa este resultado para axudar a mellorar a súa experiencia no seu sitio mantendo fóra os bots.",
+  "footer-link-5b": "Preme",
+  "footer-link-cyberattacks": "Ciberataques 101",
+  "header-enterprise-link": "Empresa",
+  "intro-subtitle": "Resolve o problema do teu bot hoxe."
 }

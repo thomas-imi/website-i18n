@@ -459,5 +459,9 @@
   "what-is-hcaptcha": "Çfarë është hCaptcha?",
   "what-is-hcaptcha-text": "hCaptcha ndihmon shërbimet tuaja të preferuara në ueb të mbajnë robot, postën e bezdisshme dhe abuzimin duke bërë pyetje të thjeshta që janë të lehta për njerëzit dhe të vështira për makineritë.",
   "why-hc": "Pse hCaptcha?",
-  "why-hc-text": "Sa herë që i përgjigjeni një sfide, ne përdorim modele të sofistikuara për të kuptuar nëse jeni njeri apo një makinë. Uebfaqja që vizituat pastaj e përdor këtë rezultat për të ndihmuar në përmirësimin e përvojës suaj në faqen e tyre duke mbajtur jashtë botëve."
+  "why-hc-text": "Sa herë që i përgjigjeni një sfide, ne përdorim modele të sofistikuara për të kuptuar nëse jeni njeri apo një makinë. Uebfaqja që vizituat pastaj e përdor këtë rezultat për të ndihmuar në përmirësimin e përvojës suaj në faqen e tyre duke mbajtur jashtë botëve.",
+  "footer-link-5b": "Shtypni",
+  "footer-link-cyberattacks": "Sulmet kibernetike 101",
+  "header-enterprise-link": "Ndërmarrje",
+  "intro-subtitle": "Zgjidheni problemin tuaj me robotët sot."
 }

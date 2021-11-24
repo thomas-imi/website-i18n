@@ -459,5 +459,9 @@
   "what-is-hcaptcha": "hCaptcha는 무엇입니까?",
   "what-is-hcaptcha-text": "hCaptcha는 인간에게는 쉽고 기계에게는 어려운 간단한 질문을함으로써 좋아하는 웹 서비스가 봇, 스팸 및 남용을 차단하도록 도와줍니다.",
   "why-hc": "왜 hCaptcha인가?",
-  "why-hc-text": "도전에 답할 때마다 정교한 모델을 사용하여 사용자가 인간인지 기계인지 파악합니다. 그런 다음 방문한 웹 사이트는이 결과를 사용하여 봇을 차단하여 사이트 경험을 개선합니다."
+  "why-hc-text": "도전에 답할 때마다 정교한 모델을 사용하여 사용자가 인간인지 기계인지 파악합니다. 그런 다음 방문한 웹 사이트는이 결과를 사용하여 봇을 차단하여 사이트 경험을 개선합니다.",
+  "footer-link-5b": "누르다",
+  "footer-link-cyberattacks": "사이버 공격 101",
+  "header-enterprise-link": "기업",
+  "intro-subtitle": "오늘 봇 문제를 해결하세요."
 }

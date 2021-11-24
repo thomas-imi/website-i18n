@@ -459,5 +459,9 @@
   "what-is-hcaptcha": "Apa itu hCaptcha?",
   "what-is-hcaptcha-text": "hCaptcha membantu layanan web favorit Anda mencegah bot, spam, dan penyalahgunaan dengan mengajukan pertanyaan sederhana yang mudah bagi manusia dan sulit untuk mesin.",
   "why-hc": "Mengapa hCaptcha?",
-  "why-hc-text": "Setiap kali Anda menjawab tantangan, kami menggunakan model yang canggih untuk mengetahui apakah Anda manusia atau mesin. Situs web yang Anda kunjungi kemudian menggunakan hasil ini untuk membantu meningkatkan pengalaman Anda di situs mereka dengan mencegah bot."
+  "why-hc-text": "Setiap kali Anda menjawab tantangan, kami menggunakan model yang canggih untuk mengetahui apakah Anda manusia atau mesin. Situs web yang Anda kunjungi kemudian menggunakan hasil ini untuk membantu meningkatkan pengalaman Anda di situs mereka dengan mencegah bot.",
+  "footer-link-5b": "tekan",
+  "footer-link-cyberattacks": "Serangan siber 101",
+  "header-enterprise-link": "Perusahaan",
+  "intro-subtitle": "Selesaikan masalah bot Anda hari ini."
 }
