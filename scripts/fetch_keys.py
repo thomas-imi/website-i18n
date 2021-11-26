@@ -11,6 +11,7 @@ from bs4 import BeautifulSoup
 import requests
 import json
 import sys
+from collections import OrderedDict
 
 sitemap_uri = sys.argv[1]
 
@@ -32,13 +33,13 @@ def run(playwright, url):
     context = browser.new_context()
     page = context.new_page()
     page.goto(url)
-    result = page.evaluate("JSON.stringify(tKeys)")
+    result = page.evaluate("JSON.stringify(tKeys).replaceAll('XXXHHH', '')")
     browser.close()
     return result
 
 array = parser_sitemap_xml(sitemap_uri)
 
-deduped_dict = {}
+deduped_dict = OrderedDict()
 
 with sync_playwright() as playwright:
     for url in array:
