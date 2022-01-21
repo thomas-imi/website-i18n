@@ -12,6 +12,9 @@ lerna-debug.log*
 # JetBrains IDEs
 .idea
 
+# Visual Studio Code IDE
+.vscode
+
 # Dependency directories
 **/node_modules/
 
